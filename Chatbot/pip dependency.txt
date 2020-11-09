@@ -1,2 +1,3 @@
 pip install yfinance
 pip install --upgrade google-cloud-storage
+pip install tabulate
