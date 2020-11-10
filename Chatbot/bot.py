@@ -221,20 +221,17 @@ def getPred(update, context, stock):
     model.compile(loss=tf.losses.MeanSquaredError(),
                 optimizer=tf.optimizers.Adam(),
                 metrics=[tf.metrics.MeanAbsoluteError()])
-    context.bot.send_message(chat_id=update.effective_chat.id, text='📈 Plotting shuffled samples for {}.\n\n⌛⌛⌛ Please allow approximately 3 seconds. '.format(stock))
+    # context.bot.send_message(chat_id=update.effective_chat.id, text='📈 Plotting shuffled samples for {}.\n\n⌛⌛⌛ Please allow approximately 3 seconds. '.format(stock))
     IN_STEPS = 180 # approximately 6 months
     OUT_STEPS = 30 # approximately 1 month
     data = WindowGenerator(input_width=IN_STEPS,
                                label_width=OUT_STEPS,
                                shift=OUT_STEPS,
                                label_columns=[stock])
-    ax = data.plot(model, stock)
-    plt.savefig('linear{}Plot.png'.format(stock), bbox_inches = 'tight', pad_inches = 0.1)
-    context.bot.send_photo(chat_id=update.effective_chat.id, photo = open('linear{}Plot.png'.format(stock), 'rb'))
-    # 1. Test out sample predictions title
-    # 2. Test out prediction on colab
-    # 3. Print out predictions table
-    # 4. Plot prediction while changing axis
+    # ax = data.plot(model, stock)
+    # plt.savefig('linear{}Plot.png'.format(stock), bbox_inches = 'tight', pad_inches = 0.1)
+    # context.bot.send_photo(chat_id=update.effective_chat.id, photo = open('linear{}Plot.png'.format(stock), 'rb'))
+
     context.bot.send_message(chat_id=update.effective_chat.id, text='📈 Plotting next predictions for next 30 days from latest date for {}.\n\n⌛⌛⌛ Please allow approximately 5 seconds. '.format(stock))
     prediction = model.predict(data.test)
     tomorrow = df.iloc[-1]["Date"] + datetime.timedelta(days=1)
@@ -303,8 +300,6 @@ def help(update, context):
     context.bot.send_message(chat_id=update.effective_chat.id, text='''
 *Commands:*
 /start - Start the conversation
-/join - Join mailing list
-/upload - Upload CV for pre-assessment
 /help - See this again
 ''', parse_mode=telegram.ParseMode.MARKDOWN)
 
