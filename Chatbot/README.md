@@ -13,8 +13,10 @@
 # FAANG Telegram Bot
 Search `@BC3409_FAANG_Bot` in Telegram. 
 
-[comment:] <> bot description: This bot helps one gain quick insight with the 5 FAANG stocks: Facebook, Amazon, Apple, Netflix, Google. Type /start to begin!
-[comment:] <> about text: This bot gives quick insights to the top 5 FAANG stocks using live data.
+<!---
+bot description: This bot helps one gain quick insight with the 5 FAANG stocks: Facebook, Amazon, Apple, Netflix, Google. Type /start to begin!
+about text: This bot gives quick insights to the top 5 FAANG stocks using live data.
+--> 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/tonyngmk/bc3409project/main/Chatbot/readme_pictures/faangBotPicture.png" />
