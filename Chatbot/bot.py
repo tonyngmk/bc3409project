@@ -120,7 +120,7 @@ def getPrice(update, context, stock):
     global df
     user = update.message.from_user
     logger.info("User {} has selected to 'Stocks Prices' for {}".format(user.first_name, stock))
-    context.bot.send_message(chat_id=update.effective_chat.id, text='⬇ The latest 10 days of data for {} is being populated.'.format(stock))
+    context.bot.send_message(chat_id=update.effective_chat.id, text='⬇ The latest 10 days of data for {} is being populated.'.format(stock), reply_markup=ReplyKeyboardRemove())
     priceTable = df[["Date", stock]].tail(10)
     priceTable["Date"] = priceTable["Date"].dt.date
     priceTable = priceTable.set_index("Date").to_markdown()
@@ -167,7 +167,7 @@ def getRec(update, context, stock):
     user = update.message.from_user
     logger.info("User {} has selected to 'Recommendations' for {}".format(user.first_name, stock))
     recTable = dfRecommendations[(dfRecommendations["stock_symbol"] == stock) & (dfRecommendations["Date"] > lastYear)].sort_values('Date')
-    context.bot.send_message(chat_id=update.effective_chat.id, text='⬇ The latest 10 recommendations for {} is being populated.'.format(stock))
+    context.bot.send_message(chat_id=update.effective_chat.id, text='⬇ The latest 10 recommendations for {} is being populated.'.format(stock), reply_markup=ReplyKeyboardRemove())
     recTableTail = recTable[["Date", "Firm", "To Grade", "stock_symbol"]].tail(10)
     recTableTail.columns = ["Date", "Firm", "Grade", "Stock"]
     recTableTail["Date"] = recTableTail["Date"].dt.date
@@ -216,7 +216,7 @@ def getPred(update, context, stock):
     global df
     user = update.message.from_user
     logger.info("User {} has selected to 'Predictions' for {}".format(user.first_name, stock))
-    context.bot.send_message(chat_id=update.effective_chat.id, text='📐 Loading Model for {}.\n\n⌛⌛⌛ Please allow approximately 3 seconds. '.format(stock))
+    context.bot.send_message(chat_id=update.effective_chat.id, text='📐 Loading Model for {}.\n\n⌛⌛⌛ Please allow approximately 3 seconds. '.format(stock), reply_markup=ReplyKeyboardRemove())
     model = keras.models.load_model("linear{}".format(stock), compile = False)
     model.compile(loss=tf.losses.MeanSquaredError(),
                 optimizer=tf.optimizers.Adam(),
@@ -239,38 +239,55 @@ def getPred(update, context, stock):
     prediction = model.predict(data.test)
     tomorrow = df.iloc[-1]["Date"] + datetime.timedelta(days=1)
     faangDict = {'FB':0, 'AMZN':1, 'AAPL':2, 'NFLX':3, 'GOOGL':4}
-    predDf = pd.DataFrame([i[0] for i in prediction[faangDict[stock]]], 
+    predDf = pd.DataFrame([i[0] for i in prediction[0]], 
               index = pd.date_range(tomorrow, periods=30))
     predDf.columns = ["Prediction"]
     fig, ax = plt.subplots(figsize=(30,15))
-    df.iloc[-180:, :][["Date", stock]].set_index("Date").plot(figsize=(30,15), ax=ax,
-                                                               marker='.', zorder=-10)
-    predDf.plot(figsize=(30,15), ax=ax, marker='X',
-                        c='#ff7f0e', ms=10)
+    plotDf = df.iloc[-180:, :][["Date", stock]].set_index("Date")
+    # scaler = StandardScaler()
+    # plotDf[stock] = scaler.fit_transform(plotDf)
+    plotDf.plot(figsize=(30,15), ax=ax, marker='.', zorder=-10)
+    # scaler = StandardScaler()
+    # predDf["Prediction"] = scaler.fit_transform(predDf)
+    predDf.plot(figsize=(30,15), ax=ax, marker='X', c='#ff7f0e', ms=10)
     ax.tick_params(axis="y", labelsize=20)
     ax.tick_params(axis='x', labelsize=20)
     ax.set_title('Prediction of {} for Next 30 Days'.format(stock), fontsize = 26)
     ax.set_ylabel('{} [normalized]'.format(stock), fontsize = 22)
     ax.set_xlabel('Date'.format(stock), fontsize = 22)
     plt.legend(prop={'size': 20})
-
     plt.savefig('linear{}Prediction.png'.format(stock), bbox_inches = 'tight', pad_inches = 0.1)
     context.bot.send_photo(chat_id=update.effective_chat.id, photo = open('linear{}Prediction.png'.format(stock), 'rb'))
-
     ax.clear()
-    
+    predDf = predDf.to_markdown()
+    context.bot.send_message(chat_id=update.effective_chat.id, text='🔢 Please see the following table populated of predictions for the next 30 days for {}.'.format(stock))
+    context.bot.send_message(chat_id=update.effective_chat.id, text='<pre>{}</pre>'.format(predDf), parse_mode=telegram.ParseMode.HTML)
+    kb = [[telegram.KeyboardButton('➡ Learn More ({})'.format(stock))],
+          [telegram.KeyboardButton('🏠 Main Menu (FAANG)')],
+          [telegram.KeyboardButton('/No')]]
+    kb_markup = telegram.ReplyKeyboardMarkup(kb, one_time_keyboard=True)
+    update.message.reply_text("🚀 That is all. Do you want to continue learning more about {} or return to main menu to all FAANG stocks? 🚀\n\n Alternatively, type /No anywhere to cancel.".format(stock), reply_markup=kb_markup)  
+
 def facebookPred(update, context):
     stock = 'FB'
     getPred(update, context, stock)
     return REPEATOREXIT
 def amazonPred(update, context):
-    pass
+    stock = 'AMZN'
+    getPred(update, context, stock)
+    return REPEATOREXIT
 def applePred(update, context):
-    pass
+    stock = 'AAPL'
+    getPred(update, context, stock)
+    return REPEATOREXIT
 def netflixPred(update, context):
-    pass
+    stock = 'NFLX'
+    getPred(update, context, stock)
+    return REPEATOREXIT
 def googlePred(update, context):
-    pass
+    stock = 'GOOGL'
+    getPred(update, context, stock)
+    return REPEATOREXIT
 
 def cancel(update, context):
     user = update.message.from_user
