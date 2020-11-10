@@ -134,6 +134,7 @@ def getPrice(update, context, stock):
     ax.set_xlabel('Date', fontsize = 20)
     ax.legend(prop={'size': 20})
     plt.savefig('{}PricePlot.png'.format(stock), bbox_inches = 'tight', pad_inches = 0.1)
+    ax.clear()
     context.bot.send_photo(chat_id=update.effective_chat.id, photo = open("{}PricePlot.png".format(stock), 'rb'))
     kb = [[telegram.KeyboardButton('➡ Learn More ({})'.format(stock))],
           [telegram.KeyboardButton('🏠 Main Menu (FAANG)')],
