@@ -7,8 +7,8 @@ from telegram import (ReplyKeyboardMarkup, ReplyKeyboardRemove)
 import logging
 import json
 from datetime import datetime, timedelta
+import datetime
 import os
-from oauth2client.service_account import ServiceAccountCredentials
 from pprint import pprint
 import pandas as pd
 import re
@@ -16,7 +16,12 @@ import pickle
 import yfinance as yf
 from sklearn.preprocessing import StandardScaler
 import matplotlib.pyplot as plt
-import datetime
+import matplotlib as mpl
+import numpy as np
+import tensorflow as tf
+import keras
+import windowDataset
+from windowDataset import getData, WindowGenerator
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
                      level=logging.INFO)
@@ -61,6 +66,7 @@ def getData():
     # dfRecommendations.to_csv('recommendations.csv',index = False)
     # dfRecommendations
     dfRecommendations = pd.read_csv("recommendations.csv")# Read from cache to reduce time taken
+    dfRecommendations["Date"] = pd.to_datetime(dfRecommendations["Date"]) # convert string to datetime format
     return df, a, b, c, dfRecommendations
 
 def start(update, context):
@@ -162,24 +168,101 @@ def getRec(update, context, stock):
     logger.info("User {} has selected to 'Recommendations' for {}".format(user.first_name, stock))
     recTable = dfRecommendations[(dfRecommendations["stock_symbol"] == stock) & (dfRecommendations["Date"] > lastYear)].sort_values('Date')
     context.bot.send_message(chat_id=update.effective_chat.id, text='⬇ The latest 10 recommendations for {} is being populated.'.format(stock))
-    recTableTail = recTable[["Date", "Firm", "To Grade", "From Grade"]].tail(10)
+    recTableTail = recTable[["Date", "Firm", "To Grade", "stock_symbol"]].tail(10)
+    recTableTail.columns = ["Date", "Firm", "Grade", "Stock"]
     recTableTail["Date"] = recTableTail["Date"].dt.date
     recTableTail = recTableTail.set_index("Date").to_markdown()
     context.bot.send_message(chat_id=update.effective_chat.id, text='<pre>{}</pre>'.format(recTableTail), parse_mode=telegram.ParseMode.HTML)
+    context.bot.send_message(chat_id=update.effective_chat.id, text='⬇ The latest 365 days of recommendations for {} is being plotted. \n\n⌛⌛⌛ Please allow approximately 10 seconds. '.format(stock))
+    values = recTable['To Grade'].value_counts(ascending=True)
+    color = mpl.cm.inferno_r(np.linspace(.25, .8, len(values)))
+    ax = values.plot.barh(color = color, figsize = (25, 15))
+    ax.tick_params(axis="y", labelsize=22)
+    ax.tick_params(axis='x', labelsize=22)
+    ax.set_title('Recommendations Count for {} for the past 365 days'.format(stock), fontsize = 26)
+    ax.set_ylabel('Receommendations', fontsize = 24)
+    ax.set_xlabel('Frequency of Recommendations', fontsize = 24)
+    plt.savefig('{}RecPlot.png'.format(stock), bbox_inches = 'tight', pad_inches = 0.1)
+    ax.clear()
+    context.bot.send_photo(chat_id=update.effective_chat.id, photo = open("{}RecPlot.png".format(stock), 'rb'))
+    kb = [[telegram.KeyboardButton('➡ Learn More ({})'.format(stock))],
+          [telegram.KeyboardButton('🏠 Main Menu (FAANG)')],
+          [telegram.KeyboardButton('/No')]]
+    kb_markup = telegram.ReplyKeyboardMarkup(kb, one_time_keyboard=True)
+    update.message.reply_text("🚀 That is all. Do you want to continue learning more about {} or return to main menu to all FAANG stocks? 🚀\n\n Alternatively, type /No anywhere to cancel.".format(stock), reply_markup=kb_markup)  
 
 def facebookRec(update, context):
-    pass
+    stock = 'FB'
+    getRec(update, context, stock)
+    return REPEATOREXIT
 def amazonRec(update, context):
-    pass
+    stock = 'AMZN'
+    getRec(update, context, stock)
+    return REPEATOREXIT
 def appleRec(update, context):
-    pass
+    stock = 'AAPL'
+    getRec(update, context, stock)
+    return REPEATOREXIT
 def netflixRec(update, context):
-    pass
+    stock = 'NFLX'
+    getRec(update, context, stock)
+    return REPEATOREXIT
 def googleRec(update, context):
-    pass
+    stock = 'GOOGL'
+    getRec(update, context, stock)
+    return REPEATOREXIT
+
+def getPred(update, context, stock):
+    global df
+    user = update.message.from_user
+    logger.info("User {} has selected to 'Predictions' for {}".format(user.first_name, stock))
+    context.bot.send_message(chat_id=update.effective_chat.id, text='📐 Loading Model for {}.\n\n⌛⌛⌛ Please allow approximately 3 seconds. '.format(stock))
+    model = keras.models.load_model("linear{}".format(stock), compile = False)
+    model.compile(loss=tf.losses.MeanSquaredError(),
+                optimizer=tf.optimizers.Adam(),
+                metrics=[tf.metrics.MeanAbsoluteError()])
+    context.bot.send_message(chat_id=update.effective_chat.id, text='📈 Plotting shuffled samples for {}.\n\n⌛⌛⌛ Please allow approximately 3 seconds. '.format(stock))
+    IN_STEPS = 180 # approximately 6 months
+    OUT_STEPS = 30 # approximately 1 month
+    data = WindowGenerator(input_width=IN_STEPS,
+                               label_width=OUT_STEPS,
+                               shift=OUT_STEPS,
+                               label_columns=[stock])
+    ax = data.plot(model, stock)
+    plt.savefig('linear{}Plot.png'.format(stock), bbox_inches = 'tight', pad_inches = 0.1)
+    context.bot.send_photo(chat_id=update.effective_chat.id, photo = open('linear{}Plot.png'.format(stock), 'rb'))
+    # 1. Test out sample predictions title
+    # 2. Test out prediction on colab
+    # 3. Print out predictions table
+    # 4. Plot prediction while changing axis
+    context.bot.send_message(chat_id=update.effective_chat.id, text='📈 Plotting next predictions for next 30 days from latest date for {}.\n\n⌛⌛⌛ Please allow approximately 5 seconds. '.format(stock))
+    prediction = model.predict(data.test)
+    tomorrow = df.iloc[-1]["Date"] + datetime.timedelta(days=1)
+    faangDict = {'FB':0, 'AMZN':1, 'AAPL':2, 'NFLX':3, 'GOOGL':4}
+    predDf = pd.DataFrame([i[0] for i in prediction[faangDict[stock]]], 
+              index = pd.date_range(tomorrow, periods=30))
+    predDf.columns = ["Prediction"]
+    fig, ax = plt.subplots(figsize=(30,15))
+    df.iloc[-180:, :][["Date", stock]].set_index("Date").plot(figsize=(30,15), ax=ax,
+                                                               marker='.', zorder=-10)
+    predDf.plot(figsize=(30,15), ax=ax, marker='X',
+                        c='#ff7f0e', ms=10)
+    ax.tick_params(axis="y", labelsize=20)
+    ax.tick_params(axis='x', labelsize=20)
+    ax.set_title('Prediction of {} for Next 30 Days'.format(stock), fontsize = 26)
+    ax.set_ylabel('{} [normalized]'.format(stock), fontsize = 22)
+    ax.set_xlabel('Date'.format(stock), fontsize = 22)
+    plt.legend(prop={'size': 20})
+
+    plt.savefig('linear{}Prediction.png'.format(stock), bbox_inches = 'tight', pad_inches = 0.1)
+    context.bot.send_photo(chat_id=update.effective_chat.id, photo = open('linear{}Prediction.png'.format(stock), 'rb'))
+
+    ax.clear()
     
 def facebookPred(update, context):
-    pass
+    stock = 'FB'
+    getPred(update, context, stock)
+    return REPEATOREXIT
 def amazonPred(update, context):
     pass
 def applePred(update, context):

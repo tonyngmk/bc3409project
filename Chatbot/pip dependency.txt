@@ -1,3 +1,9 @@
 pip install yfinance
 pip install --upgrade google-cloud-storage
 pip install tabulate
+
+gsutil cp -r gs://bc3409project/linearFB Chatbot
+gsutil cp -r gs://bc3409project/linearAMZN Chatbot
+gsutil cp -r gs://bc3409project/linearAAPL Chatbot
+gsutil cp -r gs://bc3409project/linearNFLX Chatbot
+gsutil cp -r gs://bc3409project/linearGOOGL Chatbot
