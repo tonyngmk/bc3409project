@@ -36,7 +36,7 @@ Search `@BC3409_FAANG_Bot` in Telegram.
 
 ### /start
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tonyngmk/msba_bot/master/diagrams/msba_bot_Start.png" />
+  <img src="https://raw.githubusercontent.com/tonyngmk/bc3409project/main/Chatbot/diagrams/faang_bot.png" />
 </p>
 
 
@@ -65,7 +65,7 @@ As we will be running on AWS EC2 Linux AMI, we can use the *repeat* command on l
 I've tried running on free tier t2 micro and the CPU Credit Usage for 3 bots and is near negligible, so it should be essentially free as well.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tonyngmk/bc3409project/main/Chatbot/diagrams/faang_bot.png" />
+  <img src="https://raw.githubusercontent.com/tonyngmk/my-stoic-telebot/master/cpu_cred_usage.png" />
 </p>
 
 In essence, clone this repo and run **bot.py**. As mentioned, bot.py must continually run for chatbot to work.
