@@ -5,9 +5,23 @@ pip install tabulate
 pipreqs --encoding=utf8 --force
 pip install -r requirements.txt
 
+python3 -m pip install --upgrade pip --user
+git clone https://github.com/tonyngmk/bc3409project.git
+cd bc3409project
+cd Chatbot
+chmod 755 ./bot.py
+python3 -m pip install yfinance --user
+python3 -m pip install --no-cache-dir tensorflow --upgrade --user 
+python3 -m pip install --user pandas
+python3 -m pip install --user matplotlib
+python3 -m pip install --user sklearn
+
+
 gsutil cp -r gs://bc3409project/linearFB Chatbot
 gsutil cp -r gs://bc3409project/linearAMZN Chatbot
 gsutil cp -r gs://bc3409project/linearAAPL Chatbot
 gsutil cp -r gs://bc3409project/linearNFLX Chatbot
 gsutil cp -r gs://bc3409project/linearGOOGL Chatbot
+
+
 
