@@ -17,7 +17,7 @@ Search `@BC3409_FAANG_Bot` in Telegram.
 [comment:] <> about text: This bot gives quick insights to the top 5 FAANG stocks using live data.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tonyngmk/msba_bot/master/readme_pictures/msbaBot.png" />
+  <img src="https://raw.githubusercontent.com/tonyngmk/bc3409project/main/Chatbot/readme_pictures/faangBotPicture.png" />
 </p>
 
 **Highlights in Project:**
