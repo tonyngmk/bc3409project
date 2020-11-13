@@ -22,13 +22,14 @@ import tensorflow as tf
 import keras
 import windowDataset
 from windowDataset import getData, WindowGenerator
+import copy
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
                      level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 lastYear = datetime.datetime.now() - datetime.timedelta(days=365) # Dynamic date of today - 365 days
-df, a, b, c, dfRecommendations = range(5) # dataset
+df, dfScaled, a, b, c, dfRecommendations = range(6) # dataset
 FAANG, FACEBOOK, AMAZON, APPLE, NETFLIX, GOOGLE, REPEATOREXIT = range(7) # states
 
 def getData():
@@ -43,12 +44,13 @@ def getData():
     df["Date"] = pd.to_datetime(df["Date"]) # convert string to datetime format
     stocks = ['FB','AMZN','NFLX','GOOGL','AAPL']
     scaler = StandardScaler()
-    df[stocks] = scaler.fit_transform(df[stocks])
-    train_size = int(df.shape[0]*0.80)
-    val_size = int(df.shape[0]*0.90)
-    a = df.iloc[:train_size, :]
-    b = df.iloc[train_size:val_size, :]
-    c = df.iloc[val_size:, :]
+    dfScaled = copy.deepcopy(df)
+    dfScaled[stocks] = scaler.fit_transform(dfScaled[stocks])
+    train_size = int(dfScaled.shape[0]*0.80)
+    val_size = int(dfScaled.shape[0]*0.90)
+    a = dfScaled.iloc[:train_size, :]
+    b = dfScaled.iloc[train_size:val_size, :]
+    c = dfScaled.iloc[val_size:, :]
     a=a.drop("Date", axis =1)
     b=b.drop("Date", axis =1)
     c=c.drop("Date", axis =1)
@@ -67,14 +69,14 @@ def getData():
     # dfRecommendations
     dfRecommendations = pd.read_csv("recommendations.csv")# Read from cache to reduce time taken
     dfRecommendations["Date"] = pd.to_datetime(dfRecommendations["Date"]) # convert string to datetime format
-    return df, a, b, c, dfRecommendations
+    return df, dfScaled, a, b, c, dfRecommendations
 
 def start(update, context):
     user = update.message.from_user
     logger.info("User {} has started to use FAANG bot".format(user.first_name, update.message.text))
     # context.bot.send_message(chat_id=update.effective_chat.id, text="⌛⌛⌛ Grabbing data, please allow approximately 5s!")
-    global df, a, b, c, dfRecommendations
-    df, a, b, c, dfRecommendations = getData()
+    global df, dfScaled, a, b, c, dfRecommendations
+    df, dfScaled, a, b, c, dfRecommendations = getData()
     context.bot.send_message(chat_id=update.effective_chat.id, text="Connected! ✅ Latest data is at {}".format(df.iloc[-1].Date.strftime('%d-%m-%Y')))
     context.bot.send_message(chat_id=update.effective_chat.id, text="👋👋 Hey there! Welcome to the the FAANG Stocks Chatbot! 🤖")
     context.bot.send_message(chat_id=update.effective_chat.id, text="👩‍💻👩‍💻👩‍💻 **FAANG** refers to the five most popular and best-performing US tech companies: _Facebook, Amazon, Apple, Netflix and Alphabet_.", parse_mode=telegram.ParseMode.MARKDOWN)
@@ -214,7 +216,7 @@ def googleRec(update, context):
     return REPEATOREXIT
 
 def getPred(update, context, stock):
-    global df
+    global dfScaled
     user = update.message.from_user
     logger.info("User {} has selected to 'Predictions' for {}".format(user.first_name, stock))
     context.bot.send_message(chat_id=update.effective_chat.id, text='📐 Loading Model for {}.\n\n⌛⌛⌛ Please allow approximately 3 seconds. '.format(stock), reply_markup=ReplyKeyboardRemove())
@@ -235,13 +237,13 @@ def getPred(update, context, stock):
 
     context.bot.send_message(chat_id=update.effective_chat.id, text='📈 Plotting next predictions for next 30 days from latest date for {}.\n\n⌛⌛⌛ Please allow approximately 5 seconds. '.format(stock))
     prediction = model.predict(data.test)
-    tomorrow = df.iloc[-1]["Date"] + datetime.timedelta(days=1)
+    tomorrow = dfScaled.iloc[-1]["Date"] + datetime.timedelta(days=1)
     faangDict = {'FB':0, 'AMZN':1, 'AAPL':2, 'NFLX':3, 'GOOGL':4}
     predDf = pd.DataFrame([i[0] for i in prediction[0]], 
               index = pd.date_range(tomorrow, periods=30))
     predDf.columns = ["Prediction"]
     fig, ax = plt.subplots(figsize=(30,15))
-    plotDf = df.iloc[-180:, :][["Date", stock]].set_index("Date")
+    plotDf = dfScaled.iloc[-180:, :][["Date", stock]].set_index("Date")
     # scaler = StandardScaler()
     # plotDf[stock] = scaler.fit_transform(plotDf)
     plotDf.plot(figsize=(30,15), ax=ax, marker='.', zorder=-10)
