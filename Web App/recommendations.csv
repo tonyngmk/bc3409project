@@ -1,0 +1,2388 @@
+Date,Firm,To Grade,From Grade,Action,stock_symbol
+2012-06-22 07:56:00,Nomura,Buy,,init,FB
+2012-06-27 05:39:00,JP Morgan,Overweight,,init,FB
+2012-06-27 05:41:00,Bank of America,Neutral,,init,FB
+2012-06-27 05:44:00,Citigroup,Neutral,,init,FB
+2012-06-27 05:58:00,Credit Suisse,Neutral,,init,FB
+2012-06-27 06:41:00,Barclays,Equal-Weight,,init,FB
+2012-06-27 06:50:00,RBC Capital,Outperform,,init,FB
+2012-06-27 07:27:00,Raymond James,Market Perform,,init,FB
+2012-06-27 09:40:00,Cowen & Co.,Neutral,,init,FB
+2012-06-27 10:04:00,Pacific Crest,Sector Perform,,init,FB
+2012-06-29 06:50:00,Macquarie,Neutral,,init,FB
+2012-07-27 08:35:00,Wedbush,Outperform,,main,FB
+2012-07-27 08:55:00,Sterne Agee,Buy,,main,FB
+2012-07-31 06:51:00,Bernstein,Market Perform,Underperform,up,FB
+2012-08-01 14:18:00,Topeka,Buy,,main,FB
+2012-08-09 13:15:00,Ascendiant Capital,Buy,,main,FB
+2012-08-20 08:01:00,Capstone,Buy,Hold,up,FB
+2012-08-31 06:42:00,Bank of America,Neutral,,main,FB
+2012-09-04 07:02:00,JP Morgan,Overweight,,main,FB
+2012-09-04 16:10:00,Jefferies,Buy,,init,FB
+2012-09-07 12:55:00,Barclays,Equal-Weight,,main,FB
+2012-09-21 06:12:00,Deutsche Bank,Hold,,init,FB
+2012-09-21 06:28:00,Cantor Fitzgerald,Buy,,init,FB
+2012-09-24 08:41:00,Goldman Sachs,Buy,,main,FB
+2012-09-24 09:29:00,Pivotal Research,Buy,,main,FB
+2012-10-05 10:36:00,JP Morgan,Overweight,,main,FB
+2012-10-08 08:40:00,BTIG Research,Sell,Neutral,down,FB
+2012-10-16 07:46:00,Nomura,Buy,,main,FB
+2012-10-18 08:52:00,Sterne Agee,Buy,,main,FB
+2012-10-24 05:51:00,Citigroup,Buy,Neutral,up,FB
+2012-10-24 06:39:00,Bank of America,Buy,Neutral,up,FB
+2012-10-24 07:26:00,Jefferies,Buy,,main,FB
+2012-10-24 07:30:00,Deutsche Bank,Hold,,main,FB
+2012-10-24 08:13:00,Stifel Nicolaus,Buy,Hold,up,FB
+2012-10-24 09:03:00,Goldman Sachs,Buy,,main,FB
+2012-10-24 12:27:00,Barclays,Equal-Weight,,main,FB
+2012-10-26 11:29:00,Macquarie,Outperform,Neutral,up,FB
+2012-11-19 08:49:00,PiperJaffray,Overweight,,main,FB
+2012-11-26 07:52:00,Bernstein,Outperform,Market Perform,up,FB
+2012-11-26 09:08:00,BTIG Research,Neutral,Sell,up,FB
+2012-11-26 11:13:00,Topeka,Buy,,main,FB
+2012-11-27 12:16:00,Nomura,Buy,,main,FB
+2012-12-19 07:47:38,Cantor Fitzgerald,Buy,,main,FB
+2012-12-31 07:54:50,BMO Capital,Outperform,Underperform,up,FB
+2012-12-31 08:27:16,Stifel Nicolaus,Buy,,main,FB
+2013-01-02 08:09:50,JP Morgan,Overweight,,main,FB
+2013-01-02 09:20:51,Morgan Stanley,Overweight,,main,FB
+2013-01-07 09:28:51,Pivotal Research,Hold,Buy,down,FB
+2013-01-14 06:40:08,Deutsche Bank,Buy,Hold,up,FB
+2013-01-14 10:11:31,Oppenheimer,Outperform,,main,FB
+2013-01-16 09:18:08,Goldman Sachs,Buy,,main,FB
+2013-01-22 09:42:50,Topeka,Buy,,main,FB
+2013-01-28 08:06:24,Raymond James,Outperform,Market Perform,up,FB
+2013-01-29 07:42:25,Credit Suisse,Neutral,,main,FB
+2013-01-31 06:44:02,Citigroup,Neutral,Buy,down,FB
+2013-01-31 07:44:24,Jefferies,Hold,Buy,down,FB
+2013-01-31 08:00:02,BMO Capital,Market Perform,Outperform,down,FB
+2013-01-31 08:14:09,Stifel,Hold,Buy,down,FB
+2013-01-31 08:25:57,Stifel Nicolaus,Hold,Buy,down,FB
+2013-01-31 11:51:18,Pivotal Research,Buy,Hold,up,FB
+2013-02-11 16:22:56,Bernstein,Market Perform,Outperform,down,FB
+2013-02-12 11:20:40,BTIG Research,Sell,Neutral,down,FB
+2013-02-19 10:35:42,Global Equities Research,Equal-Weight,,main,FB
+2013-03-19 08:11:05,JMP Securities,Market Perform,,init,FB
+2013-04-03 15:21:51,Tigress Financial,Buy,,init,FB
+2013-04-05 06:20:08,Oracle Investment Research,Strong Buy,,init,FB
+2013-04-05 07:44:38,Argus Capital,Buy,Hold,up,FB
+2013-04-26 07:40:15,Raymond James,Strong Buy,,up,FB
+2013-05-30 06:19:50,Jefferies,Buy,Hold,up,FB
+2013-05-30 07:52:59,BMO Capital,Outperform,Market Perform,up,FB
+2013-06-10 07:52:38,Stifel Nicolaus,Buy,Hold,up,FB
+2013-06-21 07:26:30,UBS,Buy,Neutral,up,FB
+2013-07-10 16:29:10,Susquehanna,Neutral,,init,FB
+2013-07-16 07:55:11,SunTrust Robinson Humphrey,Buy,,init,FB
+2013-07-25 06:35:12,BTIG Research,Neutral,Sell,up,FB
+2013-07-25 07:00:00,JMP Securities,Outperform,Market Perform,up,FB
+2013-07-25 08:10:01,Credit Suisse,Neutral,,main,FB
+2013-07-25 08:33:14,CLSA,Buy,,main,FB
+2013-07-25 08:37:31,Barclays,Equal-Weight,,main,FB
+2013-07-25 09:13:15,UBS,Buy,,main,FB
+2013-07-25 09:26:29,Evercore Partners,Overweight,Equal-Weight,up,FB
+2013-07-25 14:27:42,Pivotal Research,Buy,,main,FB
+2013-07-25 14:27:54,Susquehanna,Neutral,,main,FB
+2013-07-25 14:28:41,Cowen & Co.,Market Perform,,main,FB
+2013-07-25 14:31:20,Oppenheimer,Outperform,,main,FB
+2013-07-25 14:31:32,Macquarie,Outperform,,main,FB
+2013-07-25 14:31:44,Stifel Nicolaus,Buy,,main,FB
+2013-07-25 14:32:41,Raymond James,Strong Buy,,main,FB
+2013-07-25 14:32:59,Wedbush,Outperform,,main,FB
+2013-07-25 14:33:27,Needham,Buy,,main,FB
+2013-07-25 14:33:46,Jefferies,Buy,,main,FB
+2013-07-25 14:34:05,JP Morgan,Overweight,,main,FB
+2013-07-25 14:34:31,RBC Capital,Outperform,,main,FB
+2013-07-25 14:34:47,Goldman Sachs,Buy,,main,FB
+2013-07-25 14:35:11,BMO Capital,Outperform,,main,FB
+2013-08-05 07:11:54,PiperJaffray,Overweight,,main,FB
+2013-08-19 09:41:15,Evercore Partners,Overweight,,main,FB
+2013-08-20 07:38:53,Janney Capital,Buy,,init,FB
+2013-08-30 07:48:35,Stifel Nicolaus,Buy,,main,FB
+2013-09-05 10:46:59,Pivotal Research,Buy,,main,FB
+2013-09-05 11:40:02,Oracle Investment Research,Hold,Strong Buy,down,FB
+2013-09-06 06:44:58,SunTrust Robinson Humphrey,Buy,,main,FB
+2013-09-12 07:58:13,JP Morgan,Overweight,,main,FB
+2013-09-12 08:04:53,JP Morgan,Overweight,,main,FB
+2013-09-18 11:12:14,Wedbush,Outperform,,main,FB
+2013-09-19 07:00:00,CRT Capital,Buy,,init,FB
+2013-09-20 06:54:45,Cowen & Co.,Outperform,Market Perform,up,FB
+2013-09-24 06:45:07,Citigroup,Buy,Neutral,up,FB
+2013-09-25 06:26:15,Canaccord Genuity,Buy,,init,FB
+2013-09-25 08:34:57,Oppenheimer,Outperform,,main,FB
+2013-09-26 06:24:44,Jefferies,Buy,,main,FB
+2013-09-27 07:03:22,Deutsche Bank,Buy,,main,FB
+2013-10-03 06:31:42,Pivotal Research,Hold,Buy,down,FB
+2013-10-03 16:00:00,Macquarie,Outperform,,main,FB
+2013-10-04 06:45:30,Sterne Agee,Buy,,main,FB
+2013-10-07 07:15:50,Raymond James,Strong Buy,Outperform,down,FB
+2013-10-07 07:52:32,Topeka,Buy,,main,FB
+2013-10-07 16:00:00,Atlantic Equities,Overweight,,init,FB
+2013-10-15 06:43:56,Evercore Partners,Overweight,,main,FB
+2013-10-28 07:34:21,Credit Suisse,Neutral,,main,FB
+2013-10-30 16:23:24,BTIG Research,Buy,Neutral,up,FB
+2013-10-31 07:28:57,BMO Capital,Market Perform,Outperform,down,FB
+2013-10-31 08:28:15,Stifel Nicolaus,Buy,,main,FB
+2013-10-31 08:40:46,Deutsche Bank,Buy,,main,FB
+2013-10-31 09:08:33,SunTrust Robinson Humphrey,Buy,,main,FB
+2013-10-31 09:16:47,Credit Suisse,Neutral,,main,FB
+2013-11-01 07:28:41,Argus Capital,Buy,,up,FB
+2013-11-01 10:34:14,Citigroup,Buy,,main,FB
+2013-11-05 10:31:53,Goldman Sachs,Buy,,main,FB
+2013-11-21 06:27:06,FBR Capital,Outperform,,init,FB
+2013-11-27 15:27:27,S&P Capital IQ,Buy,Hold,up,FB
+2013-12-02 13:06:13,JP Morgan,Overweight,,main,FB
+2013-12-17 16:00:00,Susquehanna,Positive,Neutral,up,FB
+2013-12-23 09:25:40,Cantor Fitzgerald,Buy,,main,FB
+2014-01-06 06:47:50,Morgan Stanley,Overweight,,main,FB
+2014-01-06 06:56:35,SunTrust Robinson Humphrey,Buy,,main,FB
+2014-01-10 07:02:53,Stifel Nicolaus,Buy,,main,FB
+2014-01-13 08:39:36,JMP Securities,Market Outperform,,main,FB
+2014-01-14 08:05:39,FBN Securities,Outperform,,init,FB
+2014-01-15 07:31:36,Nomura,Buy,,init,FB
+2014-01-16 08:00:00,Raymond James,Outperform,,main,FB
+2014-01-21 16:00:00,Cowen & Co.,Outperform,,main,FB
+2014-01-30 06:37:45,Credit Suisse,Neutral,,main,FB
+2014-01-30 06:47:56,Morgan Stanley,Overweight,,main,FB
+2014-01-30 07:00:22,Bank of America,Buy,,main,FB
+2014-01-30 07:28:25,Stifel Nicolaus,Buy,,main,FB
+2014-01-30 07:29:07,CRT Capital,Buy,,main,FB
+2014-01-30 08:44:09,Nomura,Buy,,main,FB
+2014-02-20 16:00:00,Evercore Partners,Equal-weight,Overweight,down,FB
+2014-02-26 08:00:00,Cowen & Co.,Outperform,,main,FB
+2014-03-05 07:09:42,Stifel,Buy,,main,FB
+2014-03-10 08:00:00,UBS,Buy,,main,FB
+2014-03-11 08:00:00,Citigroup,Buy,,reit,FB
+2014-03-17 07:25:18,Argus Capital,Hold,,down,FB
+2014-04-09 08:19:18,Susquehanna,Positive,,main,FB
+2014-04-10 07:24:09,Pivotal Research,Buy,Hold,up,FB
+2014-04-10 22:36:50,Deutsche Bank,Buy,,main,FB
+2014-04-21 16:22:33,Credit Suisse,Outperform,Neutral,up,FB
+2014-04-24 01:00:57,Canaccord Genuity,Buy,,main,FB
+2014-04-24 01:37:28,CRT Capital,Buy,,main,FB
+2014-04-24 01:40:01,Credit Suisse,Outperform,,main,FB
+2014-04-24 02:43:18,Jefferies,Buy,,main,FB
+2014-04-24 03:12:24,JMP Securities,Market Outperform,,main,FB
+2014-04-24 06:47:26,Bank of America,Buy,,main,FB
+2014-04-24 06:51:57,Stifel Nicolaus,Buy,,main,FB
+2014-05-22 06:15:58,Evercore Partners,Overweight,Equal-weight,up,FB
+2014-06-26 06:26:55,Barclays,Overweight,,init,FB
+2014-07-09 10:03:08,Tigress Financial,Neutral,Buy,down,FB
+2014-07-24 20:19:26,Barclays,Overweight,,main,FB
+2014-07-24 20:19:28,Canaccord Genuity,Buy,,main,FB
+2014-07-24 20:19:29,Credit Suisse,Outperform,,main,FB
+2014-07-24 21:26:41,Deutsche Bank,Buy,,main,FB
+2014-07-24 21:31:35,Jefferies,Buy,,main,FB
+2014-07-24 21:31:37,JMP Securities,Market Outperform,,main,FB
+2014-07-24 22:15:05,JP Morgan,Overweight,,main,FB
+2014-07-24 22:15:08,Macquarie,Outperform,,main,FB
+2014-07-24 22:37:35,Nomura,Buy,,main,FB
+2014-07-24 22:37:37,Raymond James,Outperform,,main,FB
+2014-07-24 23:31:50,UBS,Buy,,main,FB
+2014-08-27 07:26:20,Janney Capital,Neutral,Buy,down,FB
+2014-10-09 08:30:00,Nomura,Buy,,main,FB
+2014-10-10 09:00:00,Susquehanna,Positive,,main,FB
+2014-10-13 08:30:00,PiperJaffray,Market Outperform,,main,FB
+2014-10-13 09:00:00,JMP Securities,Market Outperform,,main,FB
+2014-10-14 16:00:00,Credit Suisse,Outperform,,main,FB
+2014-10-20 08:00:00,Shanghai Securities,Buy,,init,FB
+2014-10-27 08:30:00,"Monness, Crespi, Hardt",Buy,,init,FB
+2014-10-28 08:53:27,Canaccord Genuity,Buy,,main,FB
+2014-10-28 08:59:18,JMP Securities,Market Outperform,,main,FB
+2014-10-28 09:42:05,Stifel Nicolaus,Buy,,main,FB
+2014-10-29 09:00:00,Stifel Nicolaus,Buy,,main,FB
+2014-10-29 11:42:25,FBN Securities,Outperform,,main,FB
+2014-10-31 09:52:36,Tigress Financial,Buy,Neutral,up,FB
+2014-11-03 07:43:54,Morgan Stanley,Overweight,,init,FB
+2014-11-18 08:41:03,Hilliard Lyons,Long-term Buy,,init,FB
+2014-12-05 00:00:00,MKM Partners,Buy,,init,FB
+2014-12-19 09:00:00,Citigroup,Buy,,main,FB
+2015-01-05 04:41:35,Bank of America,Buy,,main,FB
+2015-01-22 13:56:58,Societe Generale,Sell,,init,FB
+2015-01-29 09:00:00,Stifel Nicolaus,Buy,,main,FB
+2015-03-02 07:14:30,Axiom Capital,Buy,,init,FB
+2015-03-16 16:19:01,Brean Capital,Buy,,init,FB
+2015-03-17 04:49:39,Nomura,Buy,,main,FB
+2015-03-23 08:11:28,JMP Securities,Market Outperform,,main,FB
+2015-03-23 09:00:00,JMP Securities,Market Outperform,,main,FB
+2015-04-02 09:00:00,Citigroup,Buy,,main,FB
+2015-04-21 09:27:47,Cleveland Research,Buy,,init,FB
+2015-04-23 09:00:00,JP Morgan,Overweight,,main,FB
+2015-06-04 04:35:50,Evercore ISI Group,Buy,,main,FB
+2015-06-17 05:10:09,Brean Capital,Buy,,main,FB
+2015-06-18 08:08:56,JMP Securities,Outperform,,main,FB
+2015-06-26 05:55:43,Mizuho,Buy,,init,FB
+2015-07-01 06:24:26,Cantor Fitzgerald,Buy,,main,FB
+2015-07-13 08:41:02,Pivotal Research,Buy,,main,FB
+2015-07-27 06:33:50,SunTrust Robinson Humphrey,Buy,,main,FB
+2015-07-30 04:07:37,Credit Suisse,Outperform,,main,FB
+2015-07-30 11:00:00,Stifel Nicolaus,Buy,,main,FB
+2015-08-10 16:54:18,Susquehanna,Positive,,init,FB
+2015-09-08 05:38:15,Moffett Nathanson,Buy,,init,FB
+2015-10-09 04:34:45,Credit Suisse,Outperform,,main,FB
+2015-10-30 07:43:35,Jyske Bank,Sell,Buy,down,FB
+2015-11-05 05:16:17,Credit Suisse,Outperform,,main,FB
+2015-11-05 05:36:34,Morgan Stanley,Overweight,,main,FB
+2015-11-05 05:49:51,Barclays,Overweight,,main,FB
+2015-11-05 06:16:45,FBR Capital,Outperform,,main,FB
+2015-11-05 13:30:29,Macquarie,Outperform,,main,FB
+2015-11-05 15:03:52,Stifel Nicolaus,Buy,,main,FB
+2015-11-05 15:34:27,Deutsche Bank,Buy,,main,FB
+2016-01-25 07:42:45,SunTrust Robinson Humphrey,Buy,,main,FB
+2016-01-28 02:15:30,FBR Capital,Outperform,,main,FB
+2016-01-28 02:15:32,Stifel Nicolaus,Buy,,main,FB
+2016-01-28 02:36:43,JP Morgan,Overweight,,main,FB
+2016-01-28 03:14:05,Jefferies,Buy,,main,FB
+2016-01-28 08:44:54,Stifel Nicolaus,Buy,,main,FB
+2016-01-28 09:10:34,Cowen & Co.,Outperform,,main,FB
+2016-01-28 09:11:01,CLSA,Buy,,main,FB
+2016-01-28 09:27:40,Nomura,Buy,,main,FB
+2016-01-28 13:15:01,Deutsche Bank,Buy,,main,FB
+2016-02-10 09:39:56,Jyske Bank,Strong Buy,,init,FB
+2016-04-01 06:59:28,Citigroup,Buy,,main,FB
+2016-04-04 06:22:48,Axiom Capital,Buy,,main,FB
+2016-04-18 05:58:12,Credit Suisse,Outperform,,main,FB
+2016-04-28 04:31:52,Axiom Capital,Buy,,main,FB
+2016-04-28 04:32:32,JP Morgan,Overweight,,main,FB
+2016-04-28 04:34:05,Barclays,Overweight,,main,FB
+2016-04-28 04:36:28,Goldman Sachs,Buy,,main,FB
+2016-04-28 04:38:17,Citigroup,Buy,,main,FB
+2016-04-28 04:42:44,Credit Suisse,Outperform,,main,FB
+2016-04-28 04:43:42,Jefferies,Buy,,main,FB
+2016-04-28 04:43:52,Deutsche Bank,Buy,,main,FB
+2016-04-28 04:44:02,Baird,Outperform,,main,FB
+2016-04-28 04:44:13,JMP Securities,Market Outperform,,main,FB
+2016-04-28 04:45:46,Nomura,Buy,,main,FB
+2016-04-28 04:46:20,Cowen & Co.,Outperform,,main,FB
+2016-04-28 04:46:44,Pivotal Research,Buy,,main,FB
+2016-04-28 04:46:56,Mizuho,Buy,,main,FB
+2016-04-28 04:48:02,Canaccord Genuity,Buy,,main,FB
+2016-04-28 06:34:09,UBS,Buy,,main,FB
+2016-04-28 06:39:06,SunTrust Robinson Humphrey,Buy,,main,FB
+2016-04-28 08:06:07,Susquehanna,Positive,,main,FB
+2016-04-28 08:07:13,Evercore ISI Group,Buy,,main,FB
+2016-04-28 08:08:57,Oppenheimer,Outperform,,main,FB
+2016-04-28 08:51:29,Stifel Nicolaus,Buy,,main,FB
+2016-07-22 07:08:16,BTIG Research,Neutral,Buy,down,FB
+2016-07-28 04:15:56,Credit Suisse,Outperform,,main,FB
+2016-07-28 04:24:17,Goldman Sachs,Buy,,main,FB
+2016-07-28 04:26:10,Morgan Stanley,Overweight,,main,FB
+2016-07-28 04:27:05,RBC Capital,Outperform,,main,FB
+2016-07-28 04:32:51,Wedbush,Outperform,,main,FB
+2016-07-28 04:33:42,Axiom Capital,Buy,,main,FB
+2016-07-28 06:09:48,UBS,Buy,,main,FB
+2016-07-28 07:20:33,Deutsche Bank,Buy,,main,FB
+2016-07-28 07:35:53,Monness Crespi Hardt,Neutral,Buy,down,FB
+2016-07-28 07:39:49,CLSA,Buy,,main,FB
+2016-07-28 07:43:50,BMO Capital,Market Perform,,main,FB
+2016-07-28 07:44:55,Oppenheimer,Outperform,,main,FB
+2016-07-28 08:05:09,Wells Fargo,Overweight,,main,FB
+2016-07-28 10:46:52,William Blair,Outperform,,main,FB
+2016-07-28 10:47:18,Citigroup,Buy,,main,FB
+2016-07-28 11:39:22,Jefferies,Buy,,main,FB
+2016-07-28 11:55:50,JMP Securities,Market Outperform,,main,FB
+2016-07-28 11:59:45,Pacific Crest,Buy,,main,FB
+2016-09-07 12:05:13,Morgan Stanley,Overweight,,main,FB
+2016-09-19 03:22:57,Citigroup,Buy,,main,FB
+2016-09-23 06:09:34,Loop Capital,Buy,,init,FB
+2016-09-27 07:10:43,JP Morgan,Overweight,,main,FB
+2016-10-17 08:14:35,Credit Suisse,Outperform,,main,FB
+2016-11-03 09:49:07,Wedbush,Outperform,,main,FB
+2016-11-03 10:23:01,UBS,Buy,,main,FB
+2016-11-03 11:07:01,Jefferies,Buy,,main,FB
+2016-11-03 11:28:15,JMP Securities,Market Outperform,,main,FB
+2016-11-03 11:28:16,Canaccord Genuity,Buy,,main,FB
+2016-11-03 11:31:27,BMO Capital,Market Perform,,main,FB
+2016-11-03 11:50:36,Cowen & Co.,Outperform,,main,FB
+2016-11-03 11:54:04,RBC Capital,Outperform,,main,FB
+2016-11-03 12:02:58,Cantor Fitzgerald,Buy,,main,FB
+2016-11-03 12:46:39,BTIG Research,Neutral,Buy,down,FB
+2016-11-03 12:48:57,Wells Fargo,Outperform,,main,FB
+2017-01-03 15:35:50,Aegis Capital,Buy,,init,FB
+2017-01-13 15:29:27,Raymond James,Strong Buy,Outperform,up,FB
+2017-02-02 14:10:45,Pivotal Research,Hold,Buy,down,FB
+2017-03-21 12:50:43,BTIG Research,Buy,Neutral,up,FB
+2017-03-28 21:21:39,Barclays,Overweight,,init,FB
+2017-04-17 13:15:15,Credit Suisse,Outperform,,main,FB
+2017-07-21 15:48:36,Deutsche Bank,Buy,,main,FB
+2017-07-27 17:37:11,Raymond James,Strong Buy,,main,FB
+2017-07-31 09:54:43,Pivotal Research,Sell,Hold,down,FB
+2017-08-16 12:15:42,SunTrust Robinson Humphrey,Buy,,init,FB
+2017-09-27 15:10:55,Wells Fargo,Outperform,,main,FB
+2017-10-02 20:15:26,Morgan Stanley,Overweight,,main,FB
+2017-10-27 12:35:28,Monness Crespi Hardt,Buy,Neutral,up,FB
+2017-11-02 12:19:13,Citigroup,Buy,,main,FB
+2017-11-02 12:53:48,KeyBanc,Overweight,,main,FB
+2017-11-02 13:45:40,Morgan Stanley,Overweight,,main,FB
+2017-11-02 16:13:23,Barclays,Overweight,,main,FB
+2017-11-02 16:33:16,Oppenheimer,Outperform,,main,FB
+2017-11-02 16:44:00,Credit Suisse,Outperform,,main,FB
+2017-11-02 20:13:09,Canaccord Genuity,Buy,,main,FB
+2017-12-06 14:05:53,Evercore ISI Group,Outperform,,init,FB
+2018-02-01 11:05:31,KeyBanc,Overweight,Overweight,main,FB
+2018-02-01 13:36:51,Barclays,Overweight,Overweight,main,FB
+2018-02-01 14:54:08,Bank of America,Buy,Buy,main,FB
+2018-02-01 14:56:35,Morgan Stanley,Overweight,Overweight,main,FB
+2018-02-01 15:18:06,BMO Capital,Market Perform,Market Perform,main,FB
+2018-02-02 15:02:29,Argus,Buy,,main,FB
+2018-03-22 11:18:54,Stifel Nicolaus,Hold,Hold,main,FB
+2018-03-26 12:33:01,Baird,Outperform,Outperform,main,FB
+2018-03-27 15:19:07,Bank of America,Buy,Buy,main,FB
+2018-04-04 11:29:11,Morgan Stanley,Overweight,Overweight,main,FB
+2018-04-20 12:32:48,Credit Suisse,Outperform,Outperform,main,FB
+2018-04-20 17:40:11,Jefferies,Buy,Buy,main,FB
+2018-04-26 11:40:44,Stifel Nicolaus,Hold,Hold,main,FB
+2018-04-26 12:46:28,Wedbush,Outperform,Outperform,main,FB
+2018-04-26 12:57:04,Morgan Stanley,Overweight,Overweight,main,FB
+2018-04-26 13:17:25,Barclays,Overweight,Overweight,main,FB
+2018-04-26 13:35:09,Credit Suisse,Outperform,Outperform,main,FB
+2018-04-26 13:51:52,Raymond James,Strong Buy,Strong Buy,main,FB
+2018-04-26 14:16:45,UBS,Buy,Buy,main,FB
+2018-04-26 21:52:36,Stifel Nicolaus,Buy,Hold,up,FB
+2018-04-27 13:16:05,Argus,Buy,Buy,main,FB
+2018-05-05 13:32:14,Argus,Buy,,main,FB
+2018-07-11 11:49:27,Nomura,Buy,,init,FB
+2018-07-13 13:52:14,Cowen & Co.,Outperform,Outperform,main,FB
+2018-07-13 16:38:28,Barclays,Overweight,Overweight,main,FB
+2018-07-16 12:52:53,Credit Suisse,Outperform,Outperform,main,FB
+2018-07-20 11:31:06,Stifel Nicolaus,Buy,Buy,main,FB
+2018-07-25 14:18:42,BMO Capital,Market Perform,Market Perform,main,FB
+2018-07-26 11:23:08,KeyBanc,Overweight,Overweight,main,FB
+2018-07-26 11:40:18,Stifel Nicolaus,Buy,Buy,main,FB
+2018-07-26 11:50:50,Raymond James,Outperform,Strong Buy,down,FB
+2018-07-26 12:13:51,Morgan Stanley,Overweight,Overweight,main,FB
+2018-07-26 12:26:07,UBS,Neutral,Buy,down,FB
+2018-07-26 13:11:51,Nomura,Neutral,Buy,down,FB
+2018-07-26 13:19:20,Credit Suisse,Outperform,Outperform,main,FB
+2018-07-27 11:43:48,JMP Securities,Market Outperform,Market Outperform,main,FB
+2018-07-27 12:41:01,JP Morgan,Overweight,Overweight,main,FB
+2018-07-27 13:23:14,Edward Jones,Hold,Buy,down,FB
+2018-09-04 12:35:51,Moffett Nathanson,Neutral,Buy,down,FB
+2018-10-03 18:27:19,Argus,Buy,Buy,main,FB
+2018-10-08 11:54:43,Credit Suisse,Outperform,Outperform,main,FB
+2018-10-12 11:24:06,Morgan Stanley,Overweight,Overweight,main,FB
+2018-10-16 11:32:16,Citigroup,Buy,Buy,main,FB
+2018-10-24 11:29:18,Bank of America,Buy,Buy,main,FB
+2018-10-31 13:20:20,KeyBanc,Overweight,Overweight,main,FB
+2018-10-31 13:29:53,Canaccord Genuity,Buy,Buy,main,FB
+2018-10-31 13:43:52,Deutsche Bank,Buy,Buy,main,FB
+2018-10-31 14:18:11,Citigroup,Buy,Buy,main,FB
+2018-10-31 14:45:01,BMO Capital,Market Perform,Market Perform,main,FB
+2018-10-31 14:51:34,Nomura,Neutral,Neutral,main,FB
+2018-10-31 15:17:53,Raymond James,Outperform,Outperform,main,FB
+2018-10-31 16:46:37,Morgan Stanley,Overweight,Overweight,main,FB
+2018-11-01 15:19:28,Argus,Buy,Buy,main,FB
+2018-12-06 11:49:17,Stifel Nicolaus,Hold,Buy,down,FB
+2018-12-06 12:55:33,Guggenheim,Neutral,,init,FB
+2018-12-20 21:23:09,Tigress Financial,Buy,Buy,reit,FB
+2019-01-31 12:14:16,Morgan Stanley,Overweight,Overweight,main,FB
+2019-01-31 12:16:11,Canaccord Genuity,Buy,Buy,main,FB
+2019-01-31 12:18:42,Deutsche Bank,Buy,Buy,main,FB
+2019-01-31 12:40:31,Nomura,Neutral,Neutral,main,FB
+2019-01-31 15:39:06,Raymond James,Outperform,Outperform,main,FB
+2019-03-11 10:38:58,Nomura,Buy,Neutral,up,FB
+2019-03-18 12:01:32,Needham,Hold,Buy,down,FB
+2019-03-18 12:15:02,Bank of America,Buy,Buy,reit,FB
+2019-04-04 11:13:51,Guggenheim,Buy,Neutral,up,FB
+2019-04-09 12:43:36,Morgan Stanley,Overweight,Overweight,main,FB
+2019-04-25 10:22:58,UBS,Buy,Neutral,up,FB
+2019-04-25 12:01:36,Wedbush,Outperform,Outperform,main,FB
+2019-04-25 12:16:05,KeyBanc,Overweight,Overweight,main,FB
+2019-04-25 12:29:02,Canaccord Genuity,Buy,Buy,main,FB
+2019-04-25 12:56:22,Morgan Stanley,Overweight,Overweight,main,FB
+2019-04-25 13:17:19,Deutsche Bank,Buy,Buy,main,FB
+2019-04-25 13:40:23,Barclays,Overweight,Overweight,main,FB
+2019-04-25 14:43:11,BMO Capital,Market Perform,Market Perform,main,FB
+2019-04-25 15:16:32,Nomura,Buy,Buy,main,FB
+2019-04-25 15:37:20,JMP Securities,Market Outperform,Market Outperform,main,FB
+2019-04-25 15:43:50,Raymond James,Outperform,Outperform,main,FB
+2019-04-26 16:03:39,Argus Research,Buy,Buy,main,FB
+2019-04-30 10:25:52,DZ Bank,Buy,Hold,up,FB
+2019-05-29 12:14:51,Pivotal Research,Buy,,init,FB
+2019-06-11 12:46:40,Moffett Nathanson,Buy,Neutral,up,FB
+2019-06-27 13:35:50,Deutsche Bank,Buy,,main,FB
+2019-07-25 10:07:32,KeyBanc,Overweight,,main,FB
+2019-07-25 10:54:00,Deutsche Bank,Buy,,main,FB
+2019-07-25 10:55:30,Citi,Buy,,main,FB
+2019-07-25 11:29:08,Jefferies,Buy,,main,FB
+2019-07-25 11:35:49,Nomura,Buy,,main,FB
+2019-07-25 12:00:31,Morgan Stanley,Overweight,,main,FB
+2019-07-25 12:09:05,Canaccord Genuity,Buy,,main,FB
+2019-07-25 12:29:13,Credit Suisse,Outperform,,main,FB
+2019-07-25 12:31:00,Mizuho,Buy,,main,FB
+2019-07-25 12:36:25,Monness Crespi Hardt,Buy,,main,FB
+2019-07-25 12:58:40,Baird,Outperform,,main,FB
+2019-09-27 14:21:34,Summit Insights Group,Buy,,init,FB
+2019-10-28 13:49:48,Stifel Nicolaus,Hold,,main,FB
+2019-10-29 12:44:40,Credit Suisse,Outperform,,main,FB
+2019-10-31 11:37:02,Nomura,Buy,,main,FB
+2019-10-31 11:43:39,Morgan Stanley,Overweight,,main,FB
+2019-10-31 11:50:20,UBS,Buy,,main,FB
+2019-10-31 12:42:47,Wedbush,Outperform,,main,FB
+2019-10-31 12:44:17,Credit Suisse,Outperform,,main,FB
+2019-10-31 12:45:33,SunTrust Robinson Humphrey,Buy,,main,FB
+2019-10-31 12:46:36,BMO Capital,Market Perform,,main,FB
+2019-10-31 12:47:52,Mizuho,Buy,,main,FB
+2019-10-31 12:48:59,Barclays,Overweight,,main,FB
+2019-10-31 12:53:58,Stifel Nicolaus,Hold,,main,FB
+2019-11-05 12:20:52,Daiwa Capital,Buy,Outperform,up,FB
+2019-12-03 11:28:03,Piper Jaffray,Overweight,,init,FB
+2019-12-05 12:09:46,HSBC,Reduce,,init,FB
+2019-12-05 12:25:30,Stifel Nicolaus,Buy,Hold,up,FB
+2019-12-18 15:45:33,Deutsche Bank,Buy,,reit,FB
+2020-01-10 12:41:26,Bernstein,Outperform,,init,FB
+2020-01-17 13:00:38,UBS,Buy,,main,FB
+2020-01-21 13:31:16,Morgan Stanley,Overweight,,main,FB
+2020-01-22 15:49:43,Pivotal Research,Buy,,main,FB
+2020-01-24 11:08:49,KeyBanc,Overweight,,main,FB
+2020-01-24 14:12:30,Credit Suisse,Outperform,,main,FB
+2020-01-27 12:24:00,Stifel,Buy,,main,FB
+2020-01-29 11:16:12,Raymond James,Strong Buy,Outperform,up,FB
+2020-01-30 11:01:10,KeyBanc,Overweight,,main,FB
+2020-01-30 11:14:43,Pivotal Research,Hold,Buy,down,FB
+2020-01-30 11:42:34,Susquehanna,Positive,,main,FB
+2020-01-30 11:47:10,Credit Suisse,Outperform,,main,FB
+2020-01-30 11:49:00,RBC Capital,Outperform,,main,FB
+2020-01-30 12:34:26,SunTrust Robinson Humphrey,Buy,,main,FB
+2020-01-30 12:52:08,Rosenblatt,Buy,,main,FB
+2020-01-30 12:58:00,UBS,Buy,,main,FB
+2020-01-30 13:07:16,B of A Securities,Buy,,reit,FB
+2020-01-30 17:11:07,Oppenheimer,Outperform,,main,FB
+2020-02-11 11:35:25,Pivotal Research,Sell,Hold,down,FB
+2020-02-28 09:39:55,Edward Jones,Buy,Hold,up,FB
+2020-03-17 15:27:04,Wedbush,Outperform,,main,FB
+2020-03-18 16:39:53,JP Morgan,Overweight,,main,FB
+2020-03-26 15:48:08,Citigroup,Buy,,main,FB
+2020-03-30 13:21:35,UBS,Buy,,main,FB
+2020-03-30 19:18:03,Morgan Stanley,Overweight,,main,FB
+2020-04-16 12:40:52,MKM Partners,Buy,,main,FB
+2020-04-20 15:25:39,Credit Suisse,Outperform,,main,FB
+2020-04-21 13:48:47,Mizuho,Buy,,main,FB
+2020-04-21 16:18:00,UBS,Buy,,main,FB
+2020-04-29 14:47:06,BMO Capital,Market Perform,,main,FB
+2020-04-30 10:15:08,Pivotal Research,Hold,Sell,up,FB
+2020-04-30 11:05:26,Baird,Outperform,,main,FB
+2020-04-30 11:40:01,Rosenblatt,Buy,,main,FB
+2020-04-30 12:04:35,JMP Securities,Market Outperform,,main,FB
+2020-04-30 12:08:52,Raymond James,Strong Buy,,reit,FB
+2020-04-30 12:14:20,MKM Partners,Buy,,main,FB
+2020-04-30 12:25:31,Mizuho,Buy,,main,FB
+2020-04-30 12:28:05,B of A Securities,Buy,,reit,FB
+2020-04-30 12:45:08,Morgan Stanley,Overweight,,main,FB
+2020-04-30 12:56:51,Stifel,Buy,,main,FB
+2020-04-30 13:07:11,Credit Suisse,Outperform,,main,FB
+2020-04-30 13:22:50,Oppenheimer,Outperform,,main,FB
+2020-04-30 13:37:07,UBS,Buy,,main,FB
+2020-04-30 13:52:56,Nomura Instinet,Buy,,main,FB
+2020-04-30 15:12:15,Guggenheim,Buy,,main,FB
+2020-04-30 16:13:15,SunTrust Robinson Humphrey,Buy,,main,FB
+2020-04-30 16:39:15,Canaccord Genuity,Buy,,main,FB
+2020-05-21 14:11:46,Stifel,Buy,,main,FB
+2020-06-24 13:56:13,Goldman Sachs,Buy,,main,FB
+2020-07-09 12:34:31,Morgan Stanley,Overweight,,main,FB
+2020-07-20 12:17:01,Credit Suisse,Outperform,,main,FB
+2020-07-28 15:34:17,Mizuho,Buy,,main,FB
+2020-07-28 15:43:56,Deutsche Bank,Buy,,main,FB
+2020-07-31 12:01:22,Rosenblatt,Buy,,main,FB
+2020-07-31 12:19:16,Morgan Stanley,Overweight,,main,FB
+2020-07-31 12:27:42,Credit Suisse,Outperform,,main,FB
+2020-07-31 13:44:12,Canaccord Genuity,Buy,,main,FB
+2020-07-31 14:00:00,Raymond James,Strong Buy,,main,FB
+2020-08-04 15:38:59,Argus Research,Buy,,main,FB
+2020-08-05 15:47:21,HSBC,Reduce,,main,FB
+2020-08-24 10:55:12,Citigroup,Buy,,main,FB
+2020-08-24 13:05:58,Jefferies,Buy,,main,FB
+2020-08-25 17:04:35,UBS,Buy,,main,FB
+2020-09-15 08:50:12,KeyBanc,Overweight,,init,FB
+2020-09-18 12:26:34,Morgan Stanley,Overweight,,main,FB
+2020-09-22 16:11:54,Oppenheimer,Outperform,,main,FB
+2020-10-12 12:28:24,Deutsche Bank,Buy,,main,FB
+2020-10-20 12:26:24,Jefferies,Buy,,main,FB
+2020-10-20 12:31:45,Credit Suisse,Outperform,,main,FB
+2020-10-26 08:50:44,KeyBanc,Overweight,,main,FB
+2020-10-28 16:47:21,JP Morgan,Overweight,,main,FB
+2020-10-30 11:53:22,Raymond James,Strong Buy,,main,FB
+2020-10-30 12:45:43,Credit Suisse,Outperform,,main,FB
+2020-10-30 12:50:35,Morgan Stanley,Overweight,,main,FB
+2020-10-30 15:15:15,Canaccord Genuity,Buy,,main,FB
+2020-10-30 17:03:14,Mizuho,Buy,,main,FB
+2020-10-30 17:06:53,Wells Fargo,Overweight,,main,FB
+2020-10-30 17:14:48,Truist Securities,Buy,,main,FB
+2011-12-29 12:47:00,PiperJaffray,,,main,AMZN
+2012-02-15 07:33:00,PiperJaffray,Overweight,,main,AMZN
+2012-02-16 06:17:00,Morgan Stanley,Equal-Weight,,down,AMZN
+2012-04-02 06:06:00,Bank oferica,Neutral,,down,AMZN
+2012-04-27 06:21:00,Bank oferica,Buy,,up,AMZN
+2012-04-27 07:20:00,Benchmark,Buy,,main,AMZN
+2012-04-27 08:09:00,Canaccord Genuity,Hold,,main,AMZN
+2012-04-27 08:18:00,Deutsche Bank,Buy,,main,AMZN
+2012-04-27 08:38:00,JP Morgan,Overweight,,main,AMZN
+2012-04-27 08:41:00,Stifel Nicolaus,Buy,,main,AMZN
+2012-04-27 09:03:00,Goldman Sachs,Buy,,up,AMZN
+2012-04-27 10:29:00,BGC Financial,Hold,,up,AMZN
+2012-04-27 11:37:00,Jefferies,Buy,,main,AMZN
+2012-05-15 06:02:00,Credit Suisse,Outperform,,up,AMZN
+2012-06-06 06:57:00,JP Morgan,Overweight,,main,AMZN
+2012-07-11 07:29:00,BMO Capital,Market Perform,,init,AMZN
+2012-07-17 06:29:00,Lazard,Buy,,init,AMZN
+2012-07-27 07:00:00,Deutsche Bank,Buy,,main,AMZN
+2012-07-27 08:35:00,Oppenheimer,Outperform,,main,AMZN
+2012-08-31 06:45:00,PiperJaffray,Overweight,,main,AMZN
+2012-09-07 06:52:00,Bank of America,Buy,,main,AMZN
+2012-09-11 12:17:00,Barclays,Equal-Weight,,main,AMZN
+2012-09-21 06:23:00,Cantor Fitzgerald,Buy,,init,AMZN
+2012-10-25 13:09:00,Barclays,Equal-Weight,,main,AMZN
+2013-01-07 06:32:45,Morgan Stanley,Overweight,Equal-Weight,up,AMZN
+2013-01-09 06:44:52,Benchmark,Buy,,main,AMZN
+2013-01-18 08:10:53,Pacific Crest,Outperform,Sector Perform,up,AMZN
+2013-01-24 16:03:50,ISI Group,Buy,,init,AMZN
+2013-01-25 08:09:16,Canaccord Genuity,Hold,,main,AMZN
+2013-01-25 10:18:17,ISI Group,Buy,,init,AMZN
+2013-01-28 09:20:47,PiperJaffray,Overweight,,main,AMZN
+2013-01-28 09:40:09,PiperJaffray,Overweight,,main,AMZN
+2013-01-28 16:13:51,BGC Financial,Hold,,main,AMZN
+2013-01-30 07:24:44,Credit Suisse,Outperform,,main,AMZN
+2013-01-30 07:33:57,Jefferies,Buy,,main,AMZN
+2013-01-30 07:39:57,Nomura,Buy,,main,AMZN
+2013-01-30 07:44:46,Credit Agricole,Outperform,Buy,down,AMZN
+2013-01-30 08:07:23,Deutsche Bank,Buy,,main,AMZN
+2013-01-30 10:04:15,Canaccord Genuity,Hold,,main,AMZN
+2013-01-30 10:11:08,Oppenheimer,Outperform,,main,AMZN
+2013-01-30 13:27:05,Barclays,Equal-Weight,,main,AMZN
+2013-02-20 08:05:47,Nomura,Buy,,main,AMZN
+2013-03-14 06:27:32,PiperJaffray,Neutral,Overweight,down,AMZN
+2013-03-19 08:07:44,JMP Securities,Market Perform,,init,AMZN
+2013-04-17 08:05:16,Nomura,Buy,,main,AMZN
+2013-04-22 08:08:33,Bank of America,Buy,,main,AMZN
+2013-04-26 08:01:57,Credit Suisse,Outperform,,main,AMZN
+2013-05-02 09:43:06,Tigress Financial,Buy,,init,AMZN
+2013-05-16 07:58:11,Lazard,Buy,,init,AMZN
+2013-07-09 17:28:31,Citigroup,Buy,,init,AMZN
+2013-07-10 16:11:16,Susquehanna,Positive,,init,AMZN
+2013-07-16 07:53:51,SunTrust Robinson Humphrey,Buy,,init,AMZN
+2013-07-26 07:47:45,Nomura,Buy,,main,AMZN
+2013-07-26 09:05:35,BMO Capital,Market Perform,,main,AMZN
+2013-09-11 06:53:22,Wedbush,Neutral,,init,AMZN
+2013-09-19 07:00:00,CRT Capital,Buy,,init,AMZN
+2013-10-18 07:17:22,UBS,Buy,Neutral,up,AMZN
+2013-10-22 10:45:25,Bank of America,Buy,,main,AMZN
+2013-10-25 07:26:13,Raymond James,Strong Buy,Market Perform,up,AMZN
+2013-10-25 07:58:31,Benchmark,Buy,,main,AMZN
+2013-10-28 07:32:27,Deutsche Bank,Buy,,main,AMZN
+2013-10-28 14:02:30,Standpoint,Sell,,init,AMZN
+2013-11-14 08:32:20,SunTrust Robinson Humphrey,Buy,,main,AMZN
+2013-12-17 06:49:49,Credit Suisse,Outperform,,main,AMZN
+2013-12-31 16:00:00,Citigroup,Buy,,main,AMZN
+2014-01-03 16:00:00,Topeka,Buy,,main,AMZN
+2014-01-06 06:47:14,Morgan Stanley,Overweight,,main,AMZN
+2014-01-10 08:30:00,Susquehanna,Positive,,main,AMZN
+2014-01-14 08:05:09,FBN Securities,Outperform,,init,AMZN
+2014-01-27 16:00:00,Pacific Crest,Outperform,,main,AMZN
+2014-01-31 06:47:28,Benchmark,Buy,,main,AMZN
+2014-01-31 07:34:49,Stifel Nicolaus,Buy,,main,AMZN
+2014-01-31 08:00:00,UBS,Buy,,main,AMZN
+2014-01-31 11:56:12,FBN Securities,Outperform,,main,AMZN
+2014-02-12 16:00:00,UBS,Neutral,Buy,down,AMZN
+2014-04-16 08:04:57,Argus Capital,Buy,Hold,up,AMZN
+2014-04-25 00:34:22,Deutsche Bank,Buy,,main,AMZN
+2014-04-25 02:06:46,JP Morgan,Neutral,,main,AMZN
+2014-04-25 02:39:05,SunTrust Robinson Humphrey,Buy,,main,AMZN
+2014-04-25 03:11:18,UBS,Neutral,,main,AMZN
+2014-04-25 07:09:17,Credit Suisse,Outperform,,main,AMZN
+2014-04-25 08:00:00,Raymond James,Outperform,Strong Buy,down,AMZN
+2014-04-25 23:19:52,Cantor Fitzgerald,Buy,,main,AMZN
+2014-04-30 16:00:00,Edward Jones,Buy,,init,AMZN
+2014-06-26 06:26:54,Barclays,Equal-Weight,,init,AMZN
+2014-07-22 06:20:02,Citigroup,Neutral,Buy,down,AMZN
+2014-07-25 00:22:27,Deutsche Bank,Buy,,main,AMZN
+2014-07-25 00:39:29,Jefferies,Buy,,main,AMZN
+2014-07-25 01:40:55,JP Morgan,Neutral,,main,AMZN
+2014-07-25 02:16:30,UBS,Neutral,,main,AMZN
+2014-07-25 07:28:44,Raymond James,Market Perform,Outperform,down,AMZN
+2014-07-25 20:44:53,Canaccord Genuity,Hold,,main,AMZN
+2014-07-25 20:44:55,Citigroup,Neutral,,main,AMZN
+2014-07-25 21:21:18,CRT Capital,Fair Value,,main,AMZN
+2014-10-10 09:00:00,Susquehanna,Positive,,main,AMZN
+2014-10-13 08:30:00,Bank of America,Buy,,main,AMZN
+2014-10-13 16:00:00,Wolfe Research,,,main,AMZN
+2014-10-24 08:30:00,Benchmark,Buy,,main,AMZN
+2014-10-24 09:00:00,Credit Suisse,Outperform,,main,AMZN
+2014-10-27 08:30:00,"Monness, Crespi, Hardt",Neutral,,init,AMZN
+2014-10-29 07:55:37,Morgan Stanley,Overweight,,init,AMZN
+2014-11-21 00:00:00,Nomura,Buy,,init,AMZN
+2014-11-28 06:10:08,PiperJaffray,Overweight,,main,AMZN
+2015-01-13 00:00:00,Citigroup,Buy,Neutral,up,AMZN
+2015-01-21 15:48:33,BGC Financial,Buy,Hold,up,AMZN
+2015-01-23 08:50:20,Oppenheimer,Outperform,,main,AMZN
+2015-01-27 09:00:00,JP Morgan,Neutral,,main,AMZN
+2015-01-30 09:00:00,Jefferies,Buy,,main,AMZN
+2015-02-19 06:27:35,PiperJaffray,Overweight,,main,AMZN
+2015-03-04 06:05:51,Baird,Outperform,,main,AMZN
+2015-03-09 06:33:13,SunTrust Robinson Humphrey,Neutral,Buy,down,AMZN
+2015-03-09 08:16:28,Axiom Capital,Buy,,init,AMZN
+2015-03-10 09:29:02,Wolfe Research,Outperform,Peer Perform,up,AMZN
+2015-04-14 09:00:00,Jefferies,Buy,,main,AMZN
+2015-04-21 10:08:15,BGC Financial,Hold,Buy,down,AMZN
+2015-04-22 07:53:50,Monness Crespi Hardt,Buy,Neutral,up,AMZN
+2015-04-24 06:20:35,JP Morgan,Overweight,Neutral,up,AMZN
+2015-04-24 06:22:38,Raymond James,Outperform,Market Perform,up,AMZN
+2015-04-24 07:24:11,Janney Capital,Buy,Neutral,up,AMZN
+2015-04-24 09:00:00,Nomura,Buy,,main,AMZN
+2015-05-04 09:00:00,Oppenheimer,Outperform,,main,AMZN
+2015-06-03 04:20:33,PiperJaffray,Overweight,,main,AMZN
+2015-06-15 07:40:39,Canaccord Genuity,Hold,,main,AMZN
+2015-06-25 05:32:43,Evercore ISI Group,,Buy,down,AMZN
+2015-06-26 05:55:43,Mizuho,Buy,,init,AMZN
+2015-07-14 05:21:38,UBS,Buy,Neutral,up,AMZN
+2015-07-15 07:47:17,Nomura,Buy,,main,AMZN
+2015-07-20 06:52:15,Cowen & Co.,Outperform,Market Perform,up,AMZN
+2015-07-20 06:55:08,Wedbush,Outperform,Neutral,up,AMZN
+2015-07-20 06:58:05,Bank of America,Buy,,main,AMZN
+2015-07-22 07:16:53,JMP Securities,Outperform,Market Perform,up,AMZN
+2015-07-24 03:55:43,Barclays,Overweight,Equal-Weight,up,AMZN
+2015-07-24 03:58:28,Morgan Stanley,Overweight,,main,AMZN
+2015-07-24 04:33:36,Wedbush,Outperform,,main,AMZN
+2015-07-24 06:52:30,JP Morgan,Overweight,,main,AMZN
+2015-07-24 08:13:02,Jefferies,Buy,,main,AMZN
+2015-07-24 11:00:00,Canaccord Genuity,Hold,,main,AMZN
+2015-07-29 06:55:57,Stifel Nicolaus,Buy,Hold,up,AMZN
+2015-08-26 06:29:11,Evercore ISI Group,Buy,Hold,up,AMZN
+2015-08-27 06:58:56,Raymond James,Strong Buy,Outperform,up,AMZN
+2015-09-11 06:25:31,RBC Capital,Outperform,,main,AMZN
+2015-10-23 05:40:13,Canaccord Genuity,Hold,,main,AMZN
+2015-10-23 05:40:28,Baird,Buy,,main,AMZN
+2015-10-23 05:46:04,RBC Capital,Outperform,,main,AMZN
+2015-10-23 05:47:57,JP Morgan,Overweight,,main,AMZN
+2015-10-23 05:51:15,JMP Securities,Market Outperform,,main,AMZN
+2015-10-23 06:08:32,Credit Suisse,Outperform,,main,AMZN
+2015-10-23 06:44:30,PiperJaffray,Overweight,,main,AMZN
+2015-10-23 07:32:55,Benchmark,Buy,,main,AMZN
+2015-10-23 10:32:02,Deutsche Bank,Buy,,main,AMZN
+2015-10-23 12:54:05,Jefferies,Buy,,main,AMZN
+2015-10-27 07:24:44,Axiom Capital,Buy,,main,AMZN
+2015-12-01 04:01:39,Barclays,Overweight,,main,AMZN
+2015-12-08 07:24:07,Pacific Crest,Overweight,,init,AMZN
+2015-12-09 08:03:33,Nomura,Buy,,main,AMZN
+2015-12-15 06:55:59,MKM Partners,Buy,,init,AMZN
+2015-12-22 08:51:12,Macquarie,Outperform,,main,AMZN
+2016-01-04 07:48:33,Monness Crespi Hardt,Neutral,Buy,down,AMZN
+2016-01-12 04:26:16,Credit Suisse,Outperform,,main,AMZN
+2016-01-15 07:03:57,Susquehanna,Perform,,init,AMZN
+2016-01-19 11:33:46,Credit Suisse,Outperform,,main,AMZN
+2016-01-29 08:07:08,Benchmark,Buy,,main,AMZN
+2016-02-18 04:21:52,Canaccord Genuity,Buy,Hold,up,AMZN
+2016-02-29 07:35:25,Bernstein,Outperform,,main,AMZN
+2016-03-02 06:36:54,BMO Capital,Outperform,,init,AMZN
+2016-03-22 05:21:20,Raymond James,Outperform,Strong Buy,down,AMZN
+2016-03-29 08:20:53,Stifel Nicolaus,Buy,,main,AMZN
+2016-04-01 06:38:15,Citigroup,Buy,,main,AMZN
+2016-04-07 12:07:31,JP Morgan,Overweight,,main,AMZN
+2016-04-29 04:13:56,Axiom Capital,Buy,,main,AMZN
+2016-04-29 04:21:47,Goldman Sachs,Buy,,main,AMZN
+2016-04-29 04:31:03,Credit Suisse,Outperform,,main,AMZN
+2016-04-29 04:34:47,Citigroup,Buy,,main,AMZN
+2016-05-03 10:43:04,Nomura,Buy,,main,AMZN
+2016-06-10 06:14:21,William Blair,Outperform,,init,AMZN
+2016-06-16 07:53:27,KeyBanc,Overweight,,main,AMZN
+2016-06-23 04:28:32,Maxim Group,Buy,,init,AMZN
+2016-07-21 06:16:56,Goldman Sachs,Buy,,main,AMZN
+2016-07-25 06:16:43,Wedbush,Outperform,,main,AMZN
+2016-07-29 06:43:02,UBS,Buy,,main,AMZN
+2016-07-29 07:05:42,SunTrust Robinson Humphrey,Neutral,,main,AMZN
+2016-07-29 07:16:46,JMP Securities,Market Outperform,,main,AMZN
+2016-07-29 07:17:56,Pacific Crest,Overweight,,main,AMZN
+2016-07-29 07:52:25,CLSA,Outperform,,main,AMZN
+2016-07-29 10:43:09,Citigroup,Buy,,main,AMZN
+2016-07-29 12:58:38,Deutsche Bank,Buy,,main,AMZN
+2016-07-29 13:09:41,Jefferies,Buy,,main,AMZN
+2016-07-29 13:42:10,JP Morgan,Overweight,,main,AMZN
+2016-08-02 13:19:17,MKM Partners,Buy,,main,AMZN
+2016-09-27 07:07:07,JP Morgan,Overweight,,main,AMZN
+2016-09-29 10:00:14,Maxim Group,Buy,,main,AMZN
+2016-09-30 07:09:27,Guggenheim,Buy,,init,AMZN
+2016-09-30 10:37:48,JMP Securities,Market Outperform,,main,AMZN
+2016-10-05 14:51:01,SunTrust Robinson Humphrey,Neutral,,main,AMZN
+2016-10-05 14:51:14,Morgan Stanley,Overweight,,main,AMZN
+2016-10-17 08:14:27,Credit Suisse,Outperform,,main,AMZN
+2016-10-24 07:38:24,Goldman Sachs,Buy,,main,AMZN
+2016-11-01 10:05:32,Axiom Capital,Buy,,main,AMZN
+2016-11-28 12:13:00,Citigroup,Buy,,main,AMZN
+2016-11-28 17:33:08,Citigroup,Buy,,main,AMZN
+2017-01-20 14:16:33,Aegis Capital,Buy,,init,AMZN
+2017-03-28 21:17:15,Barclays,Overweight,,init,AMZN
+2017-03-31 11:17:13,Loop Capital,Buy,,init,AMZN
+2017-04-04 14:25:38,BMO Capital,Outperform,,main,AMZN
+2017-04-10 14:20:59,Needham,Buy,Hold,up,AMZN
+2017-04-20 15:54:55,Wolfe Research,Peer Perform,Outperform,down,AMZN
+2017-04-24 11:51:49,Goldman Sachs,Buy,,main,AMZN
+2017-04-25 13:47:47,Raymond James,Market Perform,,down,AMZN
+2017-04-28 12:21:53,Pacific Crest,Sector Weight,Overweight,down,AMZN
+2017-04-28 12:45:53,Benchmark,Buy,Buy,reit,AMZN
+2017-07-18 13:21:50,Deutsche Bank,Buy,,main,AMZN
+2017-07-20 19:08:50,Morgan Stanley,Overweight,,main,AMZN
+2017-08-16 12:10:53,SunTrust Robinson Humphrey,Buy,,init,AMZN
+2017-09-06 21:12:13,DA Davidson,Buy,,init,AMZN
+2017-09-13 10:19:07,Loop Capital,Buy,,init,AMZN
+2017-10-11 14:37:25,Credit Suisse,Outperform,,main,AMZN
+2017-10-24 11:59:19,Deutsche Bank,Buy,,main,AMZN
+2017-10-27 11:23:07,Raymond James,Outperform,Market Perform,up,AMZN
+2017-10-27 12:11:17,Stifel Nicolaus,Buy,,main,AMZN
+2017-10-27 12:39:14,Citigroup,Buy,,main,AMZN
+2017-10-27 15:47:12,Barclays,Overweight,,main,AMZN
+2017-10-27 16:39:41,Oppenheimer,Outperform,,main,AMZN
+2017-10-27 17:49:45,Loop Capital,Buy,,main,AMZN
+2017-10-27 18:04:09,Canaccord Genuity,Buy,,main,AMZN
+2017-10-27 19:20:41,UBS,Buy,,main,AMZN
+2017-10-30 17:37:20,Citigroup,Buy,,main,AMZN
+2017-11-20 13:05:02,Nomura,Buy,,main,AMZN
+2017-12-04 20:06:44,Moffett Nathanson,Buy,,init,AMZN
+2017-12-06 14:05:24,Evercore ISI Group,Outperform,,init,AMZN
+2018-01-05 13:53:56,Citigroup,Buy,Buy,main,AMZN
+2018-01-23 12:38:23,Loop Capital,Buy,Buy,main,AMZN
+2018-01-26 19:43:29,Morgan Stanley,Overweight,Overweight,main,AMZN
+2018-02-02 13:51:46,PiperJaffray,Overweight,Overweight,main,AMZN
+2018-02-02 14:11:04,Morgan Stanley,Overweight,Overweight,main,AMZN
+2018-02-02 14:46:54,Bank of America,Buy,Buy,main,AMZN
+2018-02-02 15:09:23,Barclays,Overweight,Overweight,main,AMZN
+2018-02-02 15:50:41,JMP Securities,Market Outperform,Market Outperform,main,AMZN
+2018-02-02 16:12:27,Credit Suisse,Outperform,Outperform,main,AMZN
+2018-02-05 12:54:03,Nomura,Buy,Buy,main,AMZN
+2018-02-21 16:03:00,MKM Partners,Buy,Buy,main,AMZN
+2018-04-19 11:51:28,Morgan Stanley,Overweight,Overweight,main,AMZN
+2018-04-20 12:26:42,Credit Suisse,Outperform,Outperform,main,AMZN
+2018-04-27 11:40:04,Stifel Nicolaus,Buy,Buy,main,AMZN
+2018-04-27 12:09:53,Canaccord Genuity,Buy,Buy,main,AMZN
+2018-04-27 12:15:40,JMP Securities,Market Outperform,Market Outperform,main,AMZN
+2018-04-27 13:03:38,Credit Suisse,Outperform,Outperform,main,AMZN
+2018-04-27 13:31:06,Barclays,Overweight,Overweight,main,AMZN
+2018-04-27 14:51:51,Wedbush,Outperform,Outperform,main,AMZN
+2018-05-05 13:32:14,Argus,Buy,Hold,up,AMZN
+2018-05-05 14:00:36,B. Riley FBR,Buy,Neutral,up,AMZN
+2018-05-07 18:05:33,Telsey Advisory Group,Outperform,,init,AMZN
+2018-06-04 14:17:48,SunTrust Robinson Humphrey,Buy,Buy,reit,AMZN
+2018-06-14 12:12:33,DA Davidson,Buy,Buy,main,AMZN
+2018-07-13 13:47:40,Cowen & Co.,Outperform,Outperform,main,AMZN
+2018-07-13 16:35:49,Barclays,Overweight,Overweight,main,AMZN
+2018-07-16 12:50:33,Credit Suisse,Outperform,Outperform,main,AMZN
+2018-07-27 11:38:24,JMP Securities,Market Outperform,Market Outperform,main,AMZN
+2018-07-27 11:52:11,JP Morgan,Overweight,Overweight,main,AMZN
+2018-07-27 13:40:25,PiperJaffray,Overweight,Overweight,main,AMZN
+2018-07-27 13:46:25,BMO Capital,Outperform,Outperform,main,AMZN
+2018-07-27 14:43:15,Wedbush,Outperform,Outperform,main,AMZN
+2018-07-27 14:53:11,Credit Suisse,Outperform,Outperform,main,AMZN
+2018-07-27 15:19:12,Canaccord Genuity,Buy,Buy,main,AMZN
+2018-07-27 15:23:56,Jefferies,Buy,Buy,main,AMZN
+2018-07-27 15:36:14,Morgan Stanley,Overweight,Overweight,main,AMZN
+2018-08-29 11:17:58,Morgan Stanley,Overweight,Overweight,main,AMZN
+2018-09-05 12:48:05,DA Davidson,Buy,Buy,main,AMZN
+2018-09-10 11:11:04,Citigroup,Buy,Buy,main,AMZN
+2018-09-10 12:14:26,Wells Fargo,Outperform,Outperform,main,AMZN
+2018-09-25 12:59:30,Jefferies,Buy,Buy,main,AMZN
+2018-09-27 11:15:02,Stifel Nicolaus,Buy,Buy,main,AMZN
+2018-10-23 13:14:21,Jefferies,Buy,Buy,main,AMZN
+2018-10-26 13:59:52,Barclays,Overweight,Overweight,main,AMZN
+2018-10-26 14:25:22,Bank of America,Buy,Buy,main,AMZN
+2018-10-26 15:36:05,Jefferies,Buy,Buy,main,AMZN
+2019-01-23 12:52:31,Deutsche Bank,Buy,Buy,main,AMZN
+2019-02-01 12:43:38,Deutsche Bank,Buy,Buy,main,AMZN
+2019-02-01 13:01:23,Raymond James,Outperform,Outperform,main,AMZN
+2019-02-01 15:51:35,Pivotal Research,Buy,,init,AMZN
+2019-03-15 10:18:46,KeyBanc,Overweight,Sector Weight,up,AMZN
+2019-03-20 12:27:24,Evercore ISI Group,Outperform,,init,AMZN
+2019-04-08 17:22:01,Societe Generale,Buy,,init,AMZN
+2019-04-26 12:51:30,Goldman Sachs,Buy,Buy,main,AMZN
+2019-04-26 12:57:09,Credit Suisse,Outperform,Outperform,main,AMZN
+2019-04-26 13:03:24,Raymond James,Outperform,Outperform,main,AMZN
+2019-04-26 13:08:09,Benchmark,Buy,Buy,main,AMZN
+2019-04-26 13:13:01,Bank of America,Buy,Buy,main,AMZN
+2019-04-26 13:32:31,Wedbush,Outperform,Outperform,main,AMZN
+2019-04-26 13:37:06,Deutsche Bank,Buy,Buy,main,AMZN
+2019-04-26 13:43:11,Barclays,Overweight,Overweight,main,AMZN
+2019-04-26 13:46:43,Oppenheimer,Outperform,Outperform,main,AMZN
+2019-07-15 12:34:35,Morgan Stanley,Overweight,,main,AMZN
+2019-07-22 10:01:43,KeyBanc,Overweight,,main,AMZN
+2019-07-24 11:49:08,Credit Suisse,Outperform,,main,AMZN
+2019-07-26 11:15:07,Barclays,Overweight,,main,AMZN
+2019-07-26 12:08:24,Mizuho,Buy,,main,AMZN
+2019-07-26 12:45:47,Raymond James,Outperform,,main,AMZN
+2019-07-26 13:00:31,Credit Suisse,Outperform,,main,AMZN
+2019-07-26 13:48:05,Baird,Outperform,,main,AMZN
+2019-09-03 11:14:58,RBC Capital,Outperform,,main,AMZN
+2019-09-23 12:20:47,Morgan Stanley,Overweight,,main,AMZN
+2019-10-21 12:17:20,Bank of America,Buy,,main,AMZN
+2019-10-25 11:32:05,Raymond James,Outperform,,main,AMZN
+2019-10-25 11:33:03,Credit Suisse,Outperform,,main,AMZN
+2019-10-25 11:34:27,Barclays,Overweight,,main,AMZN
+2019-10-25 11:35:30,Piper Jaffray,Overweight,,main,AMZN
+2019-10-25 12:15:22,Morgan Stanley,Overweight,,main,AMZN
+2019-10-25 12:38:25,BMO Capital,Outperform,,main,AMZN
+2019-10-25 12:44:24,MKM Partners,Buy,,main,AMZN
+2019-10-25 13:18:38,Wedbush,Outperform,,main,AMZN
+2019-10-25 13:24:07,Oppenheimer,Outperform,,main,AMZN
+2019-10-25 13:28:39,SunTrust Robinson Humphrey,Buy,,main,AMZN
+2019-10-25 14:05:35,JMP Securities,Market Outperform,,main,AMZN
+2019-11-26 15:11:48,China Renaissance,Hold,,init,AMZN
+2020-01-10 12:40:41,Bernstein,Market Perform,,init,AMZN
+2020-01-16 13:57:33,Morgan Stanley,Overweight,,main,AMZN
+2020-01-17 12:57:21,UBS,Buy,,main,AMZN
+2020-01-22 15:43:30,Pivotal Research,Buy,,main,AMZN
+2020-01-27 12:38:55,Benchmark,Buy,,main,AMZN
+2020-01-29 13:38:08,BMO Capital,Outperform,,main,AMZN
+2020-01-29 13:39:30,Deutsche Bank,Buy,,main,AMZN
+2020-01-31 10:51:43,KeyBanc,Overweight,,main,AMZN
+2020-01-31 12:01:28,Wells Fargo,Overweight,,main,AMZN
+2020-01-31 12:03:27,Credit Suisse,Outperform,,main,AMZN
+2020-01-31 12:04:18,Mizuho,Buy,,main,AMZN
+2020-01-31 12:45:40,Raymond James,Outperform,,main,AMZN
+2020-01-31 12:52:15,UBS,Buy,,main,AMZN
+2020-01-31 13:00:30,Cowen & Co.,Outperform,,main,AMZN
+2020-01-31 13:01:49,Stifel,Buy,,main,AMZN
+2020-01-31 13:04:30,Goldman Sachs,Buy,,main,AMZN
+2020-01-31 13:07:04,JMP Securities,Market Outperform,,main,AMZN
+2020-01-31 13:08:18,Piper Sandler,Overweight,,main,AMZN
+2020-01-31 14:07:57,Baird,Outperform,,main,AMZN
+2020-01-31 15:18:50,DA Davidson,Buy,,reit,AMZN
+2020-01-31 15:28:14,RBC Capital,Outperform,,main,AMZN
+2020-01-31 15:45:43,Morgan Stanley,Overweight,,main,AMZN
+2020-01-31 16:25:47,B of A Securities,Buy,,main,AMZN
+2020-01-31 17:30:30,CFRA,Buy,,main,AMZN
+2020-02-05 12:27:08,Citigroup,Buy,,main,AMZN
+2020-02-13 15:47:00,Aegis Capital,Buy,,main,AMZN
+2020-03-17 15:24:43,Wedbush,Outperform,,main,AMZN
+2020-03-26 12:30:08,Deutsche Bank,Buy,,main,AMZN
+2020-04-15 15:51:56,Baird,Outperform,,main,AMZN
+2020-04-22 15:13:53,Wedbush,Outperform,,main,AMZN
+2020-04-23 13:02:53,Goldman Sachs,Buy,,main,AMZN
+2020-04-24 16:47:00,Stifel,Buy,,main,AMZN
+2020-04-27 12:26:25,Oppenheimer,Outperform,,main,AMZN
+2020-04-27 13:04:49,Credit Suisse,Outperform,,main,AMZN
+2020-04-27 15:06:03,SunTrust Robinson Humphrey,Buy,,main,AMZN
+2020-04-30 13:31:05,Citigroup,Buy,,main,AMZN
+2020-05-01 10:05:54,KeyBanc,Overweight,,main,AMZN
+2020-05-01 10:50:43,RBC Capital,Outperform,,main,AMZN
+2020-05-01 10:52:35,Mizuho,Buy,,main,AMZN
+2020-05-01 10:54:24,Pivotal Research,Buy,,main,AMZN
+2020-05-01 11:27:55,Morgan Stanley,Overweight,,main,AMZN
+2020-05-01 11:39:13,Raymond James,Outperform,,main,AMZN
+2020-05-01 11:51:01,Susquehanna,Positive,,main,AMZN
+2020-05-01 12:07:24,Credit Suisse,Outperform,,main,AMZN
+2020-05-01 12:09:37,B of A Securities,Buy,,reit,AMZN
+2020-05-01 13:02:45,MKM Partners,Buy,,main,AMZN
+2020-05-01 13:09:58,UBS,Buy,,main,AMZN
+2020-05-01 14:41:21,BMO Capital,Outperform,,main,AMZN
+2020-05-01 14:43:59,Benchmark,Buy,,main,AMZN
+2020-05-01 14:47:55,Guggenheim,Buy,,main,AMZN
+2020-05-01 14:51:09,Canaccord Genuity,Buy,,main,AMZN
+2020-05-01 15:51:09,JMP Securities,Market Outperform,,main,AMZN
+2020-05-01 16:56:26,SunTrust Robinson Humphrey,Buy,,main,AMZN
+2020-06-01 12:07:53,Morgan Stanley,Overweight,,main,AMZN
+2020-06-08 13:01:34,RBC Capital,Outperform,,main,AMZN
+2020-06-08 13:14:45,Baird,Outperform,,main,AMZN
+2020-06-17 09:18:13,Needham,Buy,,init,AMZN
+2020-06-26 13:25:53,SunTrust Robinson Humphrey,Buy,,main,AMZN
+2020-06-26 13:27:37,Deutsche Bank,Buy,,main,AMZN
+2020-06-30 13:29:59,Mizuho,Buy,,main,AMZN
+2020-07-07 12:29:20,Baird,Outperform,,main,AMZN
+2020-07-13 10:47:01,Mizuho,Buy,,main,AMZN
+2020-07-20 12:35:47,MKM Partners,Buy,,main,AMZN
+2020-07-24 08:43:27,KeyBanc,Overweight,,main,AMZN
+2020-07-24 12:35:51,Credit Suisse,Outperform,,main,AMZN
+2020-07-27 14:24:28,B of A Securities,Buy,,main,AMZN
+2020-07-30 16:51:52,BMO Capital,Outperform,,main,AMZN
+2020-07-31 08:43:04,KeyBanc,Overweight,,main,AMZN
+2020-07-31 10:59:40,Needham,Buy,,main,AMZN
+2020-07-31 11:41:56,Raymond James,Outperform,,main,AMZN
+2020-07-31 11:46:26,Morgan Stanley,Overweight,,main,AMZN
+2020-07-31 12:48:42,Credit Suisse,Outperform,,main,AMZN
+2020-07-31 13:43:10,Canaccord Genuity,Buy,,main,AMZN
+2020-09-22 10:51:01,Bernstein,Outperform,Market Perform,up,AMZN
+2020-10-01 13:01:42,Pivotal Research,Buy,,main,AMZN
+2020-10-07 10:53:59,Benchmark,Buy,,main,AMZN
+2020-10-09 16:11:58,Mizuho,Buy,,main,AMZN
+2020-10-15 11:33:00,Morgan Stanley,Overweight,,main,AMZN
+2020-10-16 12:15:33,Morgan Stanley,Overweight,,main,AMZN
+2020-10-27 12:40:35,Credit Suisse,Outperform,,main,AMZN
+2020-10-27 16:53:36,Deutsche Bank,Buy,,main,AMZN
+2020-10-30 12:31:05,Credit Suisse,Outperform,,main,AMZN
+2020-10-30 16:53:12,Piper Sandler,Overweight,,main,AMZN
+2020-10-30 17:12:40,Benchmark,Buy,,main,AMZN
+2020-11-03 16:15:15,Citigroup,Buy,,main,AMZN
+2020-11-04 11:58:33,China Renaissance,Buy,Hold,up,AMZN
+2012-04-24 07:05:00,Canaccord Genuity,Sell,,main,NFLX
+2012-04-24 07:22:00,Goldman Sachs,Neutral,,main,NFLX
+2012-04-24 10:14:00,Dougherty,Neutral,,main,NFLX
+2012-05-31 06:33:00,Bank oferica,Underperform,,main,NFLX
+2012-07-25 05:32:00,PiperJaffray,Neutral,Overweight,down,NFLX
+2012-07-25 05:59:00,JP Morgan,Neutral,,main,NFLX
+2012-07-25 06:54:00,SunTrust Robinson Humphrey,Neutral,Buy,down,NFLX
+2012-07-25 07:25:00,Oppenheimer,Outperform,,main,NFLX
+2012-07-25 07:57:00,Citigroup,Buy,,main,NFLX
+2012-07-25 12:28:00,Barclays,Equal-Weight,,main,NFLX
+2012-08-14 13:58:00,Bank of America,Buy,Underperform,up,NFLX
+2012-08-21 07:59:00,Caris & Co.,Average,Below Average,up,NFLX
+2012-09-05 12:17:00,Barclays,Equal-Weight,,main,NFLX
+2012-09-21 06:23:00,Cantor Fitzgerald,Buy,,init,NFLX
+2012-10-08 05:55:00,Morgan Stanley,Overweight,Equal-Weight,up,NFLX
+2012-10-09 05:55:00,Bank of America,Underperform,Buy,down,NFLX
+2012-10-24 07:26:00,Jefferies,Hold,,main,NFLX
+2012-10-24 07:54:00,BMO Capital,Market Perform,,main,NFLX
+2012-10-24 12:30:00,Barclays,Equal-Weight,,main,NFLX
+2012-11-01 05:56:00,Oppenheimer,Perform,Outperform,down,NFLX
+2012-11-16 08:07:00,Albert Fried,Underperform,,init,NFLX
+2012-12-06 09:12:30,Caris & Co.,Below Average,Average,down,NFLX
+2012-12-12 15:27:39,Morgan Stanley,Overweight,,main,NFLX
+2013-01-03 08:22:42,BMO Capital,Market Perform,,main,NFLX
+2013-01-09 10:07:42,Bank of America,Underperform,,main,NFLX
+2013-01-18 08:12:50,Albert Fried & Co.,Underweight,,init,NFLX
+2013-01-18 08:21:17,Janney Capital,Buy,Neutral,up,NFLX
+2013-01-22 09:27:34,National Alliance Securities,Market Perform,,init,NFLX
+2013-01-24 06:29:29,JP Morgan,Overweight,Neutral,up,NFLX
+2013-01-24 07:13:24,Credit Suisse,Neutral,Outperform,down,NFLX
+2013-01-24 07:44:58,BMO Capital,Market Perform,,main,NFLX
+2013-01-24 08:25:14,Lazard,Buy,Neutral,up,NFLX
+2013-01-24 08:26:38,Macquarie,Neutral,Underperform,up,NFLX
+2013-01-24 08:29:33,Goldman Sachs,Neutral,,main,NFLX
+2013-01-24 09:19:16,Oppenheimer,Perform,,main,NFLX
+2013-01-24 09:24:55,Wedbush,Underperform,,main,NFLX
+2013-01-24 10:31:45,Bank of America,Underperform,,main,NFLX
+2013-02-01 09:09:58,Morgan Stanley,Overweight,,main,NFLX
+2013-02-05 08:24:24,BMO Capital,Market Perform,,main,NFLX
+2013-02-13 08:41:44,JP Morgan,Overweight,,main,NFLX
+2013-03-04 14:01:23,RBC Capital,Outperform,,init,NFLX
+2013-03-05 08:25:51,RBC Capital,Outperform,,init,NFLX
+2013-03-26 08:34:04,Pacific Crest,Outperform,,main,NFLX
+2013-04-05 09:43:39,Cantor Fitzgerald,Buy,,main,NFLX
+2013-04-09 16:18:49,PiperJaffray,Neutral,,main,NFLX
+2013-04-10 07:48:48,Evercore Partners,Underweight,,init,NFLX
+2013-04-11 07:51:51,Goldman Sachs,Neutral,,main,NFLX
+2013-04-15 08:37:59,BTIG Research,Buy,,init,NFLX
+2013-04-16 14:08:35,MKM Partners,Buy,,init,NFLX
+2013-04-19 10:11:03,National Alliance,,Market Perform,up,NFLX
+2013-04-23 07:40:41,Barclays,Equal-Weight,,main,NFLX
+2013-04-23 07:41:22,PiperJaffray,Neutral,,main,NFLX
+2013-04-23 07:41:48,Oppenheimer,Market Perform,,main,NFLX
+2013-04-23 07:42:13,Evercore Partners,Underweight,,main,NFLX
+2013-04-23 07:42:46,Wedbush,Underperform,,main,NFLX
+2013-04-23 07:43:00,Janney Capital,Buy,,main,NFLX
+2013-04-23 07:43:29,JP Morgan,Overweight,,main,NFLX
+2013-04-23 08:26:47,BMO Capital,Market Perform,,main,NFLX
+2013-04-23 09:42:19,National Alliance,Buy,Accumulate,up,NFLX
+2013-04-23 14:19:58,Jefferies,Underperform,Hold,down,NFLX
+2013-05-17 07:41:54,Macquarie,Neutral,,main,NFLX
+2013-06-25 07:24:12,Bernstein,Underperform,Market Perform,down,NFLX
+2013-07-09 18:08:48,Citigroup,Neutral,,init,NFLX
+2013-07-19 06:42:45,Northland Securities,Market Perform,Underperform,up,NFLX
+2013-07-23 08:13:52,Pacific Crest,Sector Perform,Outperform,down,NFLX
+2013-07-23 09:29:14,Cantor Fitzgerald,Hold,Buy,down,NFLX
+2013-07-23 10:23:04,Credit Suisse,Neutral,Neutral,main,NFLX
+2013-09-05 08:07:03,RBC Capital,Outperform,,main,NFLX
+2013-09-11 11:36:13,BTIG Research,Neutral,Buy,down,NFLX
+2013-09-12 06:21:50,Morgan Stanley,Equal-Weight,Overweight,down,NFLX
+2013-09-19 07:00:00,CRT Capital,Fair Value,,init,NFLX
+2013-10-01 07:33:59,MKM Partners,Buy,,main,NFLX
+2013-10-10 06:41:55,Needham,Buy,,init,NFLX
+2013-10-14 08:50:58,JP Morgan,Overweight,,main,NFLX
+2013-10-16 07:58:51,Hudson Square,Hold,Buy,down,NFLX
+2013-10-22 07:17:03,Wedbush,Underperform,,main,NFLX
+2013-10-22 07:30:32,Jefferies,Underperform,,main,NFLX
+2013-10-22 07:50:02,JP Morgan,Overweight,,main,NFLX
+2013-10-22 08:00:00,Evercore Partners,Equal-weight,Underweight,up,NFLX
+2013-10-22 12:05:15,Janney Capital,Buy,,main,NFLX
+2013-10-25 08:25:22,FBR Capital,Market Perform,,init,NFLX
+2013-11-01 06:57:17,Baird,Outperform,,up,NFLX
+2013-12-11 07:27:30,Citigroup,Neutral,,main,NFLX
+2014-01-07 06:34:40,Morgan Stanley,Underweight,Equal-weight,down,NFLX
+2014-01-14 08:06:19,FBN Securities,Outperform,,init,NFLX
+2014-01-15 07:32:28,Nomura,Neutral,,init,NFLX
+2014-01-22 08:00:00,CRT Capital,Buy,Fair Value,up,NFLX
+2014-01-23 06:38:31,Credit Suisse,Neutral,,main,NFLX
+2014-01-23 07:38:23,Nomura,Neutral,,main,NFLX
+2014-01-23 16:00:00,S&P Capital IQ,Hold,Sell,up,NFLX
+2014-01-31 08:00:00,Morgan Stanley,Equal-weight,Underweight,up,NFLX
+2014-02-06 07:00:00,Stifel Nicolaus,Buy,Hold,up,NFLX
+2014-02-07 07:27:17,Stifel,Buy,Hold,up,NFLX
+2014-02-24 08:00:00,Needham,Buy,,main,NFLX
+2014-03-11 09:14:35,CRT Capital,Buy,,main,NFLX
+2014-04-07 07:22:47,Oppenheimer,Outperform,Perform,up,NFLX
+2014-04-10 09:42:56,Hudson Square,Buy,Hold,up,NFLX
+2014-04-17 07:14:06,Pacific Crest,Outperform,Sector Perform,up,NFLX
+2014-04-22 00:08:50,FBR Capital,Market Perform,,main,NFLX
+2014-04-22 00:22:14,Jefferies,Underweight,,main,NFLX
+2014-04-22 01:39:35,Pacific Crest,Outperform,,main,NFLX
+2014-04-22 07:19:42,Credit Suisse,Neutral,,main,NFLX
+2014-04-22 07:20:20,Wedbush,Underperform,,main,NFLX
+2014-04-22 07:40:43,Raymond James,Outperform,Market Perform,up,NFLX
+2014-04-22 08:00:00,Cantor Fitzgerald,Buy,Hold,up,NFLX
+2014-04-22 22:39:11,BMO Capital,Market Perform,,main,NFLX
+2014-05-20 06:18:00,Topeka,Buy,,init,NFLX
+2014-06-02 20:46:47,Oppenheimer,Outperform,,main,NFLX
+2014-06-10 06:39:02,Evercore Partners,Overweight,Equal-weight,up,NFLX
+2014-06-26 06:26:57,Barclays,Underweight,,init,NFLX
+2014-07-01 06:24:29,Goldman Sachs,Buy,Neutral,up,NFLX
+2014-07-22 20:01:34,Citigroup,Neutral,,main,NFLX
+2014-07-22 20:01:35,Credit Suisse,Neutral,,main,NFLX
+2014-07-22 20:01:37,FBR Capital,Market Perform,,main,NFLX
+2014-07-22 20:44:23,Jefferies,Underperform,,main,NFLX
+2014-07-22 20:44:25,JP Morgan,Overweight,,main,NFLX
+2014-07-22 21:28:01,Nomura,Neutral,,main,NFLX
+2014-09-10 06:15:43,Canaccord Genuity,Buy,,init,NFLX
+2014-09-10 06:58:08,SunTrust Robinson Humphrey,Neutral,,init,NFLX
+2014-09-12 05:44:36,Barclays,Equal-weight,Underperform,up,NFLX
+2014-10-09 08:30:00,Nomura,Buy,,main,NFLX
+2014-10-14 16:00:00,BTIG Research,Buy,Neutral,up,NFLX
+2014-10-16 05:40:31,Janney Capital,Buy,,main,NFLX
+2014-10-16 05:40:56,Goldman Sachs,Buy,,main,NFLX
+2014-10-16 05:41:18,BMO Capital,Market Perform,,main,NFLX
+2014-10-16 08:30:00,Stifel Nicolaus,Buy,,main,NFLX
+2014-10-16 09:00:00,Topeka,Buy,,main,NFLX
+2014-10-16 16:00:00,Jefferies,Hold,Underperform,up,NFLX
+2014-11-25 00:00:00,Stifel Nicolaus,Hold,Buy,down,NFLX
+2014-12-08 00:00:00,UBS,Neutral,,init,NFLX
+2015-01-14 00:00:00,Stifel,Buy,Hold,up,NFLX
+2015-01-16 05:32:27,Cowen & Co.,Outperform,Market Perform,up,NFLX
+2015-01-21 04:42:38,Morgan Stanley,Overweight,,main,NFLX
+2015-01-21 06:06:26,Nomura,Buy,Neutral,up,NFLX
+2015-01-21 07:11:30,Stifel Nicolaus,Buy,,main,NFLX
+2015-01-21 09:00:00,CRT Capital,Fair Value,,main,NFLX
+2015-01-22 05:05:28,Pivotal Research,Buy,,init,NFLX
+2015-01-22 13:57:58,Societe Generale,Buy,,init,NFLX
+2015-01-30 09:00:00,Stifel Nicolaus,Buy,,main,NFLX
+2015-02-10 09:00:00,JP Morgan,Overweight,,main,NFLX
+2015-02-13 05:23:24,Janney Capital,Buy,,main,NFLX
+2015-03-16 05:07:18,Evercore ISI Group,Sell,Hold,down,NFLX
+2015-03-24 05:02:51,Barclays,Equal-Weight,,main,NFLX
+2015-03-24 09:00:00,Cantor Fitzgerald,Buy,,main,NFLX
+2015-04-09 09:00:00,BMO Capital,Market Perform,,main,NFLX
+2015-04-10 06:15:59,Citigroup,Buy,Neutral,up,NFLX
+2015-04-13 05:39:12,UBS,Buy,Neutral,up,NFLX
+2015-04-14 04:52:00,Credit Suisse,Neutral,,main,NFLX
+2015-04-14 04:53:14,PiperJaffray,Neutral,,main,NFLX
+2015-04-14 09:00:00,SunTrust Robinson Humphrey,Neutral,,main,NFLX
+2015-04-16 05:56:50,Pivotal Research,Buy,,main,NFLX
+2015-04-16 06:43:45,FBR Capital,Outperform,Market Perform,up,NFLX
+2015-04-16 09:00:00,Stifel Nicolaus,Buy,,main,NFLX
+2015-04-27 09:00:00,Stifel Nicolaus,Buy,,main,NFLX
+2015-05-05 06:40:22,Bank of America,Buy,Neutral,up,NFLX
+2015-06-08 09:25:26,Topeka,Buy,,main,NFLX
+2015-06-10 07:36:14,UBS,Buy,,main,NFLX
+2015-06-16 06:38:37,Needham,Buy,,main,NFLX
+2015-06-19 07:37:06,Oppenheimer,Outperform,,main,NFLX
+2015-06-22 07:36:56,BTIG Research,Buy,,main,NFLX
+2015-06-24 12:32:48,Societe Generale,Sell,Buy,down,NFLX
+2015-06-25 06:52:17,Citigroup,Neutral,Buy,down,NFLX
+2015-06-26 05:57:17,Mizuho,Neutral,,init,NFLX
+2015-07-09 04:01:12,Nomura,Buy,,main,NFLX
+2015-07-10 07:53:19,Morgan Stanley,Overweight,,main,NFLX
+2015-07-13 09:24:57,Goldman Sachs,Buy,,main,NFLX
+2015-07-16 07:09:02,SunTrust Robinson Humphrey,Neutral,,main,NFLX
+2015-07-16 08:01:19,Rosenblatt,Buy,Neutral,up,NFLX
+2015-07-16 11:00:00,Barclays,Equal-Weight,,main,NFLX
+2015-07-16 12:08:40,RBC Capital,Outperform,,main,NFLX
+2015-08-03 16:08:00,Guggenheim,Buy,,init,NFLX
+2015-08-10 07:33:26,Stifel Nicolaus,Buy,,main,NFLX
+2015-08-26 07:12:57,RBC Capital,Outperform,,main,NFLX
+2015-09-01 08:16:13,Bank of America,Buy,,main,NFLX
+2015-10-08 17:09:24,BMO Capital,Market Perform,,init,NFLX
+2015-10-15 06:42:54,JP Morgan,Overweight,,main,NFLX
+2015-10-15 06:46:57,Credit Suisse,Neutral,,main,NFLX
+2015-10-15 08:08:53,FBR Capital,Outperform,,main,NFLX
+2016-01-04 04:12:56,Baird,Neutral,Outperform,down,NFLX
+2016-01-14 07:02:18,Drexel Hamilton,Buy,,init,NFLX
+2016-01-14 13:27:18,SunTrust Robinson Humphrey,Neutral,,main,NFLX
+2016-01-20 06:56:54,JP Morgan,Overweight,,main,NFLX
+2016-01-20 07:50:07,Oppenheimer,Outperform,,main,NFLX
+2016-01-20 11:31:13,Jefferies,Hold,,main,NFLX
+2016-02-02 06:25:47,PiperJaffray,Overweight,,up,NFLX
+2016-02-05 09:24:13,Moffett Nathanson,Neutral,,main,NFLX
+2016-02-12 07:21:32,FBR Capital,Market Perform,Outperform,down,NFLX
+2016-04-01 06:18:25,Atlantic Equities,Overweight,Neutral,up,NFLX
+2016-04-01 06:40:02,Citigroup,Neutral,,main,NFLX
+2016-04-07 12:46:11,JP Morgan,Overweight,,main,NFLX
+2016-04-18 07:19:04,Credit Suisse,Neutral,,main,NFLX
+2016-04-19 00:01:00,Morgan Stanley,Overweight,,main,NFLX
+2016-04-19 03:55:19,Goldman Sachs,Buy,,main,NFLX
+2016-04-19 04:09:59,JP Morgan,Overweight,,main,NFLX
+2016-04-19 04:10:00,Credit Suisse,Neutral,,main,NFLX
+2016-04-19 04:44:12,Citigroup,Neutral,,main,NFLX
+2016-04-19 07:37:09,Baird,Neutral,,main,NFLX
+2016-04-19 07:37:21,Cowen & Co.,Outperform,,main,NFLX
+2016-04-19 07:37:41,Mizuho,Neutral,,main,NFLX
+2016-04-19 07:37:57,Pacific Crest,Overweight,,main,NFLX
+2016-04-19 07:38:14,Nomura,Buy,,main,NFLX
+2016-04-19 07:38:29,Pivotal Research,Buy,,main,NFLX
+2016-04-19 09:10:31,Mizuho,Neutral,,main,NFLX
+2016-07-01 07:27:15,Canaccord Genuity,Buy,,init,NFLX
+2016-07-05 08:23:01,Needham,Hold,Buy,down,NFLX
+2016-07-06 07:20:16,Jefferies,Underperform,Hold,down,NFLX
+2016-07-14 12:56:40,SunTrust Robinson Humphrey,Neutral,,main,NFLX
+2016-07-19 05:20:00,JP Morgan,Overweight,,main,NFLX
+2016-07-19 05:20:24,Goldman Sachs,Buy,,main,NFLX
+2016-07-19 05:20:54,Credit Suisse,Neutral,,main,NFLX
+2016-07-19 06:06:34,Citigroup,Neutral,,main,NFLX
+2016-07-19 06:12:52,Wedbush,Underperform,,main,NFLX
+2016-07-19 06:21:57,BMO Capital,Perform,,main,NFLX
+2016-07-19 06:22:25,Cowen & Co.,Outperform,,main,NFLX
+2016-07-19 07:12:30,Morgan Stanley,Overweight,,main,NFLX
+2016-07-19 07:15:26,RBC Capital,Outperform,,main,NFLX
+2016-07-19 07:16:44,Pacific Crest,Overweight,,main,NFLX
+2016-07-19 07:17:54,Nomura,Buy,,main,NFLX
+2016-07-19 07:27:23,Bernstein,Underperform,,main,NFLX
+2016-07-19 07:29:14,Oppenheimer,Outperform,,main,NFLX
+2016-07-19 07:30:03,Jefferies,Underperform,,main,NFLX
+2016-07-19 07:30:36,Cantor Fitzgerald,Buy,,main,NFLX
+2016-07-19 07:53:00,BMO Capital,Market Perform,,main,NFLX
+2016-07-19 08:09:41,SunTrust Robinson Humphrey,Neutral,,main,NFLX
+2016-07-19 08:57:57,PiperJaffray,Overweight,,main,NFLX
+2016-07-19 08:59:40,Macquarie,Neutral,,main,NFLX
+2016-07-19 09:02:32,BTIG Research,Buy,,main,NFLX
+2016-07-19 09:49:11,UBS,Neutral,Buy,down,NFLX
+2016-08-24 23:01:55,William Blair,Market Outperform,Market Perform,up,NFLX
+2016-08-29 07:30:25,Axiom Capital,Sell,,init,NFLX
+2016-09-13 05:52:40,Macquarie,Underperform,Neutral,down,NFLX
+2016-10-04 20:59:00,Loop Capital,Buy,,init,NFLX
+2016-10-05 08:32:11,Loop Capital,Buy,,init,NFLX
+2016-10-10 11:42:09,Deutsche Bank,Sell,,init,NFLX
+2016-10-18 09:33:18,Morgan Stanley,Overweight,,main,NFLX
+2016-10-18 09:33:19,Loop Capital,Buy,,main,NFLX
+2016-10-18 10:09:52,UBS,Neutral,,main,NFLX
+2016-10-18 10:21:38,Wedbush,Underperform,,main,NFLX
+2016-10-18 11:46:45,Baird,Neutral,,main,NFLX
+2016-10-18 11:48:00,Deutsche Bank,Sell,,main,NFLX
+2016-10-18 12:05:52,Citigroup,Neutral,,main,NFLX
+2016-10-18 12:07:23,Credit Suisse,Neutral,,main,NFLX
+2016-10-18 12:08:22,SunTrust Robinson Humphrey,Hold,,main,NFLX
+2016-10-18 12:48:18,Nomura,Buy,,main,NFLX
+2016-11-10 12:58:07,Loop Capital,Buy,,main,NFLX
+2016-11-21 11:12:10,Brean Capital,Buy,,init,NFLX
+2016-12-06 17:49:00,Evercore ISI Group,Hold,Sell,up,NFLX
+2017-01-12 11:12:51,Morgan Stanley,Overweight,Overweight,main,NFLX
+2017-01-13 15:19:52,Deutsche Bank,Hold,Sell,up,NFLX
+2017-01-17 15:18:51,Mizuho,Buy,Neutral,up,NFLX
+2017-01-19 12:57:38,Loop Capital,Buy,Buy,main,NFLX
+2017-01-19 13:11:34,Macquarie,Neutral,Underperform,up,NFLX
+2017-03-06 12:30:10,UBS,Buy,Neutral,up,NFLX
+2017-03-15 13:33:07,Jefferies,Hold,Underperform,up,NFLX
+2017-03-17 15:24:46,Bernstein,Outperform,,init,NFLX
+2017-03-20 10:53:25,Deutsche Bank,Hold,,main,NFLX
+2017-04-04 16:20:08,Rosenblatt,Neutral,,init,NFLX
+2017-04-18 13:32:37,Cantor Fitzgerald,Overweight,Overweight,main,NFLX
+2017-05-25 12:42:08,PiperJaffray,Overweight,Overweight,main,NFLX
+2017-07-17 14:45:09,Nomura,Buy,,main,NFLX
+2017-07-18 12:16:25,Rosenblatt,Buy,Neutral,up,NFLX
+2017-07-18 13:30:53,Credit Suisse,Neutral,,main,NFLX
+2017-09-21 17:00:41,Buckingham,Buy,,init,NFLX
+2017-09-27 11:49:56,Wells Fargo,Outperform,,init,NFLX
+2017-10-04 16:35:35,UBS,Buy,,main,NFLX
+2017-10-09 12:56:43,Loop Capital,Buy,,main,NFLX
+2017-10-12 13:01:56,Stifel Nicolaus,Buy,,main,NFLX
+2017-10-13 13:52:39,Citigroup,Neutral,,main,NFLX
+2017-10-16 14:32:20,Aegis Capital,Hold,,init,NFLX
+2017-10-17 11:07:22,Stifel Nicolaus,Buy,,main,NFLX
+2017-10-17 11:16:02,UBS,Buy,,main,NFLX
+2017-10-17 11:40:17,Loop Capital,Buy,,main,NFLX
+2017-10-17 15:54:28,Buckingham,Buy,,main,NFLX
+2017-10-17 16:35:45,BMO Capital,Market Perform,,main,NFLX
+2017-10-17 16:38:01,Credit Suisse,Neutral,,main,NFLX
+2017-10-17 16:42:26,Citigroup,Neutral,,main,NFLX
+2017-10-17 19:36:33,Baird,Neutral,,main,NFLX
+2017-10-26 15:18:11,Loop Capital,Buy,,main,NFLX
+2017-12-04 14:13:59,Monness Crespi Hardt,Buy,,init,NFLX
+2017-12-06 14:07:56,Evercore ISI Group,In-Line,,init,NFLX
+2018-01-02 12:09:31,Macquarie,Outperform,Neutral,up,NFLX
+2018-01-11 18:56:09,Barclays,Overweight,,init,NFLX
+2018-01-24 14:46:02,Baird,Neutral,Neutral,main,NFLX
+2018-03-07 12:09:46,Stifel Nicolaus,Hold,Buy,down,NFLX
+2018-03-16 17:11:01,Loop Capital,Buy,,init,NFLX
+2018-03-28 12:27:17,Citigroup,Neutral,Neutral,main,NFLX
+2018-04-10 14:40:15,Morgan Stanley,Overweight,Overweight,main,NFLX
+2018-04-10 15:28:42,Raymond James,Outperform,Outperform,main,NFLX
+2018-04-11 13:43:33,JP Morgan,Overweight,Overweight,main,NFLX
+2018-04-13 10:32:35,Deutsche Bank,Buy,Hold,up,NFLX
+2018-04-13 18:59:41,Buckingham,Neutral,Neutral,main,NFLX
+2018-04-17 10:55:39,Stifel Nicolaus,Hold,Hold,main,NFLX
+2018-04-17 11:22:59,KeyBanc,Overweight,Overweight,main,NFLX
+2018-04-17 12:26:13,Wedbush,Underperform,Underperform,main,NFLX
+2018-04-17 12:33:18,Baird,Neutral,Neutral,main,NFLX
+2018-04-17 12:37:09,Buckingham,Neutral,Neutral,main,NFLX
+2018-04-17 12:52:48,Morgan Stanley,Overweight,Overweight,main,NFLX
+2018-04-17 13:06:41,Credit Suisse,Neutral,Neutral,main,NFLX
+2018-04-17 13:18:23,BMO Capital,Market Perform,Market Perform,main,NFLX
+2018-04-17 13:51:58,Canaccord Genuity,Buy,Buy,main,NFLX
+2018-04-17 14:30:32,Bank of America,Buy,Buy,main,NFLX
+2018-05-05 13:32:15,Argus,Hold,,init,NFLX
+2018-05-05 14:00:37,B. Riley FBR,Neutral,Sell,up,NFLX
+2018-05-05 14:00:39,B. Riley FBR,Neutral,Neutral,main,NFLX
+2018-06-20 09:53:22,Monness Crespi Hardt,Buy,Buy,main,NFLX
+2018-06-26 10:07:48,Imperial Capital,Outperform,,init,NFLX
+2018-06-27 12:38:35,Bank of America,Buy,Buy,main,NFLX
+2018-07-09 12:16:41,Barclays,Overweight,Overweight,main,NFLX
+2018-07-11 11:49:44,Nomura,Neutral,,init,NFLX
+2018-07-11 14:13:15,Credit Suisse,Outperform,,init,NFLX
+2018-07-12 10:16:43,UBS,Neutral,Buy,down,NFLX
+2018-07-12 12:58:46,Morgan Stanley,Overweight,Overweight,main,NFLX
+2018-07-13 16:00:12,SunTrust Robinson Humphrey,Hold,Hold,main,NFLX
+2018-07-16 12:03:47,Buckingham,Underperform,Neutral,down,NFLX
+2018-07-17 10:19:53,KeyBanc,Overweight,Overweight,main,NFLX
+2018-07-17 10:33:51,BMO Capital,Outperform,Market Perform,up,NFLX
+2018-07-17 11:24:13,Stifel Nicolaus,Buy,Hold,up,NFLX
+2018-07-17 11:31:57,Credit Suisse,Outperform,Outperform,main,NFLX
+2018-07-17 11:33:37,Canaccord Genuity,Buy,Buy,main,NFLX
+2018-07-17 11:57:21,Macquarie,Outperform,Outperform,main,NFLX
+2018-07-17 12:12:36,Cowen & Co.,Outperform,Outperform,main,NFLX
+2018-07-17 12:19:52,Buckingham,Underperform,Underperform,main,NFLX
+2018-07-17 12:25:16,Deutsche Bank,Hold,Buy,down,NFLX
+2018-07-17 12:48:20,Raymond James,Outperform,Outperform,main,NFLX
+2018-07-17 15:00:01,Wells Fargo,Outperform,Outperform,main,NFLX
+2018-07-17 15:10:12,Bank of America,Buy,Buy,main,NFLX
+2018-07-17 16:57:23,Barclays,Overweight,Overweight,main,NFLX
+2018-08-24 10:58:39,SunTrust Robinson Humphrey,Buy,Hold,up,NFLX
+2018-09-06 13:27:14,RBC Capital,Outperform,Outperform,main,NFLX
+2018-10-12 10:59:23,Stifel Nicolaus,Buy,Buy,main,NFLX
+2018-10-12 11:58:05,Citigroup,Buy,Neutral,up,NFLX
+2018-10-15 13:24:06,Goldman Sachs,Buy,Buy,main,NFLX
+2018-10-17 09:36:12,KeyBanc,Sector Weight,Overweight,down,NFLX
+2018-10-17 11:45:14,Canaccord Genuity,Buy,Buy,main,NFLX
+2018-10-17 11:53:04,BMO Capital,Outperform,Outperform,main,NFLX
+2018-10-17 12:02:54,Citigroup,Buy,Buy,main,NFLX
+2018-10-17 12:38:49,Buckingham,Underperform,Underperform,main,NFLX
+2018-10-17 12:53:15,Imperial Capital,Outperform,Outperform,main,NFLX
+2018-10-17 13:01:52,Raymond James,Outperform,Outperform,main,NFLX
+2018-11-05 13:52:03,Buckingham,Buy,Underperform,up,NFLX
+2019-01-07 14:54:55,Barclays,Overweight,Overweight,main,NFLX
+2019-01-11 11:12:39,UBS,Buy,Neutral,up,NFLX
+2019-01-11 12:20:13,Raymond James,Strong Buy,Outperform,up,NFLX
+2019-01-11 12:44:20,Morgan Stanley,Overweight,Overweight,reit,NFLX
+2019-01-14 14:48:43,JP Morgan,Overweight,Overweight,main,NFLX
+2019-01-18 12:33:33,Morgan Stanley,Overweight,Overweight,main,NFLX
+2019-01-18 12:39:16,Wedbush,Underperform,Underperform,main,NFLX
+2019-01-18 12:52:57,Nomura,Neutral,Neutral,main,NFLX
+2019-01-18 12:56:41,Pivotal Research,Buy,Buy,main,NFLX
+2019-01-18 12:58:13,Raymond James,Strong Buy,Strong Buy,reit,NFLX
+2019-01-18 13:06:21,RBC Capital,Outperform,Outperform,main,NFLX
+2019-01-18 13:07:05,Stifel Nicolaus,Buy,Buy,reit,NFLX
+2019-01-18 13:10:14,Bank of America,Buy,Buy,reit,NFLX
+2019-01-18 13:15:25,Canaccord Genuity,Buy,Buy,main,NFLX
+2019-01-18 13:42:54,Goldman Sachs,Buy,Buy,main,NFLX
+2019-03-08 12:43:41,Buckingham,Neutral,Buy,down,NFLX
+2019-04-02 11:44:54,Rosenblatt,Neutral,,init,NFLX
+2019-04-16 12:23:44,Deutsche Bank,Buy,Hold,up,NFLX
+2019-04-16 13:13:38,BMO Capital,Outperform,Outperform,main,NFLX
+2019-04-17 12:58:34,Buckingham,Neutral,Neutral,main,NFLX
+2019-04-17 13:20:56,Oppenheimer,Outperform,Outperform,main,NFLX
+2019-04-17 13:37:58,Wedbush,Underperform,Underperform,main,NFLX
+2019-04-17 14:01:45,Credit Suisse,Outperform,Outperform,main,NFLX
+2019-04-26 14:02:13,Imperial Capital,Outperform,Outperform,main,NFLX
+2019-06-04 10:25:27,Loop Capital,Buy,Hold,up,NFLX
+2019-07-18 11:41:50,Raymond James,Strong Buy,,main,NFLX
+2019-07-18 12:24:14,Nomura,Neutral,,main,NFLX
+2019-07-18 12:26:42,Wedbush,Underperform,,main,NFLX
+2019-07-18 12:27:23,BMO Capital,Outperform,,main,NFLX
+2019-07-18 12:31:53,Credit Suisse,Outperform,,reit,NFLX
+2019-07-18 12:41:49,Citigroup,Buy,,main,NFLX
+2019-08-29 10:08:37,Imperial Capital,Outperform,,main,NFLX
+2019-09-24 10:17:03,Wells Fargo,Market Perform,,init,NFLX
+2019-09-24 11:28:45,Pivotal Research,Buy,,main,NFLX
+2019-10-07 13:22:51,Evercore ISI Group,In-Line,,main,NFLX
+2019-10-09 13:54:55,Monness Crespi Hardt,Buy,,main,NFLX
+2019-10-09 13:56:53,Rosenblatt,Neutral,,main,NFLX
+2019-10-10 12:33:35,Goldman Sachs,Buy,,main,NFLX
+2019-10-10 13:13:22,UBS,Buy,,main,NFLX
+2019-10-14 11:57:02,Morgan Stanley,Overweight,,main,NFLX
+2019-10-14 12:15:55,Raymond James,Strong Buy,,main,NFLX
+2019-10-17 11:11:00,Macquarie,Neutral,Outperform,down,NFLX
+2019-10-17 11:12:50,Nomura,Neutral,,main,NFLX
+2019-10-17 11:52:35,Guggenheim,Buy,,main,NFLX
+2019-10-17 12:00:17,Wells Fargo,Market Perform,,main,NFLX
+2019-10-17 12:02:29,Bernstein,Outperform,,main,NFLX
+2019-10-17 12:16:49,Piper Jaffray,Overweight,,main,NFLX
+2019-10-17 12:19:23,Cowen & Co.,Outperform,,main,NFLX
+2019-10-17 12:30:09,Bank of America,Buy,,main,NFLX
+2019-10-17 12:56:16,Baird,Neutral,,main,NFLX
+2019-10-17 13:53:27,Huber Research,Underweight,Overweight,down,NFLX
+2019-10-17 14:00:10,RBC Capital,Outperform,,main,NFLX
+2019-10-28 09:59:43,Imperial Capital,Outperform,,main,NFLX
+2019-11-25 11:29:41,Wells Fargo,Underperform,Market Perform,down,NFLX
+2019-12-03 11:02:05,Citigroup,Neutral,Buy,down,NFLX
+2019-12-10 11:18:47,Needham,Underperform,Hold,down,NFLX
+2019-12-19 13:58:55,Pivotal Research,Buy,,main,NFLX
+2020-01-17 13:04:04,UBS,Buy,,main,NFLX
+2020-01-22 12:39:49,Wedbush,Underperform,,main,NFLX
+2020-01-22 13:50:30,UBS,Buy,,main,NFLX
+2020-01-22 15:06:32,Rosenblatt,Neutral,,main,NFLX
+2020-01-22 15:21:48,Baird,Neutral,,main,NFLX
+2020-01-22 16:01:10,Oppenheimer,Outperform,,main,NFLX
+2020-01-23 14:25:00,Guggenheim,Buy,,main,NFLX
+2020-01-27 11:41:46,Citigroup,Neutral,,main,NFLX
+2020-03-04 09:51:34,Imperial Capital,Outperform,,main,NFLX
+2020-03-23 10:09:59,Baird,Outperform,Neutral,up,NFLX
+2020-04-01 14:29:58,Bernstein,Outperform,,main,NFLX
+2020-04-02 08:38:35,Wells Fargo,Underweight,,main,NFLX
+2020-04-14 10:16:58,Imperial Capital,Outperform,,main,NFLX
+2020-04-14 14:29:44,B of A Securities,Buy,,main,NFLX
+2020-04-15 12:52:14,Cowen & Co.,Outperform,,reit,NFLX
+2020-04-15 14:18:41,Stifel,Buy,,main,NFLX
+2020-04-15 19:47:58,Pivotal Research,Buy,,main,NFLX
+2020-04-16 12:20:30,Morgan Stanley,Overweight,,main,NFLX
+2020-04-16 12:28:59,Goldman Sachs,Buy,,reit,NFLX
+2020-04-16 15:13:24,Wedbush,Underperform,,main,NFLX
+2020-04-17 11:04:33,Rosenblatt,Neutral,,reit,NFLX
+2020-04-17 15:55:07,Benchmark,Sell,,init,NFLX
+2020-04-22 09:00:46,Wells Fargo,Equal-Weight,Underweight,up,NFLX
+2020-04-22 10:29:12,Stifel,Hold,Buy,down,NFLX
+2020-04-22 11:44:37,Raymond James,Outperform,Strong Buy,down,NFLX
+2020-04-22 11:59:32,RBC Capital,Outperform,,reit,NFLX
+2020-04-22 12:27:35,Credit Suisse,Outperform,,main,NFLX
+2020-04-22 13:49:57,UBS,Buy,,main,NFLX
+2020-04-22 14:56:12,Benchmark,Overweight,,main,NFLX
+2020-04-22 15:09:33,Wedbush,Underperform,,main,NFLX
+2020-04-22 15:20:33,Canaccord Genuity,Buy,,main,NFLX
+2020-04-22 16:00:00,JP Morgan,Overweight,,reit,NFLX
+2020-04-22 16:08:26,Nomura,Neutral,,main,NFLX
+2020-04-22 17:34:05,SunTrust Robinson Humphrey,Buy,,main,NFLX
+2020-04-23 10:20:33,Imperial Capital,Outperform,,main,NFLX
+2020-04-23 15:44:27,Morgan Stanley,Overweight,,main,NFLX
+2020-04-23 16:07:49,SunTrust Robinson Humphrey,Buy,,main,NFLX
+2020-05-14 14:25:50,Jefferies,Buy,,init,NFLX
+2020-05-21 15:36:01,Citigroup,Neutral,,main,NFLX
+2020-06-18 08:39:52,Imperial Capital,Outperform,,main,NFLX
+2020-07-06 11:52:15,Imperial Capital,In-Line,Outperform,down,NFLX
+2020-07-07 13:11:18,Credit Suisse,Outperform,,main,NFLX
+2020-07-08 11:50:29,Rosenblatt,Neutral,,reit,NFLX
+2020-07-10 12:35:35,Goldman Sachs,Buy,,main,NFLX
+2020-07-13 10:58:33,BMO Capital,Outperform,,main,NFLX
+2020-07-13 14:05:58,Benchmark,Sell,,main,NFLX
+2020-07-14 10:22:28,UBS,Neutral,Buy,down,NFLX
+2020-07-14 14:01:15,Wedbush,Underperform,,main,NFLX
+2020-09-08 17:05:57,Truist Securities,Buy,,main,NFLX
+2020-09-15 08:55:03,KeyBanc,Overweight,,init,NFLX
+2020-09-28 16:39:00,Guggenheim,Buy,,main,NFLX
+2020-09-28 16:43:51,Jefferies,Buy,,main,NFLX
+2020-10-07 14:52:26,Pivotal Research,Buy,,main,NFLX
+2020-10-15 10:27:32,KeyBanc,Overweight,,main,NFLX
+2020-10-15 16:13:26,Canaccord Genuity,Buy,,main,NFLX
+2020-10-16 12:30:38,Morgan Stanley,Overweight,,main,NFLX
+2020-10-16 15:14:01,B of A Securities,Buy,,main,NFLX
+2020-10-21 11:28:36,BMO Capital,Outperform,,main,NFLX
+2020-10-21 11:44:01,Morgan Stanley,Overweight,,main,NFLX
+2020-10-21 11:58:29,Benchmark,Sell,,main,NFLX
+2020-10-21 16:12:18,Wedbush,Underperform,,main,NFLX
+2020-10-21 16:15:07,Oppenheimer,Outperform,,main,NFLX
+2014-12-17 00:00:00,Pivotal Research,Buy,,up,GOOGL
+2015-01-08 06:03:07,Stifel,Hold,Buy,down,GOOGL
+2015-01-14 09:00:00,Credit Suisse,Outperform,,main,GOOGL
+2015-01-30 09:00:00,Citigroup,Buy,,main,GOOGL
+2015-03-02 14:04:06,Bank of America,Buy,Neutral,up,GOOGL
+2015-03-06 08:07:11,Citigroup,Buy,,main,GOOGL
+2015-04-21 09:00:00,SunTrust Robinson Humphrey,Buy,,main,GOOGL
+2015-04-24 09:00:00,CRT Capital,Buy,,main,GOOGL
+2015-07-13 08:40:26,Pivotal Research,Hold,Buy,down,GOOGL
+2015-07-16 06:18:29,BMO Capital,Outperform,Market Perform,up,GOOGL
+2015-07-17 05:55:55,MKM Partners,Buy,,init,GOOGL
+2015-07-17 06:11:25,Mizuho,Neutral,,main,GOOGL
+2015-07-17 06:17:03,Jefferies,Buy,,main,GOOGL
+2015-07-17 06:23:09,JMP Securities,Market Perform,,main,GOOGL
+2015-07-17 07:15:33,Bernstein,Outperform,,main,GOOGL
+2015-08-12 06:18:29,Morgan Stanley,Overweight,,up,GOOGL
+2015-08-26 04:02:02,Goldman Sachs,Buy,Neutral,up,GOOGL
+2015-09-21 06:26:34,JMP Securities,Market Outperform,,main,GOOGL
+2015-10-09 04:35:07,Credit Suisse,Outperform,,main,GOOGL
+2015-10-23 13:38:02,Macquarie,Outperform,,main,GOOGL
+2016-01-12 04:22:48,Credit Suisse,Outperform,,main,GOOGL
+2016-02-02 11:02:58,Barclays,Overweight,,main,GOOGL
+2016-02-02 12:01:33,Stifel Nicolaus,Buy,,main,GOOGL
+2016-02-02 14:03:23,Cantor Fitzgerald,Buy,,main,GOOGL
+2016-02-02 14:06:34,KeyBanc,Overweight,,main,GOOGL
+2016-02-02 14:11:18,Nomura,Buy,,main,GOOGL
+2016-04-01 06:39:18,Citigroup,Neutral,,main,GOOGL
+2016-04-07 04:40:41,Morgan Stanley,Overweight,,main,GOOGL
+2016-04-11 05:59:41,Pivotal Research,Buy,Hold,up,GOOGL
+2016-04-18 05:57:46,Credit Suisse,Outperform,,main,GOOGL
+2016-04-22 06:59:37,SunTrust Robinson Humphrey,Buy,,main,GOOGL
+2016-04-22 07:02:08,Morgan Stanley,Overweight,,main,GOOGL
+2016-04-22 07:49:23,Stifel Nicolaus,Buy,,main,GOOGL
+2016-04-22 07:58:24,Oppenheimer,Outperform,,main,GOOGL
+2016-04-22 08:01:25,Cantor Fitzgerald,Buy,,main,GOOGL
+2016-04-22 08:13:57,JMP Securities,Market Outperform,,main,GOOGL
+2016-04-22 08:14:34,Jefferies,Buy,,main,GOOGL
+2016-04-22 08:54:13,Macquarie,Buy,,main,GOOGL
+2016-04-22 09:14:05,Baird,Outperform,,main,GOOGL
+2016-06-08 04:19:27,Maxim Group,Overweight,,main,GOOGL
+2016-06-29 08:35:41,Goldman Sachs,Buy,,main,GOOGL
+2016-07-29 04:16:43,Credit Suisse,Outperform,,main,GOOGL
+2016-07-29 06:42:52,UBS,Buy,,main,GOOGL
+2016-07-29 07:05:06,SunTrust Robinson Humphrey,Buy,,main,GOOGL
+2016-07-29 07:16:30,JMP Securities,Market Outperform,,main,GOOGL
+2016-07-29 07:21:43,Deutsche Bank,Buy,,main,GOOGL
+2016-07-29 07:34:58,CLSA,Buy,,main,GOOGL
+2016-07-29 07:40:20,Jefferies,Buy,,main,GOOGL
+2016-07-29 10:43:12,Citigroup,Buy,,main,GOOGL
+2016-09-27 16:14:09,Wedbush,Underperform,Neutral,down,GOOGL
+2016-10-17 08:14:18,Credit Suisse,Outperform,,main,GOOGL
+2016-12-21 16:12:54,Aegis Capital,Buy,,init,GOOGL
+2017-03-20 14:57:56,Pivotal Research,Hold,Buy,down,GOOGL
+2017-03-27 17:35:16,Nomura,Buy,,main,GOOGL
+2017-03-30 15:51:24,Barclays,Overweight,,init,GOOGL
+2017-03-31 11:17:36,Loop Capital,Hold,,init,GOOGL
+2017-04-04 14:11:52,BMO Capital,Market Perform,Outperform,down,GOOGL
+2017-06-15 13:03:25,Canaccord Genuity,Hold,Buy,down,GOOGL
+2017-07-25 15:23:18,Bank of America,Buy,,main,GOOGL
+2017-07-25 15:50:05,JMP Securities,Market Outperform,,main,GOOGL
+2017-07-25 18:26:53,Morgan Stanley,Overweight,,main,GOOGL
+2017-08-16 12:16:53,SunTrust Robinson Humphrey,Buy,,init,GOOGL
+2017-09-27 15:10:17,Wells Fargo,Outperform,,main,GOOGL
+2017-10-11 14:38:29,Credit Suisse,Outperform,,main,GOOGL
+2017-10-27 12:11:16,Stifel Nicolaus,Buy,,main,GOOGL
+2017-10-27 12:55:59,Citigroup,Buy,,main,GOOGL
+2017-10-27 17:18:57,BMO Capital,Market Perform,,main,GOOGL
+2017-10-27 18:14:48,Canaccord Genuity,Hold,,main,GOOGL
+2017-10-30 17:43:31,Citigroup,Buy,,main,GOOGL
+2017-12-06 14:00:20,Evercore ISI Group,Outperform,,init,GOOGL
+2018-01-26 19:42:41,Morgan Stanley,Overweight,Overweight,main,GOOGL
+2018-02-02 11:50:55,Stifel Nicolaus,Hold,Buy,down,GOOGL
+2018-02-02 14:09:31,Morgan Stanley,Outperform,Overweight,main,GOOGL
+2018-02-02 14:42:33,Bank of America,Buy,Buy,main,GOOGL
+2018-02-02 14:50:47,BMO Capital,Market Perform,Market Perform,main,GOOGL
+2018-02-02 15:05:36,Barclays,Overweight,Overweight,main,GOOGL
+2018-04-10 14:23:09,Morgan Stanley,Overweight,Overweight,main,GOOGL
+2018-04-20 12:34:16,Credit Suisse,Outperform,Outperform,main,GOOGL
+2018-04-23 13:18:32,Credit Suisse,Outperform,Outperform,main,GOOGL
+2018-04-24 10:08:38,KeyBanc,Overweight,Overweight,main,GOOGL
+2018-04-24 11:11:34,Stifel Nicolaus,Hold,Hold,main,GOOGL
+2018-04-24 12:12:00,Canaccord Genuity,Hold,Hold,main,GOOGL
+2018-04-24 12:59:17,Morgan Stanley,Overweight,Overweight,main,GOOGL
+2018-04-24 15:55:47,Barclays,Overweight,Overweight,main,GOOGL
+2018-04-25 11:08:52,Stifel Nicolaus,Buy,Hold,up,GOOGL
+2018-05-05 13:32:14,Argus,Buy,,main,GOOGL
+2018-05-05 14:00:37,B. Riley FBR,Buy,,main,GOOGL
+2018-06-28 16:14:28,Morgan Stanley,Overweight,Overweight,main,GOOGL
+2018-07-11 11:47:35,Nomura,Buy,,init,GOOGL
+2018-07-13 16:34:32,Barclays,Overweight,Overweight,main,GOOGL
+2018-07-16 12:53:54,Credit Suisse,Outperform,Outperform,main,GOOGL
+2018-07-24 11:29:25,KeyBanc,Overweight,Overweight,main,GOOGL
+2018-07-24 11:35:24,Stifel Nicolaus,Buy,Buy,main,GOOGL
+2018-07-24 11:42:50,JMP Securities,Market Outperform,Market Outperform,main,GOOGL
+2018-07-24 11:44:40,Canaccord Genuity,Hold,Hold,main,GOOGL
+2018-07-24 11:48:04,Citigroup,Buy,Buy,main,GOOGL
+2018-07-24 11:57:18,Barclays,Overweight,Overweight,main,GOOGL
+2018-07-24 12:03:29,Morgan Stanley,Overweight,Overweight,main,GOOGL
+2018-07-24 12:13:35,B. Riley FBR,Buy,Buy,main,GOOGL
+2018-07-24 13:24:39,BMO Capital,Market Perform,Market Perform,main,GOOGL
+2018-07-24 13:49:53,Credit Suisse,Outperform,Outperform,main,GOOGL
+2018-07-24 14:56:59,Bank of America,Buy,Buy,main,GOOGL
+2018-08-29 11:17:27,Morgan Stanley,Overweight,Overweight,main,GOOGL
+2018-10-18 10:47:39,Wedbush,Outperform,,init,GOOGL
+2018-10-26 13:52:18,Canaccord Genuity,Hold,Hold,main,GOOGL
+2018-10-26 13:58:38,Barclays,Overweight,Overweight,main,GOOGL
+2018-10-26 14:26:55,Bank of America,Buy,Buy,main,GOOGL
+2018-11-02 14:29:46,JMP Securities,Market Outperform,Market Outperform,main,GOOGL
+2018-11-14 12:44:20,Morgan Stanley,Overweight,Overweight,main,GOOGL
+2018-12-06 12:52:42,Guggenheim,Buy,,init,GOOGL
+2019-01-03 14:43:34,Canaccord Genuity,Buy,Hold,up,GOOGL
+2019-01-07 11:56:56,Pivotal Research,Buy,Hold,up,GOOGL
+2019-02-05 12:29:46,Barclays,Overweight,Overweight,main,GOOGL
+2019-02-05 12:32:53,Nomura,Buy,Buy,main,GOOGL
+2019-02-05 12:51:10,BMO Capital,Market Perform,Market Perform,main,GOOGL
+2019-02-05 13:05:42,Citigroup,Buy,Buy,main,GOOGL
+2019-03-05 12:41:05,Needham,Buy,,init,GOOGL
+2019-04-25 14:47:45,BMO Capital,Market Perform,Market Perform,main,GOOGL
+2019-04-30 10:31:55,Stifel Nicolaus,Hold,Buy,down,GOOGL
+2019-04-30 11:59:37,Morgan Stanley,Overweight,Overweight,main,GOOGL
+2019-04-30 12:02:29,Nomura,Buy,Buy,main,GOOGL
+2019-05-01 10:20:54,DZ Bank,Hold,Buy,down,GOOGL
+2019-05-29 12:17:58,Pivotal Research,Hold,,init,GOOGL
+2019-05-29 13:43:52,China Renaissance,Hold,,init,GOOGL
+2019-06-04 11:00:40,Loop Capital,Hold,,init,GOOGL
+2019-07-15 12:37:23,Morgan Stanley,Overweight,,main,GOOGL
+2019-07-26 10:07:53,KeyBanc,Overweight,,main,GOOGL
+2019-07-26 11:04:48,Nomura,Buy,,main,GOOGL
+2019-07-26 11:09:41,Citigroup,Buy,,main,GOOGL
+2019-07-26 11:46:09,Canaccord Genuity,Buy,,main,GOOGL
+2019-07-26 11:49:01,Morgan Stanley,Overweight,,main,GOOGL
+2019-07-26 12:05:14,Mizuho,Buy,,main,GOOGL
+2019-07-26 12:58:19,Credit Suisse,Outperform,,main,GOOGL
+2019-07-26 13:01:05,Wedbush,Outperform,,main,GOOGL
+2019-07-26 13:05:28,Stifel Nicolaus,Hold,,main,GOOGL
+2019-10-25 12:32:52,BMO Capital,Market Perform,,main,GOOGL
+2019-10-29 10:05:36,KeyBanc,Overweight,,main,GOOGL
+2019-10-29 14:22:54,Canaccord Genuity,Buy,,main,GOOGL
+2019-10-29 14:29:56,Barclays,Overweight,,main,GOOGL
+2019-10-29 14:41:34,BMO Capital,Market Perform,,main,GOOGL
+2019-12-03 11:29:27,Piper Jaffray,Overweight,,init,GOOGL
+2019-12-05 12:23:10,Stifel Nicolaus,Buy,Hold,up,GOOGL
+2020-01-10 12:42:45,Bernstein,Outperform,,init,GOOGL
+2020-01-13 14:51:34,Evercore ISI Group,Outperform,,main,GOOGL
+2020-01-17 13:03:25,UBS,Buy,,main,GOOGL
+2020-01-21 13:22:19,Morgan Stanley,Overweight,,main,GOOGL
+2020-01-24 11:10:39,KeyBanc,Overweight,,main,GOOGL
+2020-01-27 12:21:04,Mizuho Securities,Buy,,main,GOOGL
+2020-02-04 11:18:55,Pivotal Research,Buy,,main,GOOGL
+2020-02-04 11:23:30,Nomura,Buy,,main,GOOGL
+2020-02-04 11:42:23,Needham,Buy,,main,GOOGL
+2020-02-05 12:46:15,Argus Research,Buy,,main,GOOGL
+2020-02-07 16:02:23,Citigroup,Buy,,main,GOOGL
+2020-02-25 14:34:30,Morgan Stanley,Overweight,,main,GOOGL
+2020-03-26 16:39:56,SunTrust Robinson Humphrey,Buy,,main,GOOGL
+2020-03-30 11:00:37,BMO Capital,Outperform,Market Perform,up,GOOGL
+2020-03-30 13:28:01,UBS,Buy,,main,GOOGL
+2020-03-30 18:48:03,Morgan Stanley,Overweight,,main,GOOGL
+2020-04-17 15:27:46,Mizuho,Buy,,main,GOOGL
+2020-04-22 15:11:03,Wedbush,Outperform,,main,GOOGL
+2020-04-29 10:44:34,JP Morgan,Overweight,,main,GOOGL
+2020-04-29 10:53:28,Nomura Instinet,Buy,,main,GOOGL
+2020-04-29 10:58:22,Credit Suisse,Outperform,,main,GOOGL
+2020-04-29 11:42:40,Morgan Stanley,Overweight,,main,GOOGL
+2020-04-29 12:14:14,MKM Partners,Buy,,reit,GOOGL
+2020-04-29 13:27:39,RBC Capital,Outperform,,main,GOOGL
+2020-04-29 13:28:47,Stifel,Buy,,main,GOOGL
+2020-04-29 14:48:03,BMO Capital,Outperform,,main,GOOGL
+2020-04-29 14:56:20,Barclays,Overweight,,main,GOOGL
+2020-04-29 15:58:38,Mizuho,Buy,,main,GOOGL
+2020-04-29 16:22:13,B of A Securities,Buy,,main,GOOGL
+2020-04-29 16:28:01,SunTrust Robinson Humphrey,Buy,,main,GOOGL
+2020-05-12 16:12:22,Citigroup,Buy,,main,GOOGL
+2020-06-24 15:12:55,Goldman Sachs,Buy,,main,GOOGL
+2020-07-09 12:26:54,Morgan Stanley,Overweight,,main,GOOGL
+2020-07-13 10:45:32,Mizuho,Buy,,main,GOOGL
+2020-07-20 12:30:59,Credit Suisse,Outperform,,main,GOOGL
+2020-07-21 11:19:39,Mizuho,Buy,,main,GOOGL
+2020-07-31 11:43:14,Morgan Stanley,Overweight,,main,GOOGL
+2020-07-31 14:09:48,Canaccord Genuity,Buy,,main,GOOGL
+2020-08-03 15:55:20,JMP Securities,Outperform,,main,GOOGL
+2020-09-15 08:52:12,KeyBanc,Overweight,,init,GOOGL
+2020-09-24 11:36:02,Morgan Stanley,Overweight,,main,GOOGL
+2020-10-12 12:26:30,Deutsche Bank,Buy,,main,GOOGL
+2020-10-20 12:25:33,Jefferies,Buy,,main,GOOGL
+2020-10-30 08:46:01,KeyBanc,Overweight,,main,GOOGL
+2020-10-30 12:19:36,Morgan Stanley,Overweight,,main,GOOGL
+2020-10-30 17:10:24,Deutsche Bank,Buy,,main,GOOGL
+2020-11-02 16:51:18,Canaccord Genuity,Buy,,main,GOOGL
+2020-11-03 16:13:49,Citigroup,Neutral,,main,GOOGL
+2012-02-09 08:17:00,Canaccord Genuity,Buy,,main,AAPL
+2012-03-08 07:33:00,FBN Securities,Outperform,,main,AAPL
+2012-03-13 06:08:00,Jefferies,Buy,,main,AAPL
+2012-03-14 06:13:00,Morgan Stanley,Overweight,,main,AAPL
+2012-03-14 08:21:00,Canaccord Genuity,Buy,,main,AAPL
+2012-03-14 15:25:00,Oxen Group,Buy,,init,AAPL
+2012-03-15 07:53:00,PiperJaffray,Overweight,,main,AAPL
+2012-03-16 06:53:00,Oppenheimer,Outperform,,main,AAPL
+2012-03-16 13:53:00,UBS,Buy,,main,AAPL
+2012-03-19 07:24:00,Wedbush,Outperform,,main,AAPL
+2012-03-19 09:53:00,FBN Securities,Outperform,,main,AAPL
+2012-03-19 14:25:00,Goldman Sachs,Buy,,main,AAPL
+2012-03-19 14:59:00,Morgan Keegan,Outperform,,main,AAPL
+2012-03-20 06:10:00,Sterne Agee,Buy,,main,AAPL
+2012-03-20 06:53:00,Citigroup,Buy,,main,AAPL
+2012-03-21 08:43:00,Scotiabank,Sector Perform,,main,AAPL
+2012-03-21 14:31:00,Hilliard Lyons,Buy,,main,AAPL
+2012-03-21 14:33:00,"Crowell, Weedon & Co.",Buy,,main,AAPL
+2012-03-30 07:16:00,BMO Capital,Outperform,,main,AAPL
+2012-04-03 07:01:00,PiperJaffray,Overweight,,main,AAPL
+2012-04-03 07:06:00,JP Morgan,Overweight,,main,AAPL
+2012-04-05 06:25:00,Jefferies,Buy,,main,AAPL
+2012-04-09 07:00:00,BTIG Research,Neutral,,down,AAPL
+2012-04-11 06:42:00,Sterne Agee,Buy,,main,AAPL
+2012-04-12 06:00:00,Credit Suisse,Outperform,,main,AAPL
+2012-04-13 06:49:00,Bank oferica,Buy,,main,AAPL
+2012-04-18 06:23:00,Goldman Sachs,Buy,,main,AAPL
+2012-04-19 06:15:00,Canaccord Genuity,Buy,,main,AAPL
+2012-04-25 06:04:00,Deutsche Bank,Buy,,main,AAPL
+2012-04-25 06:42:00,Goldman Sachs,Buy,,main,AAPL
+2012-04-25 06:50:00,Citigroup,Buy,,main,AAPL
+2012-04-25 06:59:00,Wedbush,Outperform,,main,AAPL
+2012-04-25 07:33:00,FBN Securities,Outperform,,main,AAPL
+2012-04-25 07:40:00,Canaccord Genuity,Buy,,main,AAPL
+2012-04-25 09:00:00,Societe Generale,Buy,,up,AAPL
+2012-04-25 09:19:00,ISI Group,Buy,,main,AAPL
+2012-04-25 09:22:00,Sterne Agee,Buy,,main,AAPL
+2012-04-25 09:36:00,Bank oferica,Buy,,main,AAPL
+2012-04-26 08:51:00,Hilliard Lyons,Buy,,main,AAPL
+2012-04-26 09:04:00,Scotiabank,Sector Outperform,,up,AAPL
+2012-06-04 07:09:00,"Crowell, Weedon & Co.",Buy,,main,AAPL
+2012-07-11 07:03:00,UBS,Buy,,init,AAPL
+2012-07-25 06:46:00,Morgan Stanley,Overweight,,main,AAPL
+2012-07-25 07:35:00,Goldman Sachs,Buy,,main,AAPL
+2012-07-25 07:48:00,Raymond James,Outperform,Strong Buy,down,AAPL
+2012-07-25 07:53:00,Bank of America,Buy,,main,AAPL
+2012-07-25 08:05:00,BMO Capital,Outperform,,main,AAPL
+2012-07-26 05:33:00,Phillip Securities,Neutral,Accumulate,down,AAPL
+2012-08-09 08:35:00,Stifel Nicolaus,Buy,,init,AAPL
+2012-08-17 07:16:00,Jefferies,Buy,,main,AAPL
+2012-08-21 11:40:00,Oracle Investment Research,Hold,Buy,down,AAPL
+2012-08-22 07:36:00,Needham,Buy,,main,AAPL
+2012-08-27 06:25:00,Oppenheimer,Outperform,,main,AAPL
+2012-08-27 06:27:00,Bank of America,Buy,,main,AAPL
+2012-09-04 07:04:00,Wedbush,Outperform,,main,AAPL
+2012-09-05 06:57:00,JP Morgan,Overweight,,main,AAPL
+2012-09-06 06:37:00,Societe Generale,Buy,,main,AAPL
+2012-09-10 11:05:00,Monness Crespi Hardt,Buy,,init,AAPL
+2012-09-12 07:38:00,Hudson Square,Buy,,main,AAPL
+2012-09-12 07:51:00,Hudson Square,Buy,,main,AAPL
+2012-09-13 06:18:00,Sterne Agee,Buy,,main,AAPL
+2012-09-13 06:22:00,Goldman Sachs,Buy,,main,AAPL
+2012-09-13 10:57:00,UBS,Buy,,main,AAPL
+2012-09-13 11:56:00,Barclays,Overweight,,main,AAPL
+2012-09-14 11:07:00,Hilliard Lyons,Buy,,main,AAPL
+2012-09-17 09:12:00,BMO Capital,Outperform,,main,AAPL
+2012-09-18 06:05:00,Sterne Agee,Buy,,main,AAPL
+2012-09-18 07:33:00,Bank of America,Buy,,main,AAPL
+2012-09-21 07:16:00,Deutsche Bank,Buy,,main,AAPL
+2012-09-21 07:29:00,"Crowell, Weedon & Co.",Buy,,main,AAPL
+2012-10-09 08:14:00,Nomura,Neutral,,init,AAPL
+2012-10-24 08:21:00,Canaccord Genuity,Buy,,main,AAPL
+2012-10-24 12:11:00,Barclays,Overweight,,main,AAPL
+2012-10-26 07:39:00,Nomura,Neutral,,main,AAPL
+2012-10-26 07:59:00,FBN Securities,Outperform,,main,AAPL
+2012-10-26 08:05:00,Deutsche Bank,Buy,,main,AAPL
+2012-11-01 09:40:00,Oracle Investment Research,Buy,Hold,up,AAPL
+2012-11-09 10:58:00,Avondale Partners,Market Perform,,init,AAPL
+2012-11-19 11:09:00,Bank of America,Buy,,main,AAPL
+2012-11-26 06:49:00,Citigroup,Buy,,init,AAPL
+2012-12-03 10:31:41,ABG Sundal Collier,,,init,AAPL
+2012-12-05 10:02:22,Oracle Investment Research,Strong Buy,Buy,up,AAPL
+2012-12-10 08:00:15,Jefferies,Buy,,main,AAPL
+2012-12-14 09:32:14,UBS,Buy,,main,AAPL
+2012-12-17 05:57:53,Citigroup,Neutral,Buy,down,AAPL
+2012-12-17 07:53:22,BMO Capital,Outperform,,main,AAPL
+2012-12-17 08:21:23,Pacific Crest,Outperform,,main,AAPL
+2012-12-17 10:31:38,Mizuho,Buy,,main,AAPL
+2012-12-17 12:41:06,Canaccord Genuity,,,reit,AAPL
+2013-01-07 08:51:09,Barclays,Overweight,,main,AAPL
+2013-01-10 09:57:33,PiperJaffray,Overweight,,main,AAPL
+2013-01-11 08:55:26,Credit Agricole,Buy,,main,AAPL
+2013-01-15 08:07:22,Nomura,Neutral,,main,AAPL
+2013-01-16 07:42:54,Pacific Crest,Sector Perform,Outperform,down,AAPL
+2013-01-16 07:47:06,Stifel,Buy,,main,AAPL
+2013-01-16 07:48:01,Bank of America,Buy,,main,AAPL
+2013-01-16 08:33:09,Stifel,Buy,,main,AAPL
+2013-01-16 19:09:20,BGC Financial,Hold,,main,AAPL
+2013-01-17 08:29:47,JP Morgan,Overweight,,main,AAPL
+2013-01-17 08:47:27,BMO Capital,Outperform,,main,AAPL
+2013-01-22 07:22:39,UBS,Buy,,main,AAPL
+2013-01-22 07:24:27,Scotiabank,Sector Outperform,,main,AAPL
+2013-01-22 08:48:22,"Monness, Crespi, Hardt",Buy,,main,AAPL
+2013-01-24 06:26:12,Jefferies,Hold,Buy,down,AAPL
+2013-01-24 06:53:32,Oracle Investment Research,Strong Buy,,main,AAPL
+2013-01-24 07:15:17,Credit Suisse,Outperform,,main,AAPL
+2013-01-24 07:30:29,Deutsche Bank,Buy,,main,AAPL
+2013-01-24 07:42:11,BMO Capital,Outperform,,main,AAPL
+2013-01-24 07:52:28,Nomura,Neutral,,main,AAPL
+2013-01-24 07:54:09,Topeka,Buy,,main,AAPL
+2013-01-24 08:05:13,Stifel Nicolaus,Buy,,main,AAPL
+2013-01-24 08:27:31,Scotiabank,Sector Perform,Outperform,down,AAPL
+2013-01-24 08:50:30,RBC Capital,Outperform,,main,AAPL
+2013-01-24 08:51:41,Barclays,Overweight,,main,AAPL
+2013-01-24 08:52:42,Credit Agricole,Buy,,main,AAPL
+2013-01-24 08:53:45,PiperJaffray,Overweight,,main,AAPL
+2013-01-24 08:55:35,Canaccord Genuity,Buy,,main,AAPL
+2013-01-24 08:56:35,Sterne Agee,Buy,,main,AAPL
+2013-01-24 09:13:01,Janney Capital,Buy,,main,AAPL
+2013-01-24 09:18:26,Goldman Sachs,Buy,,main,AAPL
+2013-01-24 09:19:32,Societe Generale,Buy,,main,AAPL
+2013-01-24 09:39:18,UBS,Buy,,main,AAPL
+2013-01-24 10:47:47,BGC Financial,Hold,,main,AAPL
+2013-01-24 15:08:56,Hilliard Lyons,Long-term Buy,Buy,down,AAPL
+2013-01-24 15:17:07,FBN Securities,Outperform,,main,AAPL
+2013-01-28 08:00:04,Baird,Market Perform,Outperform,down,AAPL
+2013-02-25 07:49:03,Needham,Buy,,main,AAPL
+2013-03-05 09:40:01,Cleveland Research,Neutral,Buy,down,AAPL
+2013-03-06 07:33:06,Berenberg,Sell,Buy,down,AAPL
+2013-03-06 07:49:02,Citigroup,Neutral,,main,AAPL
+2013-03-11 07:33:31,Credit Agricole,Outperform,Buy,down,AAPL
+2013-03-12 06:32:29,Jefferies,Hold,,main,AAPL
+2013-03-14 07:53:43,BTIG Research,Buy,Neutral,up,AAPL
+2013-03-15 07:38:31,Sterne Agee,Buy,,main,AAPL
+2013-03-20 08:22:13,Canaccord Genuity,Buy,,main,AAPL
+2013-03-26 08:14:26,Oppenheimer,Outperform,,main,AAPL
+2013-04-02 06:09:51,Goldman Sachs,Buy,,main,AAPL
+2013-04-04 06:55:28,Lazard,Buy,,init,AAPL
+2013-04-12 09:11:52,RBC Capital,Outperform,,main,AAPL
+2013-04-16 08:01:37,Stifel Nicolaus,Buy,,main,AAPL
+2013-04-16 09:32:58,PiperJaffray,Overweight,,main,AAPL
+2013-04-18 07:25:10,BMO Capital,Outperform,,main,AAPL
+2013-04-18 08:13:47,Janney Capital,Buy,,main,AAPL
+2013-04-19 08:09:53,Standpoint,Buy,,init,AAPL
+2013-04-19 08:10:24,Barclays,Overweight,,main,AAPL
+2013-04-22 08:03:52,Sterne Agee,Buy,,main,AAPL
+2013-04-22 08:04:48,Avondale Partners,Market Outperform,Market Perform,up,AAPL
+2013-04-22 08:16:01,BMO Capital,Outperform,,main,AAPL
+2013-04-22 08:22:21,BGC Financial,Buy,Hold,up,AAPL
+2013-04-22 08:51:09,Monness Crespi Hardt,Buy,,main,AAPL
+2013-04-23 08:14:44,FBR Capital,Outperform,,main,AAPL
+2013-04-24 06:43:34,BMO Capital,Market Perform,Outperform,down,AAPL
+2013-04-24 07:14:59,Citigroup,Neutral,,main,AAPL
+2013-04-24 07:20:38,FBN Securities,Outperform,,main,AAPL
+2013-04-24 07:58:34,Credit Suisse,Outperform,,main,AAPL
+2013-04-24 08:07:59,Nomura,Neutral,,main,AAPL
+2013-04-24 09:00:49,Societe Generale,Buy,,main,AAPL
+2013-04-24 10:05:00,Ameriprise Financial,Buy,,init,AAPL
+2013-04-24 10:06:43,Hilliard Lyons,Buy,Long-Term Buy,up,AAPL
+2013-04-25 11:48:41,Hamburger Sparkasse,Hold,Buy,down,AAPL
+2013-04-25 13:29:26,ABG Sundal Collier,Hold,Sell,up,AAPL
+2013-05-06 07:25:45,Barclays,Overweight,,main,AAPL
+2013-05-15 17:22:39,Susquehanna,Neutral,,init,AAPL
+2013-06-24 08:25:43,Jefferies,Hold,,main,AAPL
+2013-06-24 08:39:43,BMO Capital,Market Perform,,main,AAPL
+2013-07-01 07:38:01,Raymond James,Strong Buy,Outperform,up,AAPL
+2013-07-22 09:36:21,BMO Capital,Market Perform,,main,AAPL
+2013-07-24 07:19:29,Goldman Sachs,Buy,,main,AAPL
+2013-07-24 07:21:57,Bank of America,Buy,,main,AAPL
+2013-07-24 09:22:10,Stifel Nicolaus,Buy,,main,AAPL
+2013-07-24 09:33:11,BMO Capital,Outperform,Market Perform,up,AAPL
+2013-08-01 06:26:24,Jefferies,Hold,,main,AAPL
+2013-08-02 13:18:48,Standpoint Research,Hold,Buy,down,AAPL
+2013-08-12 08:38:24,Needham,Buy,,main,AAPL
+2013-08-15 07:49:45,RBC Capital,Outperform,,main,AAPL
+2013-08-21 07:10:40,UBS,Buy,,main,AAPL
+2013-09-03 06:10:09,ABG Sundal Collier,Sell,Hold,down,AAPL
+2013-09-04 06:50:31,Cantor Fitzgerald,Buy,,init,AAPL
+2013-09-06 08:50:07,Evercore Partners,Overweight,,main,AAPL
+2013-09-09 07:26:59,FBN Securities,Outperform,,main,AAPL
+2013-09-11 06:21:48,Bank of America,Neutral,Buy,down,AAPL
+2013-09-11 07:24:16,Nomura,Neutral,,main,AAPL
+2013-09-11 07:40:30,UBS,Neutral,Buy,down,AAPL
+2013-09-11 07:55:42,Canaccord Genuity,Buy,,main,AAPL
+2013-09-11 07:56:40,PiperJaffray,Overweight,,main,AAPL
+2013-09-11 07:57:25,Oppenheimer,Outperform,,main,AAPL
+2013-09-11 08:51:50,Credit Suisse,Neutral,Outperform,down,AAPL
+2013-09-13 06:38:24,Jefferies,Hold,,main,AAPL
+2013-09-23 10:01:59,FBN Securities,Outperform,,main,AAPL
+2013-09-23 11:26:38,Societe Generale,Hold,Buy,down,AAPL
+2013-09-24 06:44:30,Barclays,Overweight,,main,AAPL
+2013-09-24 07:47:20,Susquehanna,Positive,Neutral,up,AAPL
+2013-09-27 09:01:05,Monness Crespi Hardt,Buy,,main,AAPL
+2013-09-30 07:17:48,Global Equities Research,Overweight,,main,AAPL
+2013-10-04 07:24:45,BMO Capital,Outperform,,main,AAPL
+2013-10-07 06:21:59,Jefferies,Buy,Hold,up,AAPL
+2013-10-14 09:09:17,Mizuho,Buy,,main,AAPL
+2013-10-21 06:21:57,Societe Generale,Buy,Hold,up,AAPL
+2013-10-23 07:47:12,Nomura,Neutral,,main,AAPL
+2013-10-23 08:34:20,Wells Fargo,Outperform,,main,AAPL
+2013-10-29 06:26:11,BMO Capital,Outperform,,main,AAPL
+2013-10-29 06:28:59,Goldman Sachs,Buy,,main,AAPL
+2013-10-29 06:29:58,Baird,Outperform,Neutral,up,AAPL
+2013-10-29 06:57:25,Citigroup,Neutral,,main,AAPL
+2013-10-29 08:09:08,Nomura,Neutral,,main,AAPL
+2013-10-29 08:13:31,Monness Crespi Hardt,Buy,,main,AAPL
+2013-10-29 08:15:37,Stifel Nicolaus,Buy,,main,AAPL
+2013-10-29 08:55:21,Janney Capital,Buy,,main,AAPL
+2013-10-29 09:01:31,Wells Fargo,Outperform,,main,AAPL
+2013-10-29 09:03:13,Jefferies,Buy,,main,AAPL
+2013-10-29 11:35:03,Deutsche Bank,Buy,,main,AAPL
+2013-10-29 11:37:32,PiperJaffray,Overweight,,main,AAPL
+2013-10-29 11:46:28,Canaccord Genuity,Buy,,main,AAPL
+2013-11-14 08:20:08,Canaccord Genuity,Buy,,main,AAPL
+2013-11-18 09:37:37,Susquehanna,Positive,,main,AAPL
+2013-11-25 10:39:25,Wells Fargo,Outperform,,main,AAPL
+2013-11-29 09:25:40,Cantor Fitzgerald,Buy,,main,AAPL
+2013-12-02 09:33:59,UBS,Buy,Neutral,up,AAPL
+2013-12-03 16:00:00,UBS,Buy,Neutral,up,AAPL
+2013-12-06 08:33:09,Citigroup,Neutral,,main,AAPL
+2013-12-10 16:00:00,Bank of America,Neutral,,main,AAPL
+2013-12-12 16:00:00,Canaccord Genuity,Buy,,main,AAPL
+2013-12-16 16:00:00,Morgan Stanley,Overweight,,main,AAPL
+2013-12-19 08:32:40,Monness Crespi Hardt,Buy,,main,AAPL
+2013-12-19 16:00:00,JP Morgan,Overweight,,main,AAPL
+2013-12-23 16:00:00,FBN Securities,Outperform,,main,AAPL
+2014-01-02 16:00:00,Wells Fargo,Market Perform,Outperform,down,AAPL
+2014-01-06 06:22:30,Standpoint,Sell,Hold,down,AAPL
+2014-01-13 08:40:12,Oracle Investment Research,Strong Buy,,main,AAPL
+2014-01-21 16:00:00,Societe Generale,Hold,Buy,down,AAPL
+2014-01-27 16:00:00,BGC Financial,Hold,Buy,down,AAPL
+2014-01-28 07:55:03,Nomura,Neutral,,main,AAPL
+2014-01-28 08:00:00,Barclays,Overweight,,main,AAPL
+2014-01-28 16:00:00,Hilliard Lyons,Long-Term Buy,Buy,down,AAPL
+2014-02-14 06:38:53,Bank of America,Neutral,,main,AAPL
+2014-02-20 07:24:13,Barclays,Equal-weight,Overweight,down,AAPL
+2014-03-03 07:56:38,Canaccord Genuity,Buy,,main,AAPL
+2014-03-11 08:00:00,Pacific Crest,Outperform,Sector Perform,up,AAPL
+2014-03-21 08:33:38,Macquarie,Outperform,,init,AAPL
+2014-04-10 07:19:06,Deutsche Bank,Buy,,init,AAPL
+2014-04-24 00:28:54,Barclays,Equal-Weight,,main,AAPL
+2014-04-24 01:00:57,Canaccord Genuity,Buy,,main,AAPL
+2014-04-24 01:00:59,Citigroup,Hold,,main,AAPL
+2014-04-24 01:40:01,Credit Suisse,Neutral,,main,AAPL
+2014-04-24 03:12:25,Pacific Crest,Outperform,,main,AAPL
+2014-04-24 06:49:30,Bank of America,Neutral,,main,AAPL
+2014-04-24 07:31:19,Nomura,Neutral,,main,AAPL
+2014-04-24 08:00:00,CLSA,Buy,Outperform,up,AAPL
+2014-05-06 08:04:37,RBC Capital,Outperform,,main,AAPL
+2014-05-09 08:26:05,ISI Group,Buy,Strong Buy,down,AAPL
+2014-05-28 07:48:25,Bernstein,Outperform,,main,AAPL
+2014-05-28 07:49:33,Barclays,Equal-Weight,,main,AAPL
+2014-05-29 06:33:11,Bank of America,Neutral,,main,AAPL
+2014-05-29 21:54:11,Baird,Outperform,,main,AAPL
+2014-05-29 22:50:32,UBS,Buy,,main,AAPL
+2014-06-03 19:24:02,Canaccord Genuity,Buy,,main,AAPL
+2014-06-03 19:24:03,Credit Suisse,Neutral,,main,AAPL
+2014-06-09 19:59:16,Stifel Nicolaus,Buy,,main,AAPL
+2014-06-10 20:27:36,Barclays,Equal-Weight,,main,AAPL
+2014-06-10 20:27:39,Citigroup,Neutral,,main,AAPL
+2014-06-11 07:21:11,Monness Crespi Hardt,Buy,,main,AAPL
+2014-06-11 20:37:58,Deutsche Bank,Buy,,main,AAPL
+2014-06-13 20:03:56,Raymond James,Outperform,,main,AAPL
+2014-06-17 11:51:42,Societe Generale,Buy,Hold,up,AAPL
+2014-06-25 19:19:31,Credit Suisse,Neutral,,main,AAPL
+2014-07-02 07:07:53,Evercore Partners,Overweight,,main,AAPL
+2014-07-11 19:36:09,Canaccord Genuity,Buy,,main,AAPL
+2014-07-14 06:55:58,Barclays,Overweight,Equal-weight,up,AAPL
+2014-07-14 07:14:56,Morgan Stanley,Overweight,,main,AAPL
+2014-07-21 08:24:36,JMP Securities,Market Outperform,Market Perform,up,AAPL
+2014-07-21 20:08:46,UBS,Buy,,main,AAPL
+2014-07-23 22:19:42,Macquarie,Outperform,,main,AAPL
+2014-07-23 22:19:44,Nomura,Neutral,,main,AAPL
+2014-07-23 22:36:56,Raymond James,Outperform,,main,AAPL
+2014-09-02 09:00:00,Nomura,Neutral,,main,AAPL
+2014-09-10 05:47:10,Pacific Crest,Sector Perform,Outperform,down,AAPL
+2014-09-10 05:59:13,Goldman Sachs,Buy,,main,AAPL
+2014-09-10 08:00:00,Wells Fargo,Market Perform,,main,AAPL
+2014-09-10 09:00:00,Barclays,Overweight,,main,AAPL
+2014-09-30 06:00:21,Jefferies,Hold,,init,AAPL
+2014-09-30 11:17:31,Evercore Partners,Overweight,,main,AAPL
+2014-10-02 09:00:00,Citigroup,Buy,,main,AAPL
+2014-10-03 08:00:00,Deutsche Bank,Hold,Buy,down,AAPL
+2014-10-07 08:30:00,Susquehanna,Positive,,main,AAPL
+2014-10-09 09:00:00,Oppenheimer,Outperform,Market Perform,up,AAPL
+2014-10-14 16:00:00,Credit Suisse,Neutral,,main,AAPL
+2014-10-21 08:30:00,Barclays,Overweight,,main,AAPL
+2014-11-18 08:14:56,Oppenheimer,Outperform,,main,AAPL
+2014-11-19 07:47:54,Jefferies,Hold,,main,AAPL
+2014-11-20 16:54:45,Morgan Stanley,Overweight,,main,AAPL
+2014-11-25 08:34:38,Stifel Nicolaus,Buy,,main,AAPL
+2014-12-01 05:08:52,Barclays,Overweight,,main,AAPL
+2014-12-02 05:21:52,Canaccord Genuity,Buy,,main,AAPL
+2014-12-03 00:00:00,JMP Securities,Market Outperform,,main,AAPL
+2014-12-08 09:00:00,Citigroup,Buy,,main,AAPL
+2015-01-13 00:00:00,Credit Suisse,Outperform,Neutral,up,AAPL
+2015-01-15 00:00:00,Mizuho,Neutral,Buy,down,AAPL
+2015-01-16 04:56:01,Societe Generale,Buy,Buy,main,AAPL
+2015-01-16 05:25:14,RBC Capital,Outperform,Outperform,main,AAPL
+2015-01-28 04:52:21,RBC Capital,Outperform,Outperform,main,AAPL
+2015-01-28 04:54:10,Cowen & Co.,Outperform,Outperform,main,AAPL
+2015-01-28 04:54:56,Evercore ISI Group,Buy,Buy,main,AAPL
+2015-01-28 04:55:46,Deutsche Bank,Hold,Hold,main,AAPL
+2015-01-28 04:56:23,Jefferies,Hold,Hold,main,AAPL
+2015-01-28 04:57:02,BMO Capital,Outperform,Outperform,main,AAPL
+2015-01-28 09:00:00,JP Morgan,Overweight,,main,AAPL
+2015-02-11 09:00:00,JP Morgan,Overweight,,main,AAPL
+2015-02-20 04:44:43,Goldman Sachs,,,main,AAPL
+2015-02-24 21:19:47,Stifel Nicolaus,Buy,,main,AAPL
+2015-02-25 09:00:00,Stifel Nicolaus,Buy,,main,AAPL
+2015-03-02 04:32:32,Morgan Stanley,Overweight,,main,AAPL
+2015-03-03 05:29:29,Oppenheimer,Outperform,,main,AAPL
+2015-03-09 07:14:51,Macquarie,Outperform,,main,AAPL
+2015-03-10 04:48:05,Evercore ISI Group,Buy,,main,AAPL
+2015-03-10 07:44:50,Monness Crespi Hardt,Buy,,main,AAPL
+2015-03-10 09:00:00,Nomura,Neutral,,main,AAPL
+2015-03-13 04:38:48,Berenberg,,,main,AAPL
+2015-03-18 05:04:04,Jefferies,Hold,,main,AAPL
+2015-03-23 05:32:37,Cowen & Co.,Outperform,,main,AAPL
+2015-03-24 09:00:00,Cantor Fitzgerald,Buy,,main,AAPL
+2015-03-26 04:51:33,Credit Suisse,Outperform,Outperform,main,AAPL
+2015-03-31 09:00:00,RBC Capital,Outperform,,main,AAPL
+2015-04-08 04:51:42,Societe Generale,Hold,Buy,down,AAPL
+2015-04-10 06:09:07,Raymond James,Market Perform,Outperform,down,AAPL
+2015-04-16 05:56:50,Maxim Group,Hold,,init,AAPL
+2015-04-17 17:06:35,FBR Capital,Outperform,,init,AAPL
+2015-04-27 05:18:51,Brean Capital,Buy,,init,AAPL
+2015-04-27 05:19:47,Jefferies,Hold,,main,AAPL
+2015-04-27 09:00:00,Jefferies,Hold,,main,AAPL
+2015-04-28 09:00:00,Canaccord Genuity,Buy,,main,AAPL
+2015-07-13 04:07:11,Societe Generale,Buy,Hold,up,AAPL
+2015-07-22 06:25:34,Cowen & Co.,Market Perform,Outperform,down,AAPL
+2015-07-30 18:09:33,Nomura,Buy,,init,AAPL
+2015-08-05 06:22:49,Bank of America,Neutral,Buy,down,AAPL
+2015-08-25 06:22:58,Wells Fargo,Outperform,Market Perform,up,AAPL
+2015-09-09 09:16:46,Rosenblatt,Buy,,init,AAPL
+2015-09-16 05:53:57,JMP Securities,Outperform,,main,AAPL
+2015-09-21 06:07:17,Canaccord Genuity,Buy,,main,AAPL
+2015-09-28 16:26:28,Sterne Agee CRT,Buy,,init,AAPL
+2015-10-01 18:52:45,Drexel Hamilton,Buy,,init,AAPL
+2015-10-11 16:54:21,Morgan Stanley,Overweight,,main,AAPL
+2015-10-14 16:25:56,Barclays,Overweight,,init,AAPL
+2015-10-23 07:30:25,Maxim Group,Buy,Neutral,up,AAPL
+2015-10-28 04:19:00,Barclays,Overweight,,main,AAPL
+2015-10-28 04:36:53,Morgan Stanley,Overweight,,main,AAPL
+2015-10-28 05:42:59,Pacific Crest,Overweight,Sector Weight,up,AAPL
+2015-10-28 07:58:05,Credit Suisse,Outperform,,main,AAPL
+2015-11-18 06:39:39,Goldman Sachs,Buy,,main,AAPL
+2015-12-11 07:19:24,BMO Capital,Outperform,,init,AAPL
+2015-12-14 06:06:30,Barclays,Overweight,,main,AAPL
+2015-12-22 10:28:54,Cowen & Co.,Market Perform,,main,AAPL
+2016-01-07 12:25:19,RBC Capital,Outperform,,main,AAPL
+2016-01-08 07:27:30,Pacific Crest,Overweight,,main,AAPL
+2016-01-08 08:28:11,Canaccord Genuity,Buy,,main,AAPL
+2016-01-11 06:10:00,Mizuho,Buy,Neutral,up,AAPL
+2016-01-11 09:57:45,Oppenheimer,Outperform,,main,AAPL
+2016-01-11 14:19:25,Deutsche Bank,Hold,,main,AAPL
+2016-01-12 06:28:03,Bank of America,Buy,,up,AAPL
+2016-01-27 05:31:59,Barclays,Overweight,,main,AAPL
+2016-01-27 05:41:03,FBR Capital,Outperform,,main,AAPL
+2016-01-27 06:23:33,PiperJaffray,Overweight,,main,AAPL
+2016-02-12 08:14:25,FBR Capital,Outperform,,main,AAPL
+2016-03-07 05:22:37,Pacific Crest,Overweight,,main,AAPL
+2016-03-10 09:49:39,CLSA,Buy,,main,AAPL
+2016-03-30 06:10:00,Cowen & Co.,Outperform,Market Perform,up,AAPL
+2016-04-04 05:46:52,Brean Capital,Buy,,main,AAPL
+2016-04-04 06:46:39,Credit Suisse,Outperform,,main,AAPL
+2016-04-06 06:30:46,Needham,Strong Buy,,init,AAPL
+2016-04-07 07:09:24,BTIG Research,Buy,,main,AAPL
+2016-04-20 04:24:21,Barclays,Overweight,,main,AAPL
+2016-04-26 23:03:24,BTIG Research,Buy,,main,AAPL
+2016-04-26 23:15:30,PiperJaffray,Overweight,,main,AAPL
+2016-04-27 05:56:26,Brean Capital,Buy,,main,AAPL
+2016-04-27 06:14:02,Barclays,Overweight,,main,AAPL
+2016-04-27 06:14:46,Citigroup,Buy,,main,AAPL
+2016-04-27 07:16:24,Oppenheimer,Perform,Outperform,down,AAPL
+2016-04-27 07:17:02,Macquarie,Buy,,main,AAPL
+2016-04-27 07:17:22,Goldman Sachs,Buy,,main,AAPL
+2016-04-27 07:29:54,Cowen & Co.,Outperform,,main,AAPL
+2016-04-27 08:14:39,Maxim Group,Buy,,main,AAPL
+2016-04-27 08:24:53,Baird,Outperform,,main,AAPL
+2016-04-27 08:25:30,Pacific Crest,Overweight,,main,AAPL
+2016-04-27 08:26:14,Morgan Stanley,Overweight,,main,AAPL
+2016-04-27 09:02:45,CLSA,Buy,,main,AAPL
+2016-04-27 10:11:40,FBN Securities,Outperform,,main,AAPL
+2016-04-27 10:16:15,Nomura,Buy,,main,AAPL
+2016-04-27 10:17:12,PiperJaffray,Overweight,,main,AAPL
+2016-04-27 10:24:33,RBC Capital,Outperform,,main,AAPL
+2016-05-11 06:50:28,UBS,Buy,,main,AAPL
+2016-06-02 03:58:13,Goldman Sachs,Buy,,main,AAPL
+2016-07-06 08:10:08,Longbow Research,Buy,,init,AAPL
+2016-07-15 07:01:44,Barclays,Overweight,,main,AAPL
+2016-07-26 06:04:59,UBS,Buy,,main,AAPL
+2016-07-27 04:28:35,BTIG Research,Buy,,main,AAPL
+2016-07-27 05:54:14,UBS,Buy,,main,AAPL
+2016-07-27 05:55:00,Brean Capital,Buy,,main,AAPL
+2016-07-27 06:25:53,Raymond James,Outperform,Market Perform,up,AAPL
+2016-07-27 06:34:00,Credit Suisse,Outperform,,main,AAPL
+2016-07-27 06:36:37,Morgan Stanley,Overweight,,main,AAPL
+2016-07-27 07:48:56,RBC Capital,Outperform,,main,AAPL
+2016-07-27 07:51:02,Drexel Hamilton,Buy,,main,AAPL
+2016-07-27 08:02:35,BMO Capital,Outperform,,main,AAPL
+2016-07-27 12:06:12,Citigroup,Buy,,main,AAPL
+2016-07-27 14:01:49,JP Morgan,Overweight,,main,AAPL
+2016-07-28 06:14:58,Hilliard Lyons,Buy,Long-Term Buy,up,AAPL
+2016-08-02 06:36:59,Daiwa Capital,Outperform,Buy,down,AAPL
+2016-08-11 12:29:48,RBC Capital,Outperform,,main,AAPL
+2016-09-08 04:53:08,Wells Fargo,Market Perform,Outperform,down,AAPL
+2016-09-08 06:15:16,Morgan Stanley,Overweight,,main,AAPL
+2016-09-08 06:15:32,Citigroup,Buy,,main,AAPL
+2016-09-08 06:15:49,UBS,Buy,,main,AAPL
+2016-09-08 06:16:25,Goldman Sachs,Buy,,main,AAPL
+2016-09-08 06:18:26,Drexel Hamilton,Buy,,main,AAPL
+2016-09-08 07:38:07,Bernstein,Outperform,,main,AAPL
+2016-09-08 07:38:21,Oppenheimer,Perform,,main,AAPL
+2016-09-08 07:38:30,Nomura,Buy,,main,AAPL
+2016-09-08 07:41:31,JP Morgan,Overweight,,main,AAPL
+2016-09-08 07:41:58,Stifel Nicolaus,Buy,,main,AAPL
+2016-09-08 08:38:40,Deutsche Bank,Hold,,main,AAPL
+2016-09-08 09:09:53,William Blair,Outperform,,main,AAPL
+2016-09-08 09:12:03,Pacific Crest,Outperform,,main,AAPL
+2016-09-08 09:13:03,Macquarie,Outperform,,main,AAPL
+2016-09-13 08:11:02,Goldman Sachs,Buy,,main,AAPL
+2016-09-14 08:11:45,Morgan Stanley,Outperform,,main,AAPL
+2016-09-15 08:08:11,BTIG Research,Buy,,main,AAPL
+2016-09-15 08:10:08,Credit Suisse,Outperform,,main,AAPL
+2016-09-16 07:12:49,CLSA,Buy,,main,AAPL
+2016-09-22 06:22:56,Nomura,Buy,,main,AAPL
+2016-09-22 06:55:24,RBC Capital,Outperform,,main,AAPL
+2016-09-29 04:17:49,Barclays,Overweight,,main,AAPL
+2016-09-30 06:13:43,Citigroup,Buy,,main,AAPL
+2016-10-12 09:24:38,Goldman Sachs,Buy,,main,AAPL
+2016-10-12 09:35:28,UBS,Buy,,main,AAPL
+2016-10-14 02:43:24,Credit Suisse,Outperform,,main,AAPL
+2016-10-26 09:20:46,Brean Capital,Buy,,main,AAPL
+2016-10-26 09:20:49,Stifel Nicolaus,Hold,Buy,down,AAPL
+2016-10-26 09:49:46,Barclays,Overweight,,main,AAPL
+2016-10-26 09:50:04,Citigroup,Buy,,main,AAPL
+2016-10-26 09:50:45,Morgan Stanley,Overweight,,main,AAPL
+2016-10-26 09:50:52,Drexel Hamilton,Buy,,main,AAPL
+2016-10-26 10:01:43,Macquarie,Outperform,,main,AAPL
+2016-10-26 10:02:28,PiperJaffray,Overweight,,main,AAPL
+2016-10-26 10:10:55,Credit Suisse,Outperform,,main,AAPL
+2016-10-26 10:21:34,Goldman Sachs,Buy,,main,AAPL
+2017-01-04 14:28:46,Guggenheim,Buy,,init,AAPL
+2017-01-19 14:05:29,OTR Global,Negative,,down,AAPL
+2017-01-24 10:58:22,Barclays,Equal-Weight,Overweight,down,AAPL
+2017-03-01 13:51:06,BTIG Research,Buy,Buy,main,AAPL
+2017-03-06 13:26:00,Citigroup,Buy,,main,AAPL
+2017-03-21 13:09:47,Bernstein,Outperform,Outperform,main,AAPL
+2017-03-24 17:05:31,Needham,Buy,Strong Buy,down,AAPL
+2017-03-24 17:07:02,Nomura,Buy,,main,AAPL
+2017-04-04 14:25:09,Pacific Crest,Overweight,,main,AAPL
+2017-04-18 11:25:49,Credit Suisse,Outperform,Outperform,main,AAPL
+2017-04-19 21:13:21,Morgan Stanley,Overweight,Overweight,main,AAPL
+2017-06-05 10:47:22,Pacific Crest,Sector Weight,Overweight,down,AAPL
+2017-06-12 11:58:14,Mizuho,Neutral,Buy,down,AAPL
+2017-07-17 16:50:50,Morgan Stanley,Overweight,,main,AAPL
+2017-07-24 21:30:42,Loop Capital,Buy,,init,AAPL
+2017-08-02 14:44:42,UBS,Buy,,main,AAPL
+2017-08-02 16:33:09,BMO Capital,Outperform,,main,AAPL
+2017-08-02 17:23:50,Deutsche Bank,Hold,,main,AAPL
+2017-08-02 19:29:27,Barclays,Equal-Weight,,main,AAPL
+2017-08-03 16:56:08,Nomura,Buy,,main,AAPL
+2017-09-06 15:28:27,Nomura,Buy,,main,AAPL
+2017-09-19 12:36:45,Morgan Stanley,Overweight,,main,AAPL
+2017-09-22 17:48:59,PiperJaffray,Overweight,Overweight,main,AAPL
+2017-10-13 16:54:31,Barclays,Equal-Weight,,main,AAPL
+2017-10-16 14:15:46,KeyBanc,Overweight,Sector Weight,up,AAPL
+2017-10-25 16:14:16,HSBC,Buy,,init,AAPL
+2017-11-03 12:53:10,Rosenblatt,Buy,Neutral,up,AAPL
+2017-11-03 15:59:55,Baird,Outperform,,main,AAPL
+2017-11-03 16:12:44,Loop Capital,Buy,,main,AAPL
+2017-11-03 17:09:28,Canaccord Genuity,Buy,,main,AAPL
+2017-11-03 17:45:16,Morgan Stanley,Overweight,,main,AAPL
+2017-11-03 18:08:14,BMO Capital,Outperform,,main,AAPL
+2017-11-03 18:25:13,UBS,Buy,,main,AAPL
+2017-11-03 18:30:25,Citigroup,Buy,,main,AAPL
+2017-11-03 19:04:50,Bernstein,Outperform,,main,AAPL
+2017-11-06 12:40:33,Argus,Buy,,main,AAPL
+2017-12-19 11:32:13,Instinet,Neutral,Buy,down,AAPL
+2018-01-17 11:15:43,Longbow Research,Neutral,Buy,down,AAPL
+2018-01-22 13:17:07,Atlantic Equities,Neutral,Overweight,down,AAPL
+2018-01-23 11:35:42,Morgan Stanley,Overweight,Overweight,main,AAPL
+2018-01-25 14:22:14,Morgan Stanley,Overweight,Overweight,main,AAPL
+2018-01-31 11:55:18,BMO Capital,Market Perform,Outperform,down,AAPL
+2018-01-31 13:33:32,Loop Capital,Buy,Buy,main,AAPL
+2018-02-02 11:17:06,KeyBanc,Sector Weight,Overweight,down,AAPL
+2018-02-02 12:37:56,Bernstein,Market Perform,Outperform,down,AAPL
+2018-02-02 14:13:33,Morgan Stanley,Overweight,Overweight,main,AAPL
+2018-02-02 14:45:02,BMO Capital,Market Perform,Market Perform,main,AAPL
+2018-02-02 15:10:39,Barclays,Equal-Weight,Equal-Weight,main,AAPL
+2018-02-02 16:02:43,Maxim Group,Buy,Buy,main,AAPL
+2018-02-05 18:07:18,Hilliard Lyons,Buy,Long-Term Buy,up,AAPL
+2018-02-07 13:50:18,Goldman Sachs,Neutral,,init,AAPL
+2018-03-16 16:45:00,Barclays,Equal-Weight,Equal-Weight,main,AAPL
+2018-04-11 13:10:39,Monness Crespi Hardt,Buy,,init,AAPL
+2018-04-20 11:54:30,Morgan Stanley,Overweight,Overweight,main,AAPL
+2018-04-30 11:39:34,Barclays,Equal-Weight,Equal-Weight,main,AAPL
+2018-04-30 20:52:17,DA Davidson,Buy,,init,AAPL
+2018-05-02 12:22:15,Barclays,Equal-Weight,Equal-Weight,main,AAPL
+2018-05-02 13:32:40,Canaccord Genuity,Buy,Buy,main,AAPL
+2018-05-02 13:35:38,BMO Capital,Market Perform,Market Perform,main,AAPL
+2018-05-24 12:44:38,Morgan Stanley,Overweight,Overweight,main,AAPL
+2018-05-30 12:24:48,Maxim Group,Hold,Buy,down,AAPL
+2018-06-08 12:34:00,Argus,Buy,Buy,main,AAPL
+2018-07-23 12:04:12,BMO Capital,Market Perform,Market Perform,main,AAPL
+2018-07-24 12:04:56,Morgan Stanley,Overweight,Overweight,main,AAPL
+2018-08-01 12:33:28,Deutsche Bank,Hold,Hold,main,AAPL
+2018-08-01 13:36:48,BMO Capital,Market Perform,Market Perform,main,AAPL
+2018-08-01 13:45:34,Canaccord Genuity,Buy,Buy,main,AAPL
+2018-08-02 14:14:03,Citigroup,Buy,Buy,main,AAPL
+2018-08-21 15:16:49,Bank of America,Buy,Buy,main,AAPL
+2018-08-31 11:51:48,Nomura,Neutral,Neutral,main,AAPL
+2018-09-04 11:31:14,Canaccord Genuity,Buy,Buy,main,AAPL
+2018-09-05 11:20:28,Morgan Stanley,Overweight,Overweight,main,AAPL
+2018-09-05 12:43:59,DA Davidson,Buy,Buy,main,AAPL
+2018-09-13 12:05:48,Morgan Stanley,Overweight,Overweight,main,AAPL
+2018-09-13 17:04:52,Bank of America,Buy,Buy,main,AAPL
+2018-09-27 10:42:37,JP Morgan,Overweight,,init,AAPL
+2018-09-28 11:59:27,Nomura,Neutral,Neutral,main,AAPL
+2018-10-19 09:54:09,Wedbush,Outperform,,init,AAPL
+2018-10-29 10:13:15,Jefferies,Buy,,init,AAPL
+2018-11-02 12:40:15,Bank of America,Neutral,Buy,down,AAPL
+2018-11-02 15:08:19,BMO Capital,Market Perform,Market Perform,main,AAPL
+2018-11-02 15:28:42,Citigroup,Buy,Buy,main,AAPL
+2018-11-02 16:10:19,Nomura,Neutral,Neutral,main,AAPL
+2018-11-02 16:52:42,JP Morgan,Overweight,Overweight,main,AAPL
+2018-11-02 17:38:27,Baird,Outperform,Outperform,main,AAPL
+2018-11-08 17:25:50,Morgan Stanley,Overweight,Overweight,main,AAPL
+2018-11-14 11:50:44,Guggenheim,Neutral,Buy,down,AAPL
+2018-11-14 14:32:01,UBS,Buy,Buy,main,AAPL
+2018-11-20 12:27:21,Goldman Sachs,Neutral,,reit,AAPL
+2018-11-29 14:23:06,Canaccord Genuity,Buy,Buy,main,AAPL
+2018-12-04 11:01:06,HSBC,Hold,Buy,down,AAPL
+2018-12-06 12:54:17,Rosenblatt,Neutral,,main,AAPL
+2018-12-07 12:40:36,Morgan Stanley,Overweight,Overweight,main,AAPL
+2018-12-10 15:36:34,Citigroup,Buy,Buy,main,AAPL
+2018-12-14 12:14:01,DA Davidson,Buy,Buy,reit,AAPL
+2019-01-03 12:07:59,Citigroup,Buy,Buy,main,AAPL
+2019-01-03 12:30:28,Macquarie,Neutral,Outperform,down,AAPL
+2019-01-03 13:00:12,Bank of America,Neutral,Neutral,reit,AAPL
+2019-01-03 13:15:15,Loop Capital,Hold,Buy,down,AAPL
+2019-01-03 13:16:37,Wells Fargo,Market Perform,Market Perform,reit,AAPL
+2019-01-03 13:28:26,Morgan Stanley,Overweight,Overweight,main,AAPL
+2019-01-03 13:32:58,Jefferies,Hold,Buy,down,AAPL
+2019-01-03 13:40:38,Wedbush,Outperform,Outperform,main,AAPL
+2019-01-03 14:34:50,Baird,Outperform,Outperform,main,AAPL
+2019-01-03 14:58:16,Canaccord Genuity,Buy,Buy,main,AAPL
+2019-01-03 15:34:53,Nomura,Neutral,Neutral,main,AAPL
+2019-01-04 12:27:51,Citigroup,Buy,Buy,main,AAPL
+2019-01-30 12:36:14,Nomura,Neutral,Neutral,main,AAPL
+2019-01-30 12:42:35,UBS,Buy,Buy,main,AAPL
+2019-01-30 12:46:24,Canaccord Genuity,Buy,Buy,main,AAPL
+2019-01-30 12:53:02,BMO Capital,Market Perform,Market Perform,main,AAPL
+2019-01-30 12:53:24,Morgan Stanley,Overweight,Overweight,main,AAPL
+2019-01-30 12:55:15,Citigroup,Buy,Buy,reit,AAPL
+2019-01-30 14:14:44,Bank of America,Neutral,Neutral,reit,AAPL
+2019-03-11 10:48:11,Bank of America,Buy,Neutral,up,AAPL
+2019-03-14 11:28:16,Cowen & Co.,Outperform,,init,AAPL
+2019-03-21 11:48:23,Needham,Strong Buy,Buy,up,AAPL
+2019-03-21 11:51:35,Wedbush,Outperform,Outperform,main,AAPL
+2019-03-21 12:19:38,Citigroup,Buy,Buy,reit,AAPL
+2019-03-26 11:04:39,Morgan Stanley,Overweight,Overweight,main,AAPL
+2019-03-26 12:00:06,Baird,Outperform,Outperform,main,AAPL
+2019-03-26 12:00:24,Canaccord Genuity,Buy,Buy,main,AAPL
+2019-03-26 12:27:18,UBS,Buy,Buy,main,AAPL
+2019-04-10 10:27:38,HSBC,Reduce,Hold,down,AAPL
+2019-04-10 15:46:38,Bank of America,Buy,Buy,reit,AAPL
+2019-04-11 12:09:13,Credit Suisse,Neutral,,init,AAPL
+2019-04-24 11:32:37,Morgan Stanley,Overweight,Overweight,main,AAPL
+2019-04-25 13:55:20,UBS,Buy,Buy,main,AAPL
+2019-05-01 12:12:56,Canaccord Genuity,Buy,Buy,main,AAPL
+2019-05-01 12:22:07,Bank of America,Buy,Buy,main,AAPL
+2019-05-01 12:31:55,Wedbush,Outperform,Outperform,main,AAPL
+2019-05-01 12:35:25,Morgan Stanley,Overweight,Overweight,main,AAPL
+2019-05-01 12:38:04,Wells Fargo,Market Perform,Market Perform,main,AAPL
+2019-05-17 12:02:25,Nomura,Neutral,,main,AAPL
+2019-05-23 13:24:34,UBS,Buy,,main,AAPL
+2019-05-28 12:46:59,Citi,Buy,,main,AAPL
+2019-05-30 11:24:02,Morgan Stanley,Overweight,,main,AAPL
+2019-05-30 13:34:53,Morgan Stanley,Overweight,,main,AAPL
+2019-06-04 11:09:57,Canaccord Genuity,Buy,,main,AAPL
+2019-06-06 11:41:50,Evercore ISI Group,Outperform,,init,AAPL
+2019-06-20 10:19:44,Deutsche Bank,Hold,,init,AAPL
+2019-07-08 10:53:35,Rosenblatt,Sell,Neutral,down,AAPL
+2019-07-09 11:20:54,JP Morgan,Overweight,,main,AAPL
+2019-07-17 13:07:43,Goldman Sachs,Neutral,,main,AAPL
+2019-07-18 10:30:26,Raymond James,Outperform,Market Perform,up,AAPL
+2019-07-19 12:47:55,Nomura,Neutral,,main,AAPL
+2019-07-22 13:10:50,Morgan Stanley,Overweight,,main,AAPL
+2019-07-29 11:42:07,UBS,Buy,,main,AAPL
+2019-07-31 12:46:34,Wedbush,Outperform,,main,AAPL
+2019-07-31 12:50:18,Nomura,Neutral,,main,AAPL
+2019-07-31 13:20:59,Canaccord Genuity,Buy,,main,AAPL
+2019-07-31 13:32:07,Piper Jaffray,Overweight,,main,AAPL
+2019-07-31 13:33:32,Cowen & Co.,Outperform,,main,AAPL
+2019-07-31 13:37:36,Citigroup,Buy,,main,AAPL
+2019-07-31 13:39:36,Bank of America,Buy,,main,AAPL
+2019-07-31 13:55:21,Deutsche Bank,Hold,,main,AAPL
+2019-08-08 11:26:47,Barclays,Equal-Weight,,init,AAPL
+2019-09-11 11:58:07,Bank of America,Buy,,reit,AAPL
+2019-09-11 12:13:09,Barclays,Equal-Weight,,main,AAPL
+2019-09-11 12:23:48,Needham,Strong Buy,,main,AAPL
+2019-09-13 12:52:02,Goldman Sachs,Neutral,,main,AAPL
+2019-09-20 11:58:57,Cascend,Buy,,reit,AAPL
+2019-09-30 12:19:08,JP Morgan,Overweight,,main,AAPL
+2019-10-07 11:09:01,Nomura,Neutral,,main,AAPL
+2019-10-09 12:14:43,Canaccord Genuity,Buy,,main,AAPL
+2019-10-10 10:12:14,Longbow Research,Buy,Neutral,up,AAPL
+2019-10-11 12:58:25,Wedbush,Outperform,,main,AAPL
+2019-10-17 11:15:52,Barclays,Equal-Weight,,main,AAPL
+2019-10-21 11:32:54,Raymond James,Outperform,,main,AAPL
+2019-10-22 12:44:16,Deutsche Bank,Hold,,main,AAPL
+2019-10-23 11:48:05,Morgan Stanley,Overweight,,main,AAPL
+2019-10-24 10:53:47,UBS,Buy,,main,AAPL
+2019-10-25 11:35:18,Cascend,Buy,,reit,AAPL
+2019-10-28 12:35:20,Credit Suisse,Neutral,,main,AAPL
+2019-10-28 12:56:40,Bank of America,Buy,,main,AAPL
+2019-10-28 14:49:10,Jefferies,Buy,,main,AAPL
+2019-10-31 11:36:05,Nomura,Neutral,,main,AAPL
+2019-10-31 11:42:44,Morgan Stanley,Overweight,,main,AAPL
+2019-10-31 11:49:17,UBS,Buy,,main,AAPL
+2019-10-31 12:00:53,Wells Fargo,Market Perform,,main,AAPL
+2019-10-31 12:02:57,Cascend,Buy,,main,AAPL
+2019-10-31 12:30:50,DA Davidson,Buy,,main,AAPL
+2019-10-31 12:33:17,Piper Jaffray,Overweight,,main,AAPL
+2019-10-31 12:35:45,Barclays,Equal-Weight,,main,AAPL
+2019-10-31 12:37:58,Wedbush,Outperform,,main,AAPL
+2019-10-31 12:39:09,Canaccord Genuity,Buy,,main,AAPL
+2019-10-31 12:41:03,Cowen & Co.,Outperform,,main,AAPL
+2019-11-13 11:37:47,RBC Capital,Outperform,,init,AAPL
+2019-11-14 13:22:43,Maxim Group,Sell,Hold,down,AAPL
+2019-11-15 12:37:06,Wedbush,Outperform,,main,AAPL
+2019-11-15 12:39:30,Piper Jaffray,Overweight,,main,AAPL
+2019-11-15 13:21:37,JP Morgan,Overweight,,main,AAPL
+2019-11-26 14:43:30,Cascend,Buy,,reit,AAPL
+2019-12-02 13:33:04,JP Morgan,Overweight,,main,AAPL
+2019-12-09 12:21:47,China Renaissance,Buy,,init,AAPL
+2019-12-11 16:42:43,Evercore ISI Group,Outperform,,main,AAPL
+2019-12-17 14:33:44,Cowen & Co.,Outperform,,main,AAPL
+2019-12-20 12:45:18,PiperJaffray,Outperform,,main,AAPL
+2019-12-23 12:05:44,Wedbush,Outperform,,main,AAPL
+2020-01-03 11:58:00,RBC Capital,Outperform,,main,AAPL
+2020-01-03 13:02:34,Bank of America,Buy,,main,AAPL
+2020-01-06 11:15:26,Needham,Buy,Strong Buy,down,AAPL
+2020-01-06 17:53:05,Cascend,Buy,,reit,AAPL
+2020-01-09 16:27:12,Jefferies,Buy,,main,AAPL
+2020-01-13 12:43:27,DA Davidson,Buy,,main,AAPL
+2020-01-14 10:56:17,Atlantic Equities,Underweight,Neutral,down,AAPL
+2020-01-14 13:35:22,UBS,Buy,,main,AAPL
+2020-01-15 14:14:43,Canaccord Genuity,Buy,,main,AAPL
+2020-01-17 13:00:02,Morgan Stanley,Overweight,,main,AAPL
+2020-01-17 13:02:32,Nomura Instinet,Neutral,,main,AAPL
+2020-01-23 12:12:55,B of A Securities,Buy,,main,AAPL
+2020-01-24 13:21:55,Rosenblatt,Sell,,main,AAPL
+2020-01-24 13:26:18,Wedbush,Outperform,,main,AAPL
+2020-01-24 13:57:51,Cowen & Co.,Outperform,,main,AAPL
+2020-01-27 15:41:31,Deutsche Bank,Hold,,main,AAPL
+2020-01-29 11:10:49,Piper Sandler,Overweight,,main,AAPL
+2020-01-29 11:43:55,Citigroup,Buy,,main,AAPL
+2020-01-29 11:48:17,Raymond James,Outperform,,main,AAPL
+2020-01-29 11:54:17,Credit Suisse,Neutral,,main,AAPL
+2020-01-29 11:55:43,Cowen & Co.,Outperform,,main,AAPL
+2020-01-29 11:58:00,RBC Capital,Outperform,,main,AAPL
+2020-01-29 11:59:47,JP Morgan,Overweight,,main,AAPL
+2020-01-29 12:01:11,Evercore ISI Group,Outperform,,main,AAPL
+2020-01-29 12:26:37,B of A Securities,Buy,,reit,AAPL
+2020-01-29 13:04:31,Maxim Group,Hold,Sell,up,AAPL
+2020-01-29 13:17:51,Wells Fargo,Equal-Weight,,main,AAPL
+2020-01-29 13:31:53,Deutsche Bank,Hold,,main,AAPL
+2020-01-29 13:35:11,Monness Crespi Hardt,Buy,,main,AAPL
+2020-01-29 14:00:02,Baird,Outperform,,main,AAPL
+2020-01-29 14:21:16,Goldman Sachs,Neutral,,main,AAPL
+2020-01-29 14:33:52,Nomura,Neutral,,main,AAPL
+2020-01-29 14:39:06,DA Davidson,Buy,,main,AAPL
+2020-01-29 20:54:17,Cascend,Buy,,reit,AAPL
+2020-01-30 16:51:37,B of A Securities,Buy,Hold,up,AAPL
+2020-02-18 13:52:47,Barclays,Equal-Weight,,main,AAPL
+2020-02-18 15:03:07,Canaccord Genuity,Buy,,main,AAPL
+2020-03-02 11:19:00,Oppenheimer,Outperform,Perform,up,AAPL
+2020-03-02 16:02:20,Cascend,Buy,,reit,AAPL
+2020-03-06 14:24:33,Deutsche Bank,Hold,,main,AAPL
+2020-03-10 11:06:33,UBS,Buy,,main,AAPL
+2020-03-11 13:02:25,B of A Securities,Buy,,reit,AAPL
+2020-03-13 09:32:40,Wells Fargo,Overweight,Equal-Weight,up,AAPL
+2020-03-17 11:40:32,Morgan Stanley,Overweight,,main,AAPL
+2020-03-17 14:23:04,Jefferies,Buy,,reit,AAPL
+2020-03-19 12:49:59,Canaccord Genuity,Buy,,main,AAPL
+2020-03-23 14:12:22,Nomura Instinet,Neutral,,main,AAPL
+2020-03-25 09:01:08,Deutsche Bank,Buy,Hold,up,AAPL
+2020-03-30 13:20:31,UBS,Buy,,main,AAPL
+2020-04-03 12:47:10,Credit Suisse,Neutral,,main,AAPL
+2020-04-03 13:49:12,Morgan Stanley,Overweight,,main,AAPL
+2020-04-08 10:45:06,JP Morgan,Overweight,,main,AAPL
+2020-04-09 14:41:41,Nomura,Neutral,,main,AAPL
+2020-04-13 12:26:30,Raymond James,Outperform,,main,AAPL
+2020-04-16 14:03:23,Deutsche Bank,Buy,,main,AAPL
+2020-04-17 09:32:08,Goldman Sachs,Sell,Neutral,down,AAPL
+2020-04-23 10:12:51,Daiwa Capital,Outperform,Buy,down,AAPL
+2020-04-27 15:22:36,B of A Securities,Buy,,reit,AAPL
+2020-05-01 10:45:18,Piper Sandler,Overweight,,main,AAPL
+2020-05-01 10:45:32,Cascend,Buy,,main,AAPL
+2020-05-01 10:47:20,JP Morgan,Overweight,,main,AAPL
+2020-05-01 11:31:36,Morgan Stanley,Overweight,,main,AAPL
+2020-05-01 11:40:30,Raymond James,Outperform,,main,AAPL
+2020-05-01 12:08:30,B of A Securities,Buy,,reit,AAPL
+2020-05-01 13:04:47,UBS,Buy,,main,AAPL
+2020-05-01 14:31:22,Nomura Instinet,Neutral,,main,AAPL
+2020-05-01 14:33:31,Canaccord Genuity,Buy,,main,AAPL
+2020-05-01 14:34:20,DA Davidson,Buy,,main,AAPL
+2020-05-12 12:43:18,Wedbush,Outperform,,main,AAPL
+2020-05-27 11:37:26,Deutsche Bank,Buy,,main,AAPL
+2020-05-27 15:22:19,B of A Securities,Buy,,main,AAPL
+2020-06-03 12:21:30,Morgan Stanley,Overweight,,main,AAPL
+2020-06-05 12:26:41,Credit Suisse,Neutral,,main,AAPL
+2020-06-05 12:43:04,Wedbush,Outperform,,main,AAPL
+2020-06-10 11:19:05,Deutsche Bank,Buy,,main,AAPL
+2020-06-11 11:04:46,HSBC,Hold,Reduce,up,AAPL
+2020-06-11 12:07:07,Wells Fargo,Overweight,,main,AAPL
+2020-06-11 12:16:06,B of A Securities,Buy,,main,AAPL
+2020-06-16 11:08:47,Citigroup,Buy,,main,AAPL
+2020-06-17 11:22:37,RBC Capital,Outperform,,main,AAPL
+2020-06-22 14:07:10,Cowen & Co.,Outperform,,main,AAPL
+2020-06-23 11:57:21,Baird,Outperform,,main,AAPL
+2020-06-23 15:44:48,Bernstein,Market Perform,,main,AAPL
+2020-06-23 15:49:39,Deutsche Bank,Buy,,main,AAPL
+2020-06-23 15:51:49,UBS,Buy,,main,AAPL
+2020-06-25 09:00:31,Wedbush,Outperform,,main,AAPL
+2020-07-07 11:42:52,Raymond James,Outperform,,reit,AAPL
+2020-07-07 15:04:24,Cascend,Buy,,main,AAPL
+2020-07-13 11:47:09,Wedbush,Outperform,,main,AAPL
+2020-07-13 12:32:14,Morgan Stanley,Overweight,,main,AAPL
+2020-07-15 10:22:07,Needham,Buy,,main,AAPL
+2020-07-24 15:54:02,Wolfe Research,Underperform,,init,AAPL
+2020-07-29 14:37:18,Credit Suisse,Neutral,,main,AAPL
+2020-07-31 10:58:34,Wedbush,Outperform,,main,AAPL
+2020-07-31 11:08:39,Citigroup,Buy,,main,AAPL
+2020-07-31 11:26:33,UBS,Buy,,main,AAPL
+2020-07-31 11:40:23,Raymond James,Outperform,,main,AAPL
+2020-07-31 11:50:15,Morgan Stanley,Overweight,,main,AAPL
+2020-07-31 12:26:26,Credit Suisse,Neutral,,main,AAPL
+2020-07-31 13:42:01,Canaccord Genuity,Buy,,main,AAPL
+2020-07-31 15:00:10,Cascend,Buy,,main,AAPL
+2020-08-05 15:21:52,B of A Securities,Neutral,Buy,down,AAPL
+2020-08-05 15:23:55,Wells Fargo,Overweight,,main,AAPL
+2020-08-10 08:58:04,Wedbush,Outperform,,main,AAPL
+2020-08-24 11:54:29,Morgan Stanley,Overweight,,main,AAPL
+2020-08-25 17:07:40,Cowen & Co.,Outperform,,main,AAPL
+2020-08-26 11:20:42,Wedbush,Outperform,,main,AAPL
+2020-08-31 12:07:36,Wedbush,Outperform,,main,AAPL
+2020-08-31 16:24:32,Argus Research,Buy,,main,AAPL
+2020-09-01 12:50:49,Bank of America,Neutral,,reit,AAPL
+2020-09-01 13:37:30,JP Morgan,Overweight,,main,AAPL
+2020-09-01 15:51:39,B of A Securities,Neutral,,main,AAPL
+2020-09-14 14:30:59,Cowen & Co.,Outperform,,main,AAPL
+2020-09-14 14:31:16,Morgan Stanley,Overweight,,main,AAPL
+2020-09-14 14:33:28,Wells Fargo,Overweight,,main,AAPL
+2020-09-14 14:33:45,Canaccord Genuity,Buy,,main,AAPL
+2020-09-14 14:34:04,Cascend,Buy,,main,AAPL
+2020-09-14 14:35:57,Citigroup,Buy,,main,AAPL
+2020-09-14 14:36:16,Credit Suisse,Neutral,,main,AAPL
+2020-09-14 14:36:35,Raymond James,Outperform,,main,AAPL
+2020-09-14 14:37:00,UBS,Buy,,main,AAPL
+2020-09-14 14:37:15,Wolfe Research,Underperform,,init,AAPL
+2020-09-16 10:33:21,Needham,Buy,,main,AAPL
+2020-09-17 14:55:17,Jefferies,Buy,,main,AAPL
+2020-09-21 16:02:35,Citigroup,Buy,,main,AAPL
+2020-09-22 11:24:07,Raymond James,Outperform,,main,AAPL
+2020-09-23 08:56:21,Needham,Buy,,main,AAPL
+2020-09-23 08:57:47,Baird,Outperform,,main,AAPL
+2020-09-23 08:58:47,Bernstein,Market Perform,,main,AAPL
+2020-09-23 08:59:44,Deutsche Bank,Buy,,main,AAPL
+2020-09-23 09:00:33,RBC Capital,Outperform,,main,AAPL
+2020-09-23 09:01:18,HSBC,Hold,Reduce,up,AAPL
+2020-09-23 09:02:37,DA Davidson,Buy,,main,AAPL
+2020-09-23 09:03:31,Nomura Instinet,Neutral,,main,AAPL
+2020-09-23 09:04:38,Piper Sandler,Overweight,,main,AAPL
+2020-09-23 09:05:37,Daiwa Capital,Outperform,Buy,down,AAPL
+2020-09-23 09:06:50,Goldman Sachs,Sell,Neutral,down,AAPL
+2020-09-23 09:08:23,Nomura,Neutral,,main,AAPL
+2020-09-23 09:10:01,Jefferies,Buy,,reit,AAPL
+2020-09-23 09:10:52,Oppenheimer,Outperform,Perform,up,AAPL
+2020-09-23 09:11:47,Barclays,Equal-Weight,,main,AAPL
+2020-09-23 09:12:22,Phillip Securities,Neutral,Accumulate,down,AAPL
+2020-09-23 09:13:23,Hudson Square,Buy,,main,AAPL
+2020-09-23 09:13:37,Evercore ISI Group,Outperform,,main,AAPL
+2020-09-23 09:13:48,"Crowell, Weedon & Co.",Buy,,main,AAPL
+2020-09-23 09:14:38,Monness Crespi Hardt,Buy,,main,AAPL
+2020-09-23 09:14:48,Telsey Advisory Group,Outperform,,main,AAPL
+2020-09-23 09:15:09,"Monness, Crespi, Hardt",Buy,,main,AAPL
+2020-09-23 09:15:32,Rosenblatt,Sell,,main,AAPL
+2020-09-23 09:15:33,Topeka,Buy,,main,AAPL
+2020-09-23 09:15:51,Scotiabank,Sector Perform,Outperform,down,AAPL
+2020-09-23 09:16:14,Credit Agricole,Outperform,Buy,down,AAPL
+2020-09-23 09:16:27,Lazard,Buy,,init,AAPL
+2020-09-23 09:16:51,PiperJaffray,Outperform,,main,AAPL
+2020-09-23 09:17:15,Sterne Agee,Buy,,main,AAPL
+2020-09-23 09:17:23,China Renaissance,Buy,,init,AAPL
+2020-09-23 09:17:34,ABG Sundal Collier,Sell,Hold,down,AAPL
+2020-09-23 09:18:02,Global Equities Research,Overweight,,main,AAPL
+2020-09-23 09:18:11,Piper Jaffray,Overweight,,main,AAPL
+2020-09-23 09:18:24,Janney Capital,Buy,,main,AAPL
+2020-09-23 09:18:52,Stifel,Buy,,main,AAPL
+2020-09-23 09:19:04,Longbow Research,Buy,Neutral,up,AAPL
+2020-09-23 09:19:23,Oracle Investment Research,Strong Buy,,main,AAPL
+2020-09-23 09:19:38,BGC Financial,Hold,Buy,down,AAPL
+2020-09-23 09:19:56,Citi,Buy,,main,AAPL
+2020-09-23 09:20:05,ISI Group,Buy,Strong Buy,down,AAPL
+2020-09-23 09:20:34,Evercore Partners,Overweight,,main,AAPL
+2020-09-23 09:20:45,BMO Capital,Market Perform,Market Perform,main,AAPL
+2020-09-23 09:21:26,Berenberg,Buy,,main,AAPL
+2020-09-23 09:21:41,Argus,Buy,Buy,main,AAPL
+2020-09-23 09:22:00,Cantor Fitzgerald,Buy,,main,AAPL
+2020-09-23 09:22:18,Susquehanna,Positive,,main,AAPL
+2020-09-23 09:22:24,KeyBanc,Sector Weight,Overweight,down,AAPL
+2020-09-23 09:23:31,Societe Generale,Buy,Hold,up,AAPL
+2020-09-23 09:25:37,Mizuho,Neutral,Buy,down,AAPL
+2020-09-23 09:26:42,BTIG Research,Buy,Buy,main,AAPL
+2020-09-23 09:27:52,CLSA,Buy,,main,AAPL
+2020-09-23 09:28:49,FBN Securities,Outperform,,main,AAPL
+2020-09-23 09:30:06,FBR Capital,Outperform,,main,AAPL
+2020-09-23 09:31:25,JMP Securities,Outperform,,main,AAPL
+2020-09-23 09:32:35,Pacific Crest,Sector Weight,Overweight,down,AAPL
+2020-09-24 00:10:26,Wedbush,Outperform,,main,AAPL
+2020-10-12 11:23:23,RBC Capital,Outperform,,main,AAPL
+2020-10-14 12:07:26,Morgan Stanley,Overweight,,main,AAPL
+2020-10-14 12:54:46,Credit Suisse,Neutral,,main,AAPL
+2020-10-22 15:49:26,Piper Sandler,Overweight,,main,AAPL
+2020-10-30 11:41:26,Raymond James,Outperform,,main,AAPL

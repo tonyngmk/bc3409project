@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run tony.py
+web: sh setup.sh && getData.py && streamlit run app.py
