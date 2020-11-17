@@ -58,20 +58,20 @@ dfPctChg = {"day{}".format(i):pd.concat([df["Date"], df[faangDict[stock]].pct_ch
 latestDate = pd.DataFrame({"{} Day".format(i): dfPctChg["day{}".format(i)].iloc[-1][faangDict[stock]]*100 for i in [1, 5, 30, 90, 180]}, 
                  index = ["Latest Date: {}".format(dfPctChg["day1"].iloc[-1]["Date"].strftime("%d/%m/%Y"))])
 latestDate
-"#### 1-Day % Change"
-day1 = dfPctChg["day1"].set_index("Date").dropna()
-day1.columns = ["1-Day Percentage Change"]
-st.line_chart(day1)
+# "#### 1-Day % Change"
+# day1 = dfPctChg["day1"].set_index("Date").dropna()
+# day1.columns = ["1-Day Percentage Change"]
+# st.line_chart(day1)
 
-"#### 5-Day % Change"
-day5 = dfPctChg["day5"].set_index("Date").dropna()
-day5.columns = ["5-Day Percentage Change"]
-st.line_chart(day5)
+# "#### 5-Day % Change"
+# day5 = dfPctChg["day5"].set_index("Date").dropna()
+# day5.columns = ["5-Day Percentage Change"]
+# st.line_chart(day5)
 
-"#### 30-Day % Change"
-day30 = dfPctChg["day30"].set_index("Date").dropna()
-day30.columns = ["30-Day Percentage Change"]
-st.line_chart(day30)
+# "#### 30-Day % Change"
+# day30 = dfPctChg["day30"].set_index("Date").dropna()
+# day30.columns = ["30-Day Percentage Change"]
+# st.line_chart(day30)
 
 "#### 90-Day % Change"
 day90 = dfPctChg["day90"].set_index("Date").dropna()
